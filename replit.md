@@ -1,6 +1,6 @@
-# [Project name]
+# Biblioteca ECOE Medicina
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+Plataforma personal, en español, para preparar el ECOE de Medicina con una biblioteca académica pensada primero para estudiar e imprimir.
 
 ## Run & Operate
 
@@ -22,23 +22,32 @@ _Replace the heading above with the project's name, and this line with one sente
 
 ## Where things live
 
-_Populate as you build — short repo map plus pointers to the source-of-truth file for DB schema, API contracts, theme files, etc._
+- `artifacts/ecoe-medicina/src/data/curriculum.ts` — source of truth for the initial curriculum map, module states, bibliography frame, and print-library availability.
+- `artifacts/ecoe-medicina/src/` — web application.
+- `lib/api-spec/openapi.yaml` — shared API contract, when backend-backed features are introduced.
 
 ## Architecture decisions
 
-_Populate as you build — non-obvious choices a reader couldn't infer from the code (3-5 bullets)._
+- The first phase is a responsive web app; it is not a native mobile app.
+- Initial study-status changes are stored in the current browser. Do not expose one student's progress as shared server data.
+- Medical learning content must remain marked pending until course materials have been audited and references have been checked.
 
 ## Product
 
-_Describe the high-level user-facing capabilities of this app once they exist._
+- Four modules: Endocrinology and Neurology are mapped first; Pharmacology and Infectious Agents stay “Pendiente de material” until official course materials are supplied.
+- Physical study is a core requirement. Do not offer empty or unvalidated manuals, PDFs, flashcards, questions, clinical cases, or ECOE stations as finished resources.
+- The project specification and bibliography instructions do not count as course guides or evidence that a textbook was consulted.
 
 ## User preferences
 
-_Populate as you build — explicit user instructions worth remembering across sessions._
+- Keep the interface modern, clean, academic, and minimalist.
+- Prefer developing topics individually and with depth over generating superficial bulk content.
+- Do not invent professor-specific syllabi, medical facts, citations, editions, DOI values, doses, or diagnostic criteria.
 
 ## Gotchas
 
-_Populate as you build — sharp edges, "always run X before Y" rules._
+- Keep pending course materials and content-development status separate from a topic's study progress.
+- Label recommended bibliography as suggested until a source has actually been consulted and verified.
 
 ## Pointers
 

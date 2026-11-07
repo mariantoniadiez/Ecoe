@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Biblioteca ECOE Medicina"
+description = "Plataforma personal para preparar el ECOE de Medicina con una matriz de cobertura académica, módulos de estudio, práctica clínica y materiales pensados para imprimir."
+version = "1.0.0"
+id = "artifacts/ecoe-medicina"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21826
+
+[services.development]
+run = "pnpm --filter @workspace/ecoe-medicina run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ecoe-medicina", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/ecoe-medicina/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21826"
+BASE_PATH = "/"

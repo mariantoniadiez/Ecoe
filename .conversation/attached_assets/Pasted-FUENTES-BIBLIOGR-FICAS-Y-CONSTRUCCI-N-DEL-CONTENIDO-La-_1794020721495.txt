@@ -1,0 +1,44 @@
+FUENTES BIBLIOGRÁFICAS Y CONSTRUCCIÓN DEL CONTENIDO
+
+La fuente principal para desarrollar los contenidos académicos deben ser los libros clásicos y textos de referencia reconocidos en medicina. No dependas exclusivamente de presentaciones de clase ni de resúmenes de internet.
+
+Utiliza, según corresponda, textos de referencia como:
+
+Medicina interna y endocrinología
+
+* Harrison. Principios de Medicina Interna.
+* Williams Textbook of Endocrinology.
+* Williams Manual of Endocrinology.
+* Greenspan’s Basic & Clinical Endocrinology.
+
+Neurología
+
+* Adams and Victor’s Principles of Neurology.
+* Bradley’s Neurology in Clinical Practice.
+* Merritt’s Neurology.
+* DeJong’s The Neurologic Examination.
+
+Farmacología
+
+* Goodman & Gilman’s The Pharmacological Basis of Therapeutics.
+* Katzung. Basic & Clinical Pharmacology.
+* Rang & Dale’s Pharmacology.
+
+Microbiología y enfermedades infecciosas
+
+* Murray. Medical Microbiology.
+* Jawetz, Melnick & Adelberg’s Medical Microbiology.
+* Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases.
+
+Reglas de consulta
+
+1. Prioriza libros de referencia reconocidos y utiliza ediciones recientes disponibles.
+2. Complementa con guías clínicas oficiales, consensos y artículos científicos de alta calidad cuando sea necesario actualizar recomendaciones.
+3. Verifica especialmente dosis, contraindicaciones, criterios diagnósticos y tratamientos.
+4. No inventes referencias bibliográficas, ediciones, autores, páginas ni DOI.
+5. Identifica las fuentes utilizadas al final de cada tema.
+6. Diferencia los conocimientos clásicos de las recomendaciones clínicas actualizadas cuando existan diferencias.
+7. Redacta contenido original, completo y pedagógico. No copies capítulos completos de libros protegidos por derechos de autor.
+8. Si no puedes consultar directamente un libro, no afirmes que lo consultaste: utiliza fuentes accesibles y verificables.
+
+Objetivo: construir una biblioteca de estudio médica rigurosa, completa y clínicamente aplicable, con profundidad suficiente para preparar un ECOE universitario, no una colección superficial de resúmenes.
