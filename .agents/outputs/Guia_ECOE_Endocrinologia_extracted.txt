@@ -1,0 +1,2254 @@
+
+
+===== PAGE 1 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 1
+Guía ECOE - Módulo I: Endocrinología
+Universidad EIA - Medicina | Versión núcleo para estudio y procesamiento en Replit
+Índice de temas
+ID
+Tema
+M1-T01
+Hipotiroidismo
+M1-T02
+Hipertiroidismo
+M1-T03
+Enfermedad de Addison
+M1-T04
+Síndrome de Cushing
+M1-T05
+Hiperaldosteronismo primario
+M1-T06
+Panhipopituitarismo
+M1-T07
+Páncreas endocrino
+M1-T08
+Semiología endocrinológica
+M1-T09
+Diabetes mellitus
+M1-T10
+Obesidad
+M1-T11
+Alteraciones del calcio y fosfato
+M1-T12
+Farmacología endocrina
+Convenciones para procesamiento automático: cada bloque lleva una etiqueta en texto monoespaciado gris con el
+formato [TIPO] ID-tema | detalle. Tipos: [TEMA], [SECCIÓN], [TABLA], [ALGORITMO], [CASO], [SOLUCIÓN],
+[PREGUNTA], [RESPUESTA], [FLASHCARD], [ESTACIÓN], [METADATOS]. Las soluciones y respuestas van separadas
+del enunciado.
+[TEMA] M1-T01 | Hipotiroidismo
+M1-T01. Hipotiroidismo
+[SECCIÓN] M1-T01 | A. Fundamentos
+A. Fundamentos
+Definición: déficit de acción de las hormonas tiroideas (T4 y T3) en los tejidos. Epidemiología: más frecuente en
+mujeres y aumenta con la edad; la causa más común en zonas con yodo suficiente es la tiroiditis de Hashimoto.
+• Primario (95%): Hashimoto (anticuerpos anti-TPO), postablativo (cirugía o yodo radiactivo), déficit de yodo, fármacos
+(amiodarona, litio, antitiroideos, inhibidores de puntos de control).
+• Central (secundario o terciario): lesión hipofisaria o hipotalámica; la TSH es baja o inapropiadamente normal.
+• Factores de riesgo: sexo femenino, edad, enfermedad autoinmune previa (diabetes tipo 1, vitiligo), radioterapia de
+cuello, posparto.
+Fisiología normal: el hipotálamo secreta TRH, la hipófisis TSH, y la tiroides T4 (principal) y T3 (activa, formada por
+desyodación periférica). T3 y T4 libres frenan TSH (retroalimentación negativa).
+Fisiopatología paso a paso: menos hormona tiroidea reduce el metabolismo basal y la termogénesis (intolerancia al frío,
+hipotermia); se acumulan glucosaminoglucanos hidrofílicos en piel y tejidos (mixedema, edema que no deja fóvea);
+
+
+===== PAGE 2 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 2
+disminuye el recambio de receptores de LDL (hipercolesterolemia); hay bradicardia y menor gasto cardiaco; se enlentece
+la relajación muscular (reflejo aquíleo lento). En el primario, la pérdida de retroalimentación eleva la TSH, que puede
+producir bocio.
+[SECCIÓN] M1-T01 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Frecuentes: fatiga, intolerancia al frío, aumento leve de peso, estreñimiento, piel seca y fría, caída de cabello, voz
+ronca, bradicardia, menorragia, depresión, mialgias, bradipsiquia.
+• Signos: relajación lenta del reflejo aquíleo, edema periorbitario, macroglosia, bocio (Hashimoto), derrame pericárdico o
+pleural.
+• Atípicas: ancianos con síntomas mínimos o deterioro cognitivo; en niños, retardo del crecimiento.
+• Gravedad (banderas rojas): hipotermia, alteración del estado de conciencia, bradicardia importante, hipoventilación,
+hiponatremia, derrame pericárdico con taponamiento.
+• Complicaciones: dislipidemia, enfermedad cardiovascular, infertilidad, coma mixedematoso (urgencia, mortalidad
+alta; precipitado por infección, frío, cirugía, sedantes).
+[SECCIÓN] M1-T01 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis dirigida: tiempo de evolución, tolerancia al frío, peso, hábito intestinal, estado de ánimo, ciclo menstrual,
+antecedente de cirugía o yodo radiactivo, fármacos (amiodarona, litio), antecedentes familiares, embarazo reciente.
+Examen físico: signos vitales (FC, temperatura), piel y fanera, voz, edema facial, palpación tiroidea (de pie, desde atrás,
+con deglución: tamaño, consistencia, nódulos), reflejos osteotendinosos (fase de relajación), auscultación cardiaca y
+pulmonar.
+Ejemplo de documentación: "Paciente femenina, 42 años, astenia y estreñimiento hace 6 meses. FC 54 lpm, piel seca,
+tiroides aumentada de tamaño, firme, sin nódulos, reflejo aquíleo con relajación lenta."
+No pasar por alto en ECOE: preguntar por embarazo, fármacos y antecedente de cirugía cervical; palpar la tiroides y
+explorar el reflejo aquíleo.
+[SECCIÓN] M1-T01 | D. Diagnóstico
+D. Diagnóstico
+• Prueba inicial: TSH; si está elevada, medir T4 libre. TSH alta con T4 libre baja: hipotiroidismo primario manifiesto. TSH
+alta con T4 libre normal: subclínico (repetir en 2 a 3 meses antes de decidir).
+• Anti-TPO: confirma etiología autoinmune. Ecografía solo si hay nódulo o bocio asimétrico.
+• Central: T4 libre baja con TSH baja o normal; evaluar otros ejes hipofisarios y RM de hipófisis.
+• Hallazgos asociados: hipercolesterolemia, hiponatremia, anemia, CK elevada.
+• Diferenciales: depresión, anemia, apnea del sueño, síndrome nefrótico, síndrome del enfermo eutiroideo (TSH baja o
+normal con T3 baja en enfermedad aguda grave).
+• Valores de referencia de TSH varían según laboratorio (comúnmente alrededor de 0,4 a 4,0 mUI/L); usar el rango del
+laboratorio.
+[SECCIÓN] M1-T01 | E. Tratamiento
+E. Tratamiento
+• Levotiroxina oral, dosis completa aproximada de 1,6 mcg/kg/día en adultos jóvenes sanos; en ancianos o con
+enfermedad coronaria iniciar con 12,5 a 25 mcg/día y subir lentamente.
+• Tomar en ayunas, 30 a 60 minutos antes del desayuno; separar al menos 4 horas de calcio, hierro y antiácidos.
+• Control de TSH 6 a 8 semanas después de cada ajuste; objetivo TSH dentro del rango normal. En central se ajusta por
+T4 libre, no por TSH.
+• Embarazo: aumentar la dosis (aproximadamente 25 a 30%) al confirmar la gestación y controlar TSH con frecuencia.
+• Subclínico: considerar tratar si TSH mayor de 10 mUI/L, síntomas, anti-TPO positivo, bocio, embarazo o deseo de
+embarazo.
+• Coma mixedematoso: UCI, levotiroxina intravenosa, hidrocortisona intravenosa (por posible insuficiencia suprarrenal
+asociada), soporte ventilatorio, recalentamiento pasivo, tratar el precipitante.
+
+
+===== PAGE 3 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 3
+• Si coexiste insuficiencia suprarrenal, dar glucocorticoide antes de levotiroxina (puede precipitar crisis adrenal).
+• Sobretratamiento: fibrilación auricular, osteoporosis.
+[SECCIÓN] M1-T01 | F. Razonamiento clínico
+F. Razonamiento clínico
+Ante fatiga y aumento de peso, pedir TSH temprano. Prioridad: Hashimoto, hipotiroidismo posquirúrgico o por fármacos.
+El antecedente de cirugía de cuello, amiodarona o litio cambia la probabilidad. Si TSH está normal o baja con T4 libre
+baja, pensar en causa central o enfermedad no tiroidea. Errores frecuentes: tratar un TSH levemente elevado aislado sin
+repetirlo; ajustar dosis a las 2 semanas (la vida media de T4 es de 7 días); olvidar descartar insuficiencia suprarrenal
+antes de iniciar levotiroxina en causa central.
+[SECCIÓN] M1-T01 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Objetivos y competencias: reconocer el cuadro, orientar el estudio, explicar el tratamiento.
+Entradilla posible: "Mujer de 40 años consulta por cansancio, estreñimiento y aumento de peso."
+Debe hacer: saludo, identificación, anamnesis dirigida (síntomas, cirugía, fármacos, embarazo), examen (FC, tiroides,
+reflejos, piel), solicitar TSH y T4 libre, explicar diagnóstico probable, iniciar levotiroxina y programar control en 6 a 8
+semanas, resolver dudas.
+Errores críticos: no preguntar por embarazo; iniciar tratamiento sin pedir TSH; no explicar cómo tomar la levotiroxina;
+ignorar signos de coma mixedematoso.
+[ESTACIÓN] M1-T01 | Hipotiroidismo (7 minutos)
+Estación ECOE: Hipotiroidismo (7 minutos)
+• Instrucción al estudiante: anamnesis dirigida, examen físico, plan inicial y explicación a la paciente.
+• Información de la paciente (solo si pregunta): cansancio, frío, estreñimiento hace 6 meses, menstruaciones
+abundantes, madre con enfermedad tiroidea, sin fármacos, quiere embarazo en un año.
+• Hallazgos: FC 54, tiroides firme sin nódulos, reflejo aquíleo lento.
+• Laboratorio si lo solicita: TSH 18 mUI/L, T4 libre baja, anti-TPO positivo.
+• Diagnóstico esperado: hipotiroidismo primario por Hashimoto. Conducta: levotiroxina, control de TSH en 6 a 8
+semanas, optimizar antes del embarazo.
+• Rúbrica: anamnesis (25%), examen físico (25%), interpretación y plan (30%), comunicación (20%).
+• Errores críticos: omitir el deseo de embarazo y el momento de toma del medicamento.
+Tabla comparativa y algoritmo
+[TABLA] M1-T01 | Hipotiroidismo vs. hipertiroidismo
+Hipotiroidismo vs. hipertiroidismo
+Rasgo
+Hipotiroidismo
+Hipertiroidismo
+Temperatura
+Intolerancia al frío
+Intolerancia al calor
+Peso
+Aumento leve
+Pérdida a pesar de buen apetito
+Frecuencia cardiaca
+Bradicardia
+Taquicardia, fibrilación auricular
+Intestino
+Estreñimiento
+Diarrea o deposiciones frecuentes
+Piel
+Seca, fría
+Caliente, húmeda
+Reflejos
+Relajación lenta
+Hiperreflexia
+TSH típica (primario)
+Alta
+Baja
+[ALGORITMO] M1-T01 | Abordaje del hipotiroidismo
+Algoritmo: Abordaje del hipotiroidismo
+1. Sospecha clínica: pedir TSH.
+2. TSH alta: medir T4 libre. T4 libre baja: hipotiroidismo primario. T4 libre normal: subclínico, repetir en 2 a 3 meses.
+3. TSH baja o normal con T4 libre baja: causa central, evaluar otros ejes y RM de hipófisis.
+4. Primario: anti-TPO, iniciar levotiroxina, control en 6 a 8 semanas.
+5. Alarma (hipotermia, alteración de conciencia): manejo de coma mixedematoso en UCI.
+[SECCIÓN] M1-T01 | H. Repaso de alto rendimiento
+
+
+===== PAGE 4 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 4
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) TSH alta y T4 libre baja es primario; (2) la causa más común es Hashimoto;
+(3) levotiroxina en ayunas, control en 6 a 8 semanas; (4) en central se ajusta por T4 libre; (5) coma mixedematoso:
+levotiroxina IV más hidrocortisona.
+Preguntas que haría un docente: diferencia entre primario y central; por qué se separa la levotiroxina del calcio; cuándo
+tratar el subclínico; cómo cambia la dosis en el embarazo.
+[CASO] M1-T01 | CASO-1
+Caso clínico 1: Mujer de 45 años con cansancio
+Mujer de 45 años consulta por 8 meses de cansancio, aumento de 5 kg, estreñimiento y piel seca. FC 56 lpm, tiroides
+aumentada de tamaño, firme. TSH 22 mUI/L, T4 libre baja, colesterol LDL elevado. Preguntas: diagnóstico, estudio de la
+causa y manejo.
+[SOLUCIÓN] M1-T01 | CASO-1
+Diagnóstico: hipotiroidismo primario, probablemente Hashimoto. TSH elevada con T4 libre baja confirma el diagnóstico; el
+bocio firme orienta a origen autoinmune, que se confirma con anti-TPO. La dislipidemia es secundaria (menor expresión
+de receptores de LDL). Manejo: levotiroxina (alrededor de 1,6 mcg/kg/día si no hay enfermedad cardiaca), tomada en
+ayunas, TSH a las 6 a 8 semanas, reevaluar lípidos con eutiroidismo. Diferenciales: depresión, anemia, apnea del sueño.
+[PREGUNTA] M1-T01 | P1
+1. Mujer de 70 años con enfermedad coronaria y TSH de 15 mUI/L con T4 libre baja. ¿Cuál es la conducta inicial más
+adecuada?
+a) Levotiroxina a dosis completa de 1,6 mcg/kg/día
+b) Levotiroxina a dosis baja (12,5 a 25 mcg/día) con ascenso lento
+c) Solo observación y repetir en un año
+d) Antitiroideos por exceso de TSH
+[RESPUESTA] M1-T01 | P1
+Respuesta correcta: b
+Explicación: En ancianos o con cardiopatía isquémica, la dosis completa puede precipitar isquemia o arritmias, por lo
+que se inicia con dosis baja y se sube lentamente. La opción a es la dosis del adulto joven sano; c deja sin tratar un
+hipotiroidismo manifiesto; d no tiene sentido porque los antitiroideos tratan hipertiroidismo.
+[PREGUNTA] M1-T01 | P2
+2. En un paciente con panhipopituitarismo e hipotiroidismo central, ¿cómo se ajusta la levotiroxina?
+a) Según el valor de TSH
+b) Según T4 libre
+c) Según anticuerpos anti-TPO
+d) Según el colesterol
+[RESPUESTA] M1-T01 | P2
+Respuesta correcta: b
+Explicación: En causa central la TSH no es confiable porque la hipófisis no responde; se usa T4 libre. TPO y colesterol
+no sirven para titular la dosis.
+[PREGUNTA] M1-T01 | P3
+3. Paciente con hipotiroidismo e hiponatremia, hipotermia y somnolencia tras una neumonía. ¿Qué es lo más importante
+en el manejo?
+a) Levotiroxina oral y alta
+b) Levotiroxina IV más hidrocortisona IV en UCI
+c) Solo hidrocortisona
+d) Yodo radiactivo
+[RESPUESTA] M1-T01 | P3
+Respuesta correcta: b
+Explicación: Es coma mixedematoso. Se da hormona tiroidea intravenosa y glucocorticoide por posible insuficiencia
+suprarrenal asociada, con soporte y tratamiento de la infección. La vía oral es poco confiable por mala absorción
+intestinal; el yodo radiactivo no tiene papel.
+
+
+===== PAGE 5 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 5
+[PREGUNTA] M1-T01 | P4
+4. ¿Cuál es la causa más frecuente de hipotiroidismo primario en zonas con yodo suficiente?
+a) Tiroiditis de Hashimoto
+b) Tiroiditis subaguda
+c) Cáncer de tiroides
+d) Amiodarona
+[RESPUESTA] M1-T01 | P4
+Respuesta correcta: a
+Explicación: Hashimoto es autoinmune (anti-TPO). La subaguda suele ser transitoria; el cáncer rara vez causa
+hipotiroidismo; la amiodarona es causa posible pero menos frecuente.
+[FLASHCARD] M1-T01 | F1
+P: ¿Qué patrón de TSH y T4 libre define el hipotiroidismo primario?
+R: TSH alta con T4 libre baja.
+[FLASHCARD] M1-T01 | F2
+P: ¿Cuándo se mide el control de TSH tras cambiar levotiroxina?
+R: A las 6 a 8 semanas.
+[FLASHCARD] M1-T01 | F3
+P: ¿Con qué se separa la levotiroxina?
+R: Calcio, hierro y antiácidos, al menos 4 horas.
+[FLASHCARD] M1-T01 | F4
+P: ¿Qué se da junto con levotiroxina en coma mixedematoso?
+R: Hidrocortisona intravenosa.
+[FLASHCARD] M1-T01 | F5
+P: ¿Cómo se titula en hipotiroidismo central?
+R: Por T4 libre, no por TSH.
+[FLASHCARD] M1-T01 | F6
+P: ¿Qué signo del examen refleja la relajación lenta?
+R: Reflejo aquíleo con fase de relajación enlentecida.
+[METADATOS] M1-T01
+Metadatos
+Módulo: Endocrinología | Tema: Hipotiroidismo
+Conceptos clave: TSH, T4 libre, Hashimoto, mixedema, levotiroxina
+Diagnósticos relacionados: hipotiroidismo central, subclínico, coma mixedematoso
+Medicamentos: levotiroxina, hidrocortisona
+Pruebas: TSH, T4 libre, anti-TPO, lípidos
+Dificultad: intermedia
+Fuentes: Harrison, Williams Textbook of Endocrinology, guías ATA de hipotiroidismo (verificar edición vigente)
+
+
+===== PAGE 6 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 6
+[TEMA] M1-T02 | Hipertiroidismo
+M1-T02. Hipertiroidismo
+[SECCIÓN] M1-T02 | A. Fundamentos
+A. Fundamentos
+Definición: exceso de hormonas tiroideas circulantes con acción tisular aumentada (tirotoxicosis con hiperfunción
+glandular).
+Etiología: enfermedad de Graves (autoanticuerpos estimulantes del receptor de TSH; la más común), bocio multinodular
+tóxico, adenoma tóxico, tiroiditis (subaguda, posparto, indolora; son tirotoxicosis sin hiperproducción), inducido por yodo o
+amiodarona, TSH-oma (raro), hCG en embarazo.
+Epidemiología: predominio femenino; Graves común entre 20 y 50 años.
+Fisiopatología: el exceso de T3 y T4 aumenta el consumo de oxígeno y la sensibilidad a catecolaminas (más receptores
+beta-adrenérgicos): taquicardia, temblor, sudoración, pérdida de peso. En Graves, los anticuerpos estimulan el receptor
+de TSH (bocio difuso) y hay reacción autoinmune contra fibroblastos orbitarios y dérmicos (oftalmopatía y mixedema
+pretibial).
+[SECCIÓN] M1-T02 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Pérdida de peso con apetito conservado, palpitaciones, intolerancia al calor, sudoración, ansiedad, temblor fino,
+diarrea, oligomenorrea, debilidad proximal.
+• Signos: taquicardia o fibrilación auricular, hiperreflexia, piel húmeda, retracción palpebral, bocio.
+• Específico de Graves: oftalmopatía (exoftalmos), mixedema pretibial, acropaquia, bocio difuso con soplo.
+• Ancianos: presentación apática (hipertiroidismo apático), fibrilación auricular, insuficiencia cardiaca.
+• Gravedad: tormenta tiroidea (fiebre alta, taquicardia importante, agitación o coma, vómito, diarrea, falla cardiaca),
+precipitada por infección, cirugía o suspensión de antitiroideos.
+[SECCIÓN] M1-T02 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: peso, calor, palpitaciones, deposiciones, sueño, ánimo, menstruación, síntomas oculares, yodo (contrastes,
+amiodarona), embarazo, antecedentes familiares, tabaquismo (empeora oftalmopatía).
+Examen: FC y ritmo, temblor de manos extendidas, piel, reflejos, ojos (exoftalmos, retracción palpebral, lid lag,
+movimientos oculares), tiroides (tamaño, consistencia, soplo o frémito, nódulos), mixedema pretibial.
+Documentación: "FC 112 lpm, temblor fino, bocio difuso con soplo, exoftalmos bilateral."
+[SECCIÓN] M1-T02 | D. Diagnóstico
+D. Diagnóstico
+• Prueba inicial: TSH baja. Confirmar con T4 libre y T3 libre elevadas (T3 sola puede estar elevada en tirotoxicosis por
+T3).
+• TSH baja con T4 libre normal y T3 normal: hipertiroidismo subclínico.
+• Etiología: anticuerpos anti-receptor de TSH (TRAb); captación de yodo radiactivo (alta difusa en Graves, nodular en
+bocio tóxico, baja en tiroiditis). Ecografía con Doppler.
+• Diferenciales: ansiedad, feocromocitoma, tirotoxicosis facticia, tiroiditis, hipertiroidismo por yodo.
+[SECCIÓN] M1-T02 | E. Tratamiento
+E. Tratamiento
+• Beta-bloqueador (propranolol) para controlar síntomas adrenérgicos.
+• Antitiroideos: metimazol de primera línea (propiltiouracilo en primer trimestre del embarazo y en tormenta tiroidea).
+Efecto adverso grave: agranulocitosis (fiebre y dolor de garganta obligan a suspender y hacer hemograma); PTU,
+hepatotoxicidad.
+• Definitivo: yodo radiactivo (contraindicado en embarazo y lactancia; cuidado con oftalmopatía activa) o tiroidectomía.
+Tras el tratamiento definitivo, hipotiroidismo y levotiroxina.
+
+
+===== PAGE 7 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 7
+• Tormenta tiroidea: UCI, beta-bloqueador, PTU o metimazol, yoduro (después del antitiroideo), glucocorticoides,
+soporte y tratamiento del desencadenante.
+• Oftalmopatía: no fumar, lágrimas artificiales, remisión a oftalmología; mantener eutiroidismo.
+[SECCIÓN] M1-T02 | F. Razonamiento clínico
+F. Razonamiento clínico
+Taquicardia con pérdida de peso: pedir TSH. Bocio difuso con oftalmopatía orienta a Graves; bocio nodular en anciano
+orienta a bocio tóxico; dolor cervical con fiebre y VSG alta orienta a tiroiditis subaguda (se trata sintomáticamente, no con
+antitiroideos). Errores frecuentes: dar yodo radiactivo en embarazo; olvidar el hemograma si el paciente con metimazol
+tiene fiebre; dar yoduro antes del antitiroideo.
+[SECCIÓN] M1-T02 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 32 años con palpitaciones, pérdida de peso y nerviosismo."
+Debe hacer: anamnesis dirigida (incluye embarazo y anticoncepción), signos vitales, temblor, ojos, tiroides, reflejos; pedir
+TSH y T4 libre; explicar y plantear beta-bloqueador y antitiroideo; advertir síntomas de agranulocitosis.
+Errores críticos: no preguntar por embarazo; no reconocer signos de tormenta tiroidea; olvidar advertir sobre fiebre y
+dolor de garganta con antitiroideos.
+[ESTACIÓN] M1-T02 | Hipertiroidismo (7 minutos)
+Estación ECOE: Hipertiroidismo (7 minutos)
+• Instrucción: anamnesis y examen focalizado; plan inicial.
+• Paciente (si pregunta): 4 kg menos en 2 meses, palpitaciones, calor, deposiciones frecuentes, sin embarazo, usa
+anticonceptivo.
+• Hallazgos: FC 112, temblor fino, bocio difuso con soplo, exoftalmos.
+• Laboratorio: TSH suprimida, T4 libre alta, TRAb positivo.
+• Diagnóstico esperado: enfermedad de Graves. Conducta: propranolol, metimazol, control, explicar riesgo de
+agranulocitosis.
+• Rúbrica: anamnesis 25%, examen 25%, plan 30%, comunicación 20%.
+Tabla comparativa y algoritmo
+[TABLA] M1-T02 | Causas de tirotoxicosis
+Causas de tirotoxicosis
+Causa
+Captación de yodo
+Rasgo clave
+Graves
+Alta, difusa
+Oftalmopatía, bocio difuso, TRAb
+Bocio multinodular tóxico
+Alta, irregular
+Anciano, nódulos
+Adenoma tóxico
+Alta, focal
+Nódulo único
+Tiroiditis subaguda
+Baja
+Dolor cervical, fiebre, VSG alta
+Tirotoxicosis facticia
+Baja
+Ingesta de hormona, tiroglobulina baja
+[ALGORITMO] M1-T02 | Abordaje del hipertiroidismo
+Algoritmo: Abordaje del hipertiroidismo
+1. Sospecha clínica: TSH.
+2. TSH baja: T4 libre y T3 libre elevadas confirman hipertiroidismo.
+3. Etiología: TRAb o captación de yodo.
+4. Alta captación: Graves o nodular, tratar con beta-bloqueador más antitiroideo y decidir tratamiento definitivo.
+5. Baja captación: tiroiditis o hormona exógena, manejo sintomático.
+6. Fiebre, agitación, taquicardia grave: tormenta tiroidea, UCI.
+[SECCIÓN] M1-T02 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) TSH baja con T4 libre alta; (2) Graves: oftalmopatía y bocio difuso, TRAb; (3)
+beta-bloqueador y metimazol; (4) agranulocitosis: fiebre y dolor de garganta; (5) PTU en primer trimestre y tormenta, yodo
+
+
+===== PAGE 8 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 8
+radiactivo prohibido en embarazo.
+[CASO] M1-T02 | CASO-1
+Caso clínico 1: Mujer de 30 años con palpitaciones
+Mujer de 30 años, 3 meses de palpitaciones, pérdida de 5 kg, sudoración y diarrea. FC 118, temblor, bocio difuso con
+soplo, exoftalmos. TSH indetectable, T4 libre elevada. Preguntas: diagnóstico, estudio y manejo.
+[SOLUCIÓN] M1-T02 | CASO-1
+Graves: tirotoxicosis con bocio difuso y oftalmopatía. Confirmar con TRAb o captación (alta y difusa). Tratar con
+propranolol y metimazol (confirmar embarazo negativo), advertir agranulocitosis, controlar T4 libre, valorar tratamiento
+definitivo y oftalmología. Diferenciales: tiroiditis, facticia, ansiedad.
+[PREGUNTA] M1-T02 | P1
+1. Mujer de 28 años con Graves y embarazo de 7 semanas. ¿Qué antitiroideo se prefiere en el primer trimestre?
+a) Metimazol
+b) Propiltiouracilo
+c) Yodo radiactivo
+d) Amiodarona
+[RESPUESTA] M1-T02 | P1
+Respuesta correcta: b
+Explicación: El metimazol se asocia a malformaciones en organogénesis, por eso se prefiere PTU en el primer trimestre.
+El yodo radiactivo está contraindicado en embarazo; la amiodarona puede causar disfunción tiroidea.
+[PREGUNTA] M1-T02 | P2
+2. Paciente con metimazol consulta por fiebre y dolor de garganta. ¿Qué se debe hacer?
+a) Continuar y dar antipirético
+b) Suspender el medicamento y solicitar hemograma urgente
+c) Aumentar la dosis
+d) Cambiar a yodo oral
+[RESPUESTA] M1-T02 | P2
+Respuesta correcta: b
+Explicación: Sospecha de agranulocitosis, efecto adverso grave. Continuar o aumentar la dosis es peligroso; el yodo no
+corresponde.
+[PREGUNTA] M1-T02 | P3
+3. Hombre de 35 años con dolor cervical anterior, fiebre, VSG alta, TSH baja y captación de yodo muy baja.
+¿Diagnóstico?
+a) Graves
+b) Tiroiditis subaguda
+c) Adenoma tóxico
+d) Bocio multinodular tóxico
+[RESPUESTA] M1-T02 | P3
+Respuesta correcta: b
+Explicación: Dolor, fiebre y baja captación indican tiroiditis subaguda (liberación de hormona preformada). Las otras
+entidades tienen captación alta.
+[PREGUNTA] M1-T02 | P4
+4. ¿Qué hallazgo es específico de la enfermedad de Graves?
+a) Taquicardia
+b) Temblor
+c) Mixedema pretibial
+d) Diarrea
+[RESPUESTA] M1-T02 | P4
+Respuesta correcta: c
+Explicación: El mixedema pretibial y la oftalmopatía son específicos de Graves; los demás ocurren en cualquier
+tirotoxicosis.
+
+
+===== PAGE 9 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 9
+[FLASHCARD] M1-T02 | F1
+P: ¿Antitiroideo preferido en primer trimestre?
+R: Propiltiouracilo.
+[FLASHCARD] M1-T02 | F2
+P: ¿Efecto adverso grave del metimazol?
+R: Agranulocitosis.
+[FLASHCARD] M1-T02 | F3
+P: ¿Captación de yodo en tiroiditis subaguda?
+R: Baja.
+[FLASHCARD] M1-T02 | F4
+P: ¿Autoanticuerpo de Graves?
+R: Anticuerpo estimulante del receptor de TSH (TRAb).
+[FLASHCARD] M1-T02 | F5
+P: ¿Fármaco para controlar los síntomas adrenérgicos?
+R: Propranolol.
+[FLASHCARD] M1-T02 | F6
+P: ¿Qué precipita la tormenta tiroidea?
+R: Infección, cirugía, suspensión de antitiroideos.
+[METADATOS] M1-T02
+Metadatos
+Módulo: Endocrinología | Tema: Hipertiroidismo
+Conceptos clave: TSH suprimida, Graves, TRAb, tormenta tiroidea
+Diagnósticos relacionados: tiroiditis, bocio tóxico, facticia
+Medicamentos: metimazol, propiltiouracilo, propranolol, yodo radiactivo
+Pruebas: TSH, T4 libre, T3 libre, TRAb, captación
+Dificultad: intermedia
+Fuentes: Harrison, Williams, guías ATA de hipertiroidismo (verificar edición vigente)
+
+
+===== PAGE 10 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 10
+[TEMA] M1-T03 | Enfermedad de Addison
+M1-T03. Enfermedad de Addison
+[SECCIÓN] M1-T03 | A. Fundamentos
+A. Fundamentos
+Definición: insuficiencia suprarrenal primaria: destrucción de la corteza suprarrenal con déficit de cortisol y aldosterona (y
+andrógenos). Etiología: adrenalitis autoinmune (la más frecuente en países desarrollados), tuberculosis (importante en
+regiones endémicas), hemorragia suprarrenal (Waterhouse-Friderichsen), metástasis, VIH, fármacos (ketoconazol).
+Contraste: la insuficiencia secundaria (déficit de ACTH, o suspensión de glucocorticoides crónicos, la causa más común
+global) conserva aldosterona.
+Fisiología: CRH hipotalámica estimula ACTH hipofisaria, que estimula cortisol (zona fascicular) y andrógenos (reticular);
+la aldosterona (glomerular) depende del sistema renina-angiotensina y no de ACTH.
+Fisiopatología: sin cortisol: hipotensión, hipoglucemia, astenia, náuseas; sin retroalimentación negativa, ACTH y
+precursores (POMC, que incluye MSH) aumentan: hiperpigmentación (solo en primaria). Sin aldosterona: pérdida de
+sodio y retención de potasio e hidrogeniones: hiponatremia, hiperpotasemia, acidosis leve, hipovolemia.
+[SECCIÓN] M1-T03 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Astenia progresiva, anorexia, pérdida de peso, náuseas, dolor abdominal, hipotensión ortostática, deseo de sal,
+hipoglucemia, hiperpigmentación (pliegues, cicatrices, mucosa oral), pérdida de vello axilar y pubiano en mujeres.
+• Laboratorio: hiponatremia, hiperpotasemia, hipoglucemia, eosinofilia, anemia leve.
+• Crisis adrenal: hipotensión o choque, vómito, dolor abdominal, fiebre, confusión; precipitada por infección, cirugía o
+suspensión de glucocorticoides.
+[SECCIÓN] M1-T03 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: curso, apetito, deseo de sal, mareo al pararse, uso previo de corticoides (vías oral, inhalada, tópica,
+infiltraciones), tuberculosis, enfermedades autoinmunes. Examen: presión arterial acostado y de pie, pigmentación
+(pliegues palmares, encías), vello axilar, estado de hidratación, abdomen.
+[SECCIÓN] M1-T03 | D. Diagnóstico
+D. Diagnóstico
+• Cortisol sérico matutino bajo (por ejemplo menor de 3 mcg/dL es muy sugestivo; mayor de 15 mcg/dL lo descarta en
+general; los puntos de corte varían según ensayo).
+• Prueba de estimulación con ACTH sintética (cosintropina): cortisol insuficiente a los 30 o 60 minutos confirma.
+ACTH basal alta indica primaria; baja o normal, secundaria.
+• Renina alta y aldosterona baja en primaria. Anticuerpos anti-21-hidroxilasa para autoinmune; TC suprarrenal si se
+sospecha otra causa (tuberculosis, hemorragia).
+• En emergencia no se espera la prueba: se trata primero.
+[SECCIÓN] M1-T03 | E. Tratamiento
+E. Tratamiento
+• Crisis: hidrocortisona 100 mg intravenosa en bolo, líquidos (solución salina isotónica con dextrosa si hay
+hipoglucemia), tratar el desencadenante; luego hidrocortisona de mantenimiento.
+• Crónico: hidrocortisona oral en 2 a 3 dosis diarias (mayor en la mañana) más fludrocortisona en primaria.
+• Educación: aumentar la dosis (reglas de enfermedad) en fiebre o estrés; llevar tarjeta o brazalete; kit de hidrocortisona
+inyectable.
+• Monitorizar por clínica, presión arterial, sodio y potasio; evitar sobretratamiento (síndrome de Cushing iatrogénico).
+[SECCIÓN] M1-T03 | F. Razonamiento clínico
+F. Razonamiento clínico
+
+
+===== PAGE 11 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 11
+Hiponatremia con hiperpotasemia e hipotensión en paciente con astenia y pigmentación apunta a primaria; sin
+hiperpotasemia ni pigmentación, pensar en secundaria. Errores: retrasar el glucocorticoide por esperar pruebas en una
+crisis; olvidar aumentar la dosis en estrés; empezar levotiroxina antes del glucocorticoide.
+[SECCIÓN] M1-T03 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 35 años con cansancio, pérdida de peso y mareo al pararse." Debe hacer: TA acostada y de pie,
+buscar pigmentación, preguntar por corticoides y deseo de sal, pedir sodio, potasio, glucosa, cortisol y ACTH, explicar.
+Errores críticos: no reconocer una crisis adrenal; no administrar hidrocortisona; olvidar educar sobre aumento de dosis
+en enfermedad.
+[ESTACIÓN] M1-T03 | Insuficiencia suprarrenal primaria (7 minutos)
+Estación ECOE: Insuficiencia suprarrenal primaria (7 minutos)
+• Paciente: cansancio de 6 meses, mareo al ponerse de pie, náuseas, desea comer sal, hiperpigmentación.
+• Hallazgos: TA 90/55 acostada, 75/45 de pie; pigmentación en pliegues.
+• Laboratorio: Na 128, K 5,9, glucosa 62; cortisol bajo, ACTH alto.
+• Diagnóstico: enfermedad de Addison. Conducta: hidrocortisona más fludrocortisona, educación.
+• Rúbrica: anamnesis 25%, examen 25%, plan 30%, comunicación 20%.
+Tabla y algoritmo
+[TABLA] M1-T03 | Addison vs. Cushing
+Addison vs. Cushing
+Rasgo
+Addison
+Cushing
+Cortisol
+Bajo
+Alto
+Peso
+Pérdida
+Ganancia central
+Presión arterial
+Baja
+Alta
+Piel
+Hiperpigmentación (primaria)
+Estrías violáceas, equimosis
+Potasio
+Alto (primaria)
+Bajo (si hay exceso de mineralocorticoide)
+Glucosa
+Baja
+Alta
+[ALGORITMO] M1-T03 | Sospecha de insuficiencia suprarrenal
+Algoritmo: Sospecha de insuficiencia suprarrenal
+1. Inestabilidad hemodinámica: hidrocortisona IV y líquidos sin esperar pruebas.
+2. Estable: cortisol matutino y ACTH.
+3. Cortisol dudoso: prueba de estimulación con ACTH.
+4. ACTH alta: primaria (renina, anticuerpos, imagen); ACTH baja: secundaria (estudio hipofisario, antecedente de
+corticoides).
+5. Tratamiento sustitutivo y educación.
+[SECCIÓN] M1-T03 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) primaria: hiperpigmentación, hiperpotasemia, hiponatremia; (2) ACTH alto en
+primaria; (3) crisis: hidrocortisona 100 mg IV sin esperar pruebas; (4) fludrocortisona solo en primaria; (5) aumentar la
+dosis en estrés.
+[CASO] M1-T03 | CASO-1
+Caso clínico 1: Mujer de 38 años con hipotensión y pigmentación
+Mujer de 38 años con astenia, náuseas y mareo. TA 88/54, pigmentación en pliegues. Na 127, K 6,0, glucosa 58.
+Diagnóstico y manejo.
+[SOLUCIÓN] M1-T03 | CASO-1
+Addison (probable autoinmune). La pérdida de aldosterona explica Na bajo y K alto; la falta de cortisol, la hipoglucemia e
+hipotensión; la elevación de ACTH, la pigmentación. Tratar de inmediato con hidrocortisona IV y solución salina, luego
+hidrocortisona más fludrocortisona oral y educación.
+
+
+===== PAGE 12 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 12
+[PREGUNTA] M1-T03 | P1
+1. ¿Qué hallazgo distingue la insuficiencia suprarrenal primaria de la secundaria?
+a) Hipotensión
+b) Hiperpigmentación
+c) Astenia
+d) Hipoglucemia
+[RESPUESTA] M1-T03 | P1
+Respuesta correcta: b
+Explicación: La pigmentación depende del exceso de ACTH/POMC, ausente en la secundaria. Los demás aparecen en
+ambas.
+[PREGUNTA] M1-T03 | P2
+2. Paciente en choque con sospecha de crisis adrenal. Primera conducta:
+a) Esperar la prueba de ACTH
+b) Hidrocortisona IV y líquidos
+c) Solo fludrocortisona oral
+d) Levotiroxina
+[RESPUESTA] M1-T03 | P2
+Respuesta correcta: b
+Explicación: En crisis se trata sin esperar; la fludrocortisona oral no sirve en emergencia y la levotiroxina puede
+empeorar.
+[PREGUNTA] M1-T03 | P3
+3. ¿Qué electrolitos se alteran en la insuficiencia suprarrenal primaria?
+a) Na alto, K bajo
+b) Na bajo, K alto
+c) Na bajo, K bajo
+d) Na alto, K alto
+[RESPUESTA] M1-T03 | P3
+Respuesta correcta: b
+Explicación: Falta aldosterona: se pierde sodio y se retiene potasio.
+[FLASHCARD] M1-T03 | F1
+P: ¿Causa más frecuente de Addison en países desarrollados?
+R: Adrenalitis autoinmune.
+[FLASHCARD] M1-T03 | F2
+P: ¿Por qué hay hiperpigmentación?
+R: Exceso de ACTH y POMC (MSH).
+[FLASHCARD] M1-T03 | F3
+P: ¿Qué mineralocorticoide se usa en primaria?
+R: Fludrocortisona.
+[FLASHCARD] M1-T03 | F4
+P: ¿Dosis de hidrocortisona en crisis?
+R: 100 mg IV en bolo.
+[FLASHCARD] M1-T03 | F5
+P: ¿Prueba confirmatoria?
+R: Estimulación con ACTH sintética.
+[METADATOS] M1-T03
+Metadatos
+Módulo: Endocrinología | Tema: Enfermedad de Addison
+Conceptos clave: cortisol, aldosterona, ACTH, hiperpigmentación, crisis adrenal
+Diagnósticos relacionados: insuficiencia suprarrenal secundaria, panhipopituitarismo
+Medicamentos: hidrocortisona, fludrocortisona
+Pruebas: cortisol, ACTH, estimulación con cosintropina, renina
+
+
+===== PAGE 13 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 13
+Dificultad: intermedia
+Fuentes: Harrison, Williams, guías de la Endocrine Society (verificar edición vigente)
+
+
+===== PAGE 14 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 14
+[TEMA] M1-T04 | Síndrome de Cushing
+M1-T04. Síndrome de Cushing
+[SECCIÓN] M1-T04 | A. Fundamentos
+A. Fundamentos
+Definición: exposición prolongada a exceso de glucocorticoides. Etiología: la más común es iatrogénica (corticoides
+exógenos). Endógena: dependiente de ACTH (adenoma hipofisario, enfermedad de Cushing, la más frecuente; secreción
+ectópica, por ejemplo carcinoma pulmonar de células pequeñas) e independiente de ACTH (adenoma o carcinoma
+suprarrenal, hiperplasia). Fisiopatología: el cortisol promueve gluconeogénesis (hiperglucemia), catabolismo proteico
+(atrofia muscular, piel fina, estrías), redistribución grasa central, retención de sodio por activación del receptor
+mineralocorticoide (hipertensión) e inmunosupresión.
+[SECCIÓN] M1-T04 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Obesidad central, cara de luna llena, giba dorsal, estrías violáceas anchas, equimosis, piel fina, debilidad proximal,
+hipertensión, diabetes, osteoporosis, alteraciones menstruales, hirsutismo, depresión, infecciones.
+• Hipopotasemia y alcalosis más marcadas en secreción ectópica de ACTH.
+• Complicaciones: eventos cardiovasculares, tromboembolismo, fracturas, infecciones oportunistas.
+[SECCIÓN] M1-T04 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: corticoides por cualquier vía (incluye cremas, inhalados, infiltraciones), cambio de peso y cara, estrías,
+fracturas, ánimo, menstruación. Examen: peso, presión, fenotipo, estrías (violáceas, mayores de 1 cm), fuerza proximal
+(levantarse de la silla), piel.
+[SECCIÓN] M1-T04 | D. Diagnóstico
+D. Diagnóstico
+• Primero descartar fuente exógena. Pruebas de tamizaje (al menos dos concordantes): cortisol libre urinario de 24
+horas, cortisol salival nocturno, supresión con 1 mg de dexametasona en la noche (cortisol de la mañana mayor de 1,8
+mcg/dL no suprime).
+• Luego ACTH: baja o indetectable indica suprarrenal (imagen suprarrenal); normal o alta, dependiente de ACTH: RM de
+hipófisis; si es dudosa, cateterismo de senos petrosos; si hay secreción ectópica, imágenes de tórax y abdomen.
+• Pseudo-Cushing (alcoholismo, depresión, obesidad) puede dar falsos positivos.
+[SECCIÓN] M1-T04 | E. Tratamiento
+E. Tratamiento
+• Etiológico: cirugía transesfenoidal (hipófisis), adrenalectomía (suprarrenal), resección del tumor ectópico; suspender o
+reducir corticoide iatrogénico gradualmente.
+• Postcirugía: insuficiencia suprarrenal transitoria (el eje está suprimido): reponer hidrocortisona y retirar de forma
+gradual.
+• Médico si no hay cirugía: inhibidores de la esteroidogénesis (ketoconazol, metirapona), antagonistas del receptor de
+glucocorticoide (mifepristona), radioterapia. Tratar comorbilidades (hipertensión, diabetes, osteoporosis).
+[SECCIÓN] M1-T04 | F. Razonamiento clínico
+F. Razonamiento clínico
+Los signos más específicos: estrías violáceas anchas, equimosis fáciles, debilidad proximal, piel fina. Obesidad e
+hipertensión por sí solas no bastan. Errores: iniciar localización antes de confirmar hipercortisolismo; olvidar el corticoide
+exógeno; no reponer glucocorticoide tras cirugía.
+[SECCIÓN] M1-T04 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 40 años con aumento de peso, estrías y presión alta." Debe hacer: preguntar por corticoides,
+examinar fenotipo, pedir tamizaje (cortisol libre urinario, salival nocturno o supresión con dexametasona), explicar plan.
+
+
+===== PAGE 15 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 15
+Errores críticos: omitir el uso de corticoides; pedir imágenes antes de confirmar.
+[ESTACIÓN] M1-T04 | Síndrome de Cushing (7 minutos)
+Estación ECOE: Síndrome de Cushing (7 minutos)
+• Paciente: aumento de peso en abdomen, moretones fáciles, hipertensión y glucosa alta recientes, no usa corticoides.
+• Hallazgos: obesidad central, estrías violáceas, debilidad proximal.
+• Laboratorio: cortisol tras 1 mg de dexametasona 8 mcg/dL.
+• Diagnóstico: síndrome de Cushing, estudio del origen con ACTH.
+Tabla y algoritmo
+[TABLA] M1-T04 | Origen del síndrome de Cushing
+Origen del síndrome de Cushing
+Origen
+ACTH
+Imagen o estudio
+Hipofisario (enfermedad de Cushing)
+Normal o alta
+RM de hipófisis
+Ectópico
+Alta (a menudo muy alta)
+Tórax y abdomen
+Suprarrenal
+Baja o suprimida
+TC suprarrenal
+[ALGORITMO] M1-T04 | Abordaje del síndrome de Cushing
+Algoritmo: Abordaje del síndrome de Cushing
+1. Excluir corticoide exógeno.
+2. Dos pruebas de tamizaje positivas: confirma hipercortisolismo.
+3. ACTH plasmática.
+4. ACTH baja: imagen suprarrenal. ACTH normal o alta: RM de hipófisis y, si dudosa, cateterismo de senos petrosos.
+5. Tratamiento del origen y reposición posquirúrgica.
+[SECCIÓN] M1-T04 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) la causa más frecuente es iatrogénica; (2) tamizaje: cortisol libre urinario,
+salival nocturno o supresión con dexametasona; (3) ACTH separa suprarrenal de dependiente de ACTH; (4) estrías
+violáceas y debilidad proximal son los signos más específicos; (5) tras cirugía hay insuficiencia suprarrenal transitoria.
+[CASO] M1-T04 | CASO-1
+Caso clínico 1: Mujer de 35 años con estrías y diabetes
+Mujer de 35 años con aumento de peso central, estrías violáceas, TA 160/100 y glucosa elevada. No usa corticoides.
+Cortisol libre urinario elevado, ACTH 60 pg/mL (elevada). Diagnóstico y siguiente paso.
+[SOLUCIÓN] M1-T04 | CASO-1
+Cushing dependiente de ACTH, probablemente enfermedad de Cushing. Siguiente paso: RM de hipófisis; si no es
+concluyente, cateterismo de senos petrosos. Tratamiento: cirugía transesfenoidal y reposición de hidrocortisona temporal.
+[PREGUNTA] M1-T04 | P1
+1. ¿Cuál es la causa más frecuente de síndrome de Cushing?
+a) Adenoma hipofisario
+b) Corticoides exógenos
+c) Adenoma suprarrenal
+d) Secreción ectópica de ACTH
+[RESPUESTA] M1-T04 | P1
+Respuesta correcta: b
+Explicación: El uso de glucocorticoides terapéuticos es la causa global más común; las endógenas son menos
+frecuentes, con el adenoma hipofisario como la principal.
+
+
+===== PAGE 16 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 16
+[PREGUNTA] M1-T04 | P2
+2. ACTH indetectable en un paciente con hipercortisolismo confirmado sugiere:
+a) Enfermedad de Cushing
+b) Tumor suprarrenal
+c) Secreción ectópica de ACTH
+d) Pseudo-Cushing
+[RESPUESTA] M1-T04 | P2
+Respuesta correcta: b
+Explicación: El cortisol autónomo suprime la ACTH hipofisaria. En a y c la ACTH es normal o alta.
+[PREGUNTA] M1-T04 | P3
+3. ¿Qué se debe vigilar después de una adenomectomía hipofisaria por Cushing?
+a) Hipertiroidismo
+b) Insuficiencia suprarrenal
+c) Hiperaldosteronismo
+d) Diabetes insípida únicamente
+[RESPUESTA] M1-T04 | P3
+Respuesta correcta: b
+Explicación: El eje hipotálamo-hipófisis-suprarrenal queda suprimido y se requiere reposición con hidrocortisona hasta
+recuperarse.
+[FLASHCARD] M1-T04 | F1
+P: ¿Pruebas de tamizaje del Cushing?
+R: Cortisol libre urinario 24 horas, cortisol salival nocturno, supresión con 1 mg de dexametasona.
+[FLASHCARD] M1-T04 | F2
+P: ¿Signo más específico en piel?
+R: Estrías violáceas anchas y equimosis.
+[FLASHCARD] M1-T04 | F3
+P: ¿ACTH baja en Cushing implica?
+R: Origen suprarrenal.
+[FLASHCARD] M1-T04 | F4
+P: ¿Qué cáncer produce ACTH ectópica con frecuencia?
+R: Carcinoma pulmonar de células pequeñas.
+[FLASHCARD] M1-T04 | F5
+P: ¿Qué reponer tras cirugía curativa?
+R: Hidrocortisona hasta recuperar el eje.
+[METADATOS] M1-T04
+Metadatos
+Módulo: Endocrinología | Tema: Síndrome de Cushing
+Conceptos clave: hipercortisolismo, supresión con dexametasona, ACTH
+Diagnósticos relacionados: pseudo-Cushing, incidentaloma suprarrenal
+Medicamentos: ketoconazol, metirapona, mifepristona, hidrocortisona
+Pruebas: cortisol libre urinario, cortisol salival nocturno, dexametasona, ACTH, RM hipófisis
+Dificultad: intermedia a alta
+Fuentes: Harrison, Williams, guías de la Endocrine Society (verificar edición vigente)
+
+
+===== PAGE 17 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 17
+[TEMA] M1-T05 | Hiperaldosteronismo primario
+M1-T05. Hiperaldosteronismo primario
+[SECCIÓN] M1-T05 | A. Fundamentos
+A. Fundamentos
+Definición: producción autónoma de aldosterona independiente del sistema renina-angiotensina. Etiología: adenoma
+productor de aldosterona (síndrome de Conn) o hiperplasia suprarrenal bilateral (más frecuente); formas familiares raras.
+Relevancia: causa común de hipertensión secundaria, más prevalente de lo que se pensaba (cerca de 5 a 10% de
+hipertensos, mayor en hipertensión resistente).
+Fisiopatología: exceso de aldosterona aumenta la reabsorción de sodio y agua y la excreción de potasio e hidrogeniones
+en el túbulo colector: hipertensión, hipopotasemia, alcalosis metabólica; la renina se suprime por el volumen aumentado.
+Hay "escape" de sodio, por lo que no hay edema.
+[SECCIÓN] M1-T05 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Hipertensión, a menudo resistente o de inicio temprano; debilidad muscular, calambres, parestesias, poliuria y
+polidipsia (hipopotasemia); muchos pacientes tienen potasio normal.
+• Complicaciones: mayor daño cardiovascular y renal que la hipertensión esencial con igual presión.
+• Banderas rojas para tamizar: hipertensión resistente, hipopotasemia (espontánea o inducida por diuréticos),
+incidentaloma suprarrenal, apnea del sueño, hipertensión de inicio temprano o antecedente familiar de ACV precoz.
+[SECCIÓN] M1-T05 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: inicio y gravedad de la hipertensión, fármacos antihipertensivos, diuréticos, calambres, antecedentes
+familiares. Examen: presión arterial, fuerza muscular, ausencia de edema.
+[SECCIÓN] M1-T05 | D. Diagnóstico
+D. Diagnóstico
+• Tamizaje: relación aldosterona/renina (aldosterona plasmática y actividad de renina o renina directa); renina
+suprimida con aldosterona alta es sugestiva. Corregir hipopotasemia antes y considerar efecto de fármacos
+(espironolactona e IECA/ARA II pueden alterar la prueba).
+• Confirmación: prueba de sobrecarga salina, captopril o carga oral de sodio según protocolo.
+• Subtipificación: TC suprarrenal; si se planea cirugía, cateterismo de venas suprarrenales (diferencia unilateral de
+bilateral), sobre todo si el paciente es mayor de 35 años.
+[SECCIÓN] M1-T05 | E. Tratamiento
+E. Tratamiento
+• Unilateral (adenoma): adrenalectomía laparoscópica.
+• Bilateral o no quirúrgico: antagonistas del receptor mineralocorticoide (espironolactona, eplerenona); vigilar potasio y
+función renal; espironolactona puede causar ginecomastia.
+• Corregir hipopotasemia y controlar presión.
+[SECCIÓN] M1-T05 | F. Razonamiento clínico
+F. Razonamiento clínico
+Hipertensión con potasio bajo no es siempre Conn: descartar diuréticos, vómito, diarrea. Renina alta con aldosterona alta
+indica hiperaldosteronismo secundario (estenosis de arteria renal, insuficiencia cardiaca). Error común: tamizar solo a los
+hipocalémicos.
+[SECCIÓN] M1-T05 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Hombre de 42 años con presión alta mal controlada y calambres." Debe hacer: revisar fármacos, pedir
+potasio y relación aldosterona/renina, explicar el plan. Errores críticos: pedir la prueba sin suspender o considerar
+fármacos que interfieren; omitir potasio.
+
+
+===== PAGE 18 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 18
+[ESTACIÓN] M1-T05 | Hiperaldosteronismo primario (7 minutos)
+Estación ECOE: Hiperaldosteronismo primario (7 minutos)
+• Paciente: hipertensión desde los 38 años con tres antihipertensivos, calambres, sin edema.
+• Laboratorio: K 3,1, alcalosis, renina suprimida y aldosterona alta.
+• Diagnóstico: hiperaldosteronismo primario. Conducta: confirmar, imagen suprarrenal, cateterismo venoso si hay opción
+quirúrgica.
+Tabla y algoritmo
+[TABLA] M1-T05 | Aldosterona y renina
+Aldosterona y renina
+Situación
+Renina
+Aldosterona
+Hiperaldosteronismo primario
+Baja
+Alta
+Hiperaldosteronismo secundario (estenosis
+de arteria renal)
+Alta
+Alta
+Cushing o exceso de mineralocorticoide no
+aldosterónico
+Baja
+Baja
+[ALGORITMO] M1-T05 | Hiperaldosteronismo primario
+Algoritmo: Hiperaldosteronismo primario
+1. Hipertensión resistente, hipopotasemia o incidentaloma: relación aldosterona/renina.
+2. Positiva: prueba confirmatoria.
+3. TC suprarrenal y cateterismo de venas suprarrenales.
+4. Unilateral: cirugía. Bilateral: espironolactona o eplerenona.
+[SECCIÓN] M1-T05 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) hipertensión, hipopotasemia, alcalosis, renina baja; (2) tamizaje con relación
+aldosterona/renina; (3) subtipificar con cateterismo venoso; (4) unilateral: cirugía; (5) bilateral: espironolactona.
+[CASO] M1-T05 | CASO-1
+Caso clínico 1: Hombre de 45 años con hipertensión resistente
+Hombre de 45 años con tres antihipertensivos, TA 168/104, K 3,0, bicarbonato elevado. Renina suprimida, aldosterona
+alta. Diagnóstico y manejo.
+[SOLUCIÓN] M1-T05 | CASO-1
+Hiperaldosteronismo primario. Confirmar según protocolo, TC suprarrenal y cateterismo de venas suprarrenales.
+Adenoma unilateral: adrenalectomía; hiperplasia bilateral: espironolactona. Corregir potasio.
+[PREGUNTA] M1-T05 | P1
+1. ¿Qué patrón es típico del hiperaldosteronismo primario?
+a) Renina alta, aldosterona alta
+b) Renina baja, aldosterona alta
+c) Renina baja, aldosterona baja
+d) Renina alta, aldosterona baja
+[RESPUESTA] M1-T05 | P1
+Respuesta correcta: b
+Explicación: La aldosterona autónoma suprime la renina. La opción a corresponde a un hiperaldosteronismo secundario.
+
+
+===== PAGE 19 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 19
+[PREGUNTA] M1-T05 | P2
+2. Hombre de 50 años con adenoma suprarrenal unilateral confirmado y hiperaldosteronismo. ¿Tratamiento definitivo?
+a) Espironolactona de por vida
+b) Adrenalectomía
+c) Hidrocortisona
+d) Radioterapia
+[RESPUESTA] M1-T05 | P2
+Respuesta correcta: b
+Explicación: La enfermedad unilateral es curable con cirugía; el antagonista mineralocorticoide es para formas bilaterales
+o no quirúrgicas.
+[PREGUNTA] M1-T05 | P3
+3. ¿Por qué no hay edema pese a la retención de sodio?
+a) Por diuresis osmótica
+b) Por fenómeno de escape de sodio
+c) Por hipoalbuminemia
+d) Por acción de la vasopresina
+[RESPUESTA] M1-T05 | P3
+Respuesta correcta: b
+Explicación: Tras la expansión de volumen aumenta el natriuresis (péptido natriurético y otros mecanismos), limitando el
+edema.
+[FLASHCARD] M1-T05 | F1
+P: ¿Tamizaje de hiperaldosteronismo primario?
+R: Relación aldosterona/renina.
+[FLASHCARD] M1-T05 | F2
+P: ¿Alteración ácido-base típica?
+R: Alcalosis metabólica con hipopotasemia.
+[FLASHCARD] M1-T05 | F3
+P: ¿Estudio para decidir cirugía?
+R: Cateterismo de venas suprarrenales.
+[FLASHCARD] M1-T05 | F4
+P: ¿Fármaco para formas bilaterales?
+R: Espironolactona o eplerenona.
+[FLASHCARD] M1-T05 | F5
+P: ¿Efecto adverso de espironolactona?
+R: Ginecomastia e hiperpotasemia.
+[METADATOS] M1-T05
+Metadatos
+Módulo: Endocrinología | Tema: Hiperaldosteronismo primario
+Conceptos clave: aldosterona, renina, hipopotasemia, hipertensión resistente
+Diagnósticos relacionados: hipertensión renovascular, Cushing
+Medicamentos: espironolactona, eplerenona
+Pruebas: relación aldosterona/renina, carga salina, TC suprarrenal, cateterismo venoso
+Dificultad: intermedia a alta
+Fuentes: Harrison, Williams, guías de la Endocrine Society sobre aldosteronismo primario (verificar edición vigente)
+
+
+===== PAGE 20 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 20
+[TEMA] M1-T06 | Panhipopituitarismo
+M1-T06. Panhipopituitarismo
+[SECCIÓN] M1-T06 | A. Fundamentos
+A. Fundamentos
+Definición: déficit de múltiples hormonas de la adenohipófisis. Etiología: tumores hipofisarios (macroadenomas) o
+craneofaringioma, cirugía o radioterapia, síndrome de Sheehan (infarto posparto), apoplejía hipofisaria, hipofisitis,
+traumatismo, infiltración (hemocromatosis, sarcoidosis), genética. Fisiopatología: compresión o destrucción pierde
+primero GH y gonadotropinas, luego TSH y ACTH; prolactina suele estar elevada con tumores por pérdida de inhibición
+dopaminérgica del tallo, pero baja en Sheehan.
+[SECCIÓN] M1-T06 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Déficit de ACTH: astenia, hipotensión, hipoglucemia (sin hiperpigmentación y sin hiperpotasemia).
+• TSH: hipotiroidismo central. LH y FSH: amenorrea, infertilidad, disminución de libido, pérdida de vello. GH: fatiga,
+aumento de grasa, menor masa muscular. Prolactina baja: no lactancia (Sheehan).
+• Efecto de masa: cefalea, defectos de campo visual (hemianopsia bitemporal por compresión del quiasma).
+• Apoplejía hipofisaria: cefalea súbita intensa, alteración visual, oftalmoplejía, hipotensión.
+[SECCIÓN] M1-T06 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: parto complicado con hemorragia y falta de lactancia, cefalea, visión, ciclos menstruales, libido, cirugía o
+radioterapia craneal. Examen: campos visuales por confrontación, pares oculomotores, signos de hipotiroidismo e
+hipogonadismo, presión arterial.
+[SECCIÓN] M1-T06 | D. Diagnóstico
+D. Diagnóstico
+• Valorar cada eje: cortisol matutino (más ACTH), T4 libre con TSH inapropiadamente baja o normal, testosterona o
+estradiol con LH y FSH, IGF-1, prolactina.
+• RM de hipófisis con atención a la región selar; campimetría.
+• Prueba de estimulación (hipoglucemia insulínica o equivalente) cuando los resultados basales son equívocos.
+[SECCIÓN] M1-T06 | E. Tratamiento
+E. Tratamiento
+• Orden de reposición: primero glucocorticoide (hidrocortisona), luego levotiroxina (ajustar por T4 libre), luego
+esteroides sexuales y, si corresponde, GH.
+• Tratar la causa (cirugía transesfenoidal de tumores); en apoplejía con deterioro visual o de conciencia: hidrocortisona
+IV y valoración neuroquirúrgica urgente.
+• Seguimiento: reajustar reposición, imagen periódica, control visual.
+[SECCIÓN] M1-T06 | F. Razonamiento clínico
+F. Razonamiento clínico
+Hipotiroidismo con TSH baja o normal y hipotensión sugiere central. Debe preguntarse por el parto en mujeres con
+amenorrea posparto. Error clásico: dar levotiroxina antes del glucocorticoide en un paciente con déficit de ACTH.
+[SECCIÓN] M1-T06 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 38 años con cansancio, amenorrea y cefalea." Debe hacer: campos visuales, anamnesis de ejes
+hormonales, pedir paneles hormonales y RM, explicar el orden de reposición. Errores críticos: iniciar levotiroxina sin
+cubrir el eje suprarrenal; no explorar campos visuales.
+[ESTACIÓN] M1-T06 | Panhipopituitarismo (7 minutos)
+Estación ECOE: Panhipopituitarismo (7 minutos)
+
+
+===== PAGE 21 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 21
+• Paciente: amenorrea, cansancio, cefalea y visión periférica disminuida.
+• Hallazgos: hemianopsia bitemporal, hipotensión.
+• Laboratorio: cortisol bajo con ACTH baja, T4 libre baja con TSH normal, LH y FSH bajas.
+• Diagnóstico: panhipopituitarismo por macroadenoma. Conducta: hidrocortisona primero, luego levotiroxina, RM,
+neurocirugía.
+Tabla y algoritmo
+[TABLA] M1-T06 | Hipofisaria vs. periférica
+Hipofisaria vs. periférica
+Rasgo
+Insuficiencia suprarrenal primaria
+Insuficiencia suprarrenal central
+ACTH
+Alta
+Baja o normal
+Pigmentación
+Presente
+Ausente
+Potasio
+Alto
+Normal
+Aldosterona
+Baja
+Conservada
+[ALGORITMO] M1-T06 | Sospecha de hipopituitarismo
+Algoritmo: Sospecha de hipopituitarismo
+1. Anamnesis y campos visuales.
+2. Medir cortisol, T4 libre con TSH, gonadotropinas con esteroide sexual, IGF-1, prolactina.
+3. RM de hipófisis.
+4. Reponer en orden: glucocorticoide, tiroides, esteroides sexuales, GH.
+5. Apoplejía: hidrocortisona IV y neurocirugía urgente.
+[SECCIÓN] M1-T06 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) primero se pierden GH y gonadotropinas; (2) hemianopsia bitemporal; (3)
+reponer cortisol antes que tiroides; (4) en central se ajusta por T4 libre; (5) Sheehan: falta de lactancia tras hemorragia
+posparto.
+[CASO] M1-T06 | CASO-1
+Caso clínico 1: Mujer con falta de lactancia
+Mujer de 32 años, hemorragia posparto hace 1 año, no pudo amamantar, amenorrea, fatiga e hipotensión. Cortisol bajo,
+T4 libre baja, TSH normal, FSH y LH bajas. Diagnóstico y manejo.
+[SOLUCIÓN] M1-T06 | CASO-1
+Síndrome de Sheehan (infarto hipofisario posparto) con panhipopituitarismo. Reponer hidrocortisona, luego levotiroxina
+titulada por T4 libre, y esteroides sexuales según deseo de fertilidad; RM de hipófisis.
+[PREGUNTA] M1-T06 | P1
+1. ¿Cuál es el orden correcto de reposición?
+a) Levotiroxina antes que hidrocortisona
+b) Hidrocortisona antes que levotiroxina
+c) GH antes que todo
+d) Estrógenos primero
+[RESPUESTA] M1-T06 | P1
+Respuesta correcta: b
+Explicación: La levotiroxina acelera el metabolismo del cortisol y puede precipitar una crisis adrenal si no se cubre el eje
+suprarrenal.
+
+
+===== PAGE 22 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 22
+[PREGUNTA] M1-T06 | P2
+2. Defecto visual típico de un macroadenoma selar:
+a) Hemianopsia homónima
+b) Hemianopsia bitemporal
+c) Ceguera monocular
+d) Escotoma central
+[RESPUESTA] M1-T06 | P2
+Respuesta correcta: b
+Explicación: Comprime el quiasma óptico y afecta las fibras nasales de la retina, que ven el campo temporal.
+[PREGUNTA] M1-T06 | P3
+3. ¿Cómo se monitoriza la levotiroxina en hipotiroidismo central?
+a) TSH
+b) T4 libre
+c) Anti-TPO
+d) Prolactina
+[RESPUESTA] M1-T06 | P3
+Respuesta correcta: b
+Explicación: La TSH no es confiable cuando la hipófisis no responde.
+[FLASHCARD] M1-T06 | F1
+P: ¿Qué hormonas se pierden primero con compresión hipofisaria?
+R: GH y gonadotropinas.
+[FLASHCARD] M1-T06 | F2
+P: ¿Qué es el síndrome de Sheehan?
+R: Infarto hipofisario posparto por hemorragia.
+[FLASHCARD] M1-T06 | F3
+P: ¿Defecto de campo visual típico?
+R: Hemianopsia bitemporal.
+[FLASHCARD] M1-T06 | F4
+P: ¿Qué se repone primero?
+R: Glucocorticoide.
+[FLASHCARD] M1-T06 | F5
+P: ¿Cuadro de la apoplejía hipofisaria?
+R: Cefalea súbita, alteración visual, hipotensión.
+[METADATOS] M1-T06
+Metadatos
+Módulo: Endocrinología | Tema: Panhipopituitarismo
+Conceptos clave: ejes hipofisarios, Sheehan, apoplejía, reposición
+Diagnósticos relacionados: macroadenoma, craneofaringioma, hipofisitis
+Medicamentos: hidrocortisona, levotiroxina, esteroides sexuales, GH
+Pruebas: cortisol, T4 libre, IGF-1, RM hipofisaria, campimetría
+Dificultad: intermedia
+Fuentes: Harrison, Williams, Greenspan (verificar edición vigente)
+
+
+===== PAGE 23 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 23
+[TEMA] M1-T07 | Páncreas endocrino
+M1-T07. Páncreas endocrino
+[SECCIÓN] M1-T07 | A. Fundamentos
+A. Fundamentos
+Definición: componente endocrino del páncreas: islotes de Langerhans con células alfa (glucagón), beta (insulina y
+péptido C), delta (somatostatina) y PP. Fisiología de la insulina: se libera cuando sube la glucosa (entra por GLUT2, el
+metabolismo eleva ATP, cierra los canales de potasio sensibles a ATP, despolariza, entra calcio y se exocitan los
+gránulos). Acciones: promueve captación de glucosa (GLUT4 en músculo y tejido adiposo), glucogénesis, lipogénesis y
+síntesis proteica; inhibe gluconeogénesis, glucogenólisis y lipólisis. El glucagón actúa a la inversa en el ayuno
+(glucogenólisis y gluconeogénesis hepática).
+Trastornos principales: hipoglucemia (incluido insulinoma), diabetes (tema M1-T09), tumores neuroendocrinos
+funcionales (glucagonoma, somatostatinoma, gastrinoma) y asociación con neoplasia endocrina múltiple tipo 1 (MEN 1:
+paratiroides, páncreas, hipófisis).
+[SECCIÓN] M1-T07 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Hipoglucemia: síntomas adrenérgicos (sudoración, temblor, taquicardia, hambre, ansiedad) y neuroglucopénicos
+(confusión, conducta anormal, convulsiones, coma).
+• Tríada de Whipple: síntomas compatibles, glucosa plasmática baja documentada (menor de 55 mg/dL) y resolución al
+corregir la glucosa.
+• Glucagonoma: eritema necrolítico migratorio, diabetes, pérdida de peso. Somatostatinoma: diabetes, esteatorrea,
+colelitiasis.
+[SECCIÓN] M1-T07 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: relación con comidas o ayuno, fármacos (insulina, sulfonilureas), alcohol, enfermedad hepática o renal,
+antecedentes familiares de MEN 1, acceso a medicamentos. Examen: estado de conciencia, signos adrenérgicos, piel,
+hepatomegalia.
+[SECCIÓN] M1-T07 | D. Diagnóstico
+D. Diagnóstico
+• Primero confirmar hipoglucemia verdadera (Whipple). En hipoglucemia espontánea medir glucosa, insulina, péptido C,
+proinsulina, beta-hidroxibutirato y detectar sulfonilureas.
+• Insulinoma: insulina y péptido C inapropiadamente altos con glucosa baja y beta-hidroxibutirato bajo; ayuno
+supervisado de hasta 72 horas; localización con TC, RM, ecoendoscopia.
+• Insulina exógena: insulina alta, péptido C bajo. Sulfonilureas: insulina y péptido C altos, con detección positiva del
+fármaco.
+[SECCIÓN] M1-T07 | E. Tratamiento
+E. Tratamiento
+• Agudo: glucosa oral si está consciente; dextrosa intravenosa o glucagón intramuscular si no.
+• Insulinoma: resección quirúrgica; si no es operable, diazóxido o análogos de somatostatina.
+• Otras causas: suspender o ajustar el fármaco, tratar enfermedad hepática o adrenal.
+[SECCIÓN] M1-T07 | F. Razonamiento clínico
+F. Razonamiento clínico
+En un paciente diabético la causa más común de hipoglucemia es el tratamiento. En no diabéticos sin fármacos, pensar
+en insulinoma, déficit de cortisol, alcohol, enfermedad hepática grave o sepsis. El péptido C distingue endógeno de
+exógeno.
+[SECCIÓN] M1-T07 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+
+
+===== PAGE 24 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 24
+Entradilla: "Paciente con episodios de confusión y sudoración en ayunas." Debe hacer: preguntar por fármacos, aplicar
+la tríada de Whipple, medir glucosa capilar, administrar glucosa si está sintomático, solicitar insulina y péptido C. Errores
+críticos: no medir la glucosa; no tratar la hipoglucemia sintomática.
+[ESTACIÓN] M1-T07 | Hipoglucemia (7 minutos)
+Estación ECOE: Hipoglucemia (7 minutos)
+• Paciente: episodios matutinos de sudoración y confusión, mejoran al comer, no usa fármacos.
+• Laboratorio: glucosa 38, insulina y péptido C altos, beta-hidroxibutirato bajo.
+• Diagnóstico: sospecha de insulinoma. Conducta: localización y cirugía.
+Tabla y algoritmo
+[TABLA] M1-T07 | Causas de hipoglucemia con hiperinsulinemia
+Causas de hipoglucemia con hiperinsulinemia
+Causa
+Insulina
+Péptido C
+Detección de sulfonilurea
+Insulinoma
+Alta
+Alto
+Negativa
+Insulina exógena
+Alta
+Bajo
+Negativa
+Sulfonilureas
+Alta
+Alto
+Positiva
+[ALGORITMO] M1-T07 | Hipoglucemia
+Algoritmo: Hipoglucemia
+1. Confirmar con la tríada de Whipple.
+2. Tratar de inmediato con glucosa.
+3. Revisar fármacos y causas sistémicas (hepática, renal, alcohol, suprarrenal).
+4. Si no hay causa: insulina, péptido C y proinsulina durante hipoglucemia.
+5. Hiperinsulinemia endógena: localizar con imagen y operar.
+[SECCIÓN] M1-T07 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) tríada de Whipple; (2) insulinoma: insulina y péptido C altos; (3) insulina
+exógena: péptido C bajo; (4) glucagón sube la glucosa en ayuno; (5) MEN 1 incluye páncreas.
+[CASO] M1-T07 | CASO-1
+Caso clínico 1: Mujer de 40 años con hipoglucemia en ayunas
+Mujer de 40 años con episodios de confusión antes del desayuno. Glucosa 40, insulina 20, péptido C alto, sin fármacos.
+Diagnóstico y paso siguiente.
+[SOLUCIÓN] M1-T07 | CASO-1
+Hiperinsulinemia endógena, probable insulinoma. Descartar sulfonilureas y buscar localización por imagen; tratamiento
+quirúrgico.
+[PREGUNTA] M1-T07 | P1
+1. ¿Qué distingue la insulina exógena de un insulinoma?
+a) Glucosa
+b) Péptido C
+c) Beta-hidroxibutirato
+d) Cortisol
+[RESPUESTA] M1-T07 | P1
+Respuesta correcta: b
+Explicación: La insulina exógena suprime el péptido C endógeno; en el insulinoma el péptido C está elevado.
+
+
+===== PAGE 25 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 25
+[PREGUNTA] M1-T07 | P2
+2. ¿Cuál es la tríada de Whipple?
+a) Síntomas, glucosa baja y mejoría al corregirla
+b) Poliuria, polidipsia y polifagia
+c) Hipertensión, hipopotasemia y alcalosis
+d) Fiebre, dolor y leucocitosis
+[RESPUESTA] M1-T07 | P2
+Respuesta correcta: a
+Explicación: Es el criterio para confirmar hipoglucemia clínicamente significativa.
+[PREGUNTA] M1-T07 | P3
+3. Acción principal del glucagón:
+a) Estimula la lipogénesis
+b) Aumenta la gluconeogénesis y la glucogenólisis hepática
+c) Aumenta la captación de glucosa en músculo
+d) Disminuye la glucemia
+[RESPUESTA] M1-T07 | P3
+Respuesta correcta: b
+Explicación: Eleva la glucosa en el ayuno; las otras acciones son de la insulina.
+[FLASHCARD] M1-T07 | F1
+P: ¿Qué células secretan insulina?
+R: Células beta de los islotes.
+[FLASHCARD] M1-T07 | F2
+P: ¿Insulinoma: péptido C?
+R: Alto.
+[FLASHCARD] M1-T07 | F3
+P: ¿Tratamiento de hipoglucemia grave sin acceso venoso?
+R: Glucagón intramuscular.
+[FLASHCARD] M1-T07 | F4
+P: ¿Qué síndrome incluye tumores pancreáticos, paratiroides e hipófisis?
+R: MEN 1.
+[FLASHCARD] M1-T07 | F5
+P: ¿Glucosa que define hipoglucemia clínicamente importante?
+R: Menor de 55 mg/dL con síntomas (menor de 70 es alerta en diabetes).
+[METADATOS] M1-T07
+Metadatos
+Módulo: Endocrinología | Tema: Páncreas endocrino
+Conceptos clave: insulina, glucagón, péptido C, tríada de Whipple
+Diagnósticos relacionados: insulinoma, hipoglucemia, MEN 1
+Medicamentos: diazóxido, glucagón, dextrosa
+Pruebas: insulina, péptido C, proinsulina, ayuno supervisado
+Dificultad: intermedia
+Fuentes: Harrison, Williams, Greenspan (verificar edición vigente)
+
+
+===== PAGE 26 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 26
+[TEMA] M1-T08 | Semiología endocrinológica
+M1-T08. Semiología endocrinológica
+[SECCIÓN] M1-T08 | A. Fundamentos
+A. Fundamentos
+La semiología endocrina busca el fenotipo de exceso o déficit hormonal. Integra anamnesis de síntomas sistémicos (peso,
+energía, temperatura, ánimo, sed, poliuria, sudoración), antecedentes (embarazo, cirugía, radioterapia, fármacos,
+familiares) y examen físico dirigido por ejes.
+[SECCIÓN] M1-T08 | B. Manifestaciones clínicas por eje
+B. Manifestaciones clínicas por eje
+• Tiroides: calor o frío, peso, ritmo cardiaco, intestino, piel, reflejos.
+• Suprarrenal: obesidad central, estrías, hipertensión (Cushing); hipotensión y pigmentación (Addison).
+• Hipófisis: cefalea, campos visuales, galactorrea, acromegalia (manos y pies grandes, prognatismo).
+• Gonadal: amenorrea, hirsutismo, ginecomastia, disminución de libido.
+• Metabolismo: poliuria, polidipsia, acantosis nigricans, neuropatía, pie diabético.
+• Calcio: tetania, parestesias, cálculos, huesos y abdomen.
+[SECCIÓN] M1-T08 | C. Semiología y evaluación
+C. Semiología y evaluación
+Examen de la tiroides: inspección con cuello extendido y deglución; palpación desde atrás con ambas manos pidiendo al
+paciente tragar; evaluar tamaño, consistencia, nódulos y movilidad; auscultar soplo; buscar adenopatías. Signos
+tiroideos oculares: retracción palpebral, lid lag, exoftalmos.
+Reflejos: relajación del aquíleo (lenta en hipotiroidismo).
+Campos visuales por confrontación: hemianopsia bitemporal en lesión quiasmática.
+Signos de hipocalcemia: Chvostek (percusión del nervio facial provoca contracción) y Trousseau (espasmo carpiano al
+inflar el manguito por encima de la presión sistólica durante 3 minutos).
+Medidas: peso, talla, IMC, circunferencia de cintura, presión arterial acostado y de pie, signos de resistencia a la insulina
+(acantosis nigricans).
+Pie diabético: inspección, pulsos pedios, sensibilidad con monofilamento de 10 g, diapasón de 128 Hz y reflejos.
+Estadios de Tanner en niños y adolescentes.
+Ejemplo de interrogatorio: "¿Ha notado cambios en el peso, tolerancia al frío o al calor, sed o necesidad de orinar más
+de lo habitual? ¿Ha cambiado el tamaño de manos, pies o zapatos? ¿Toma algún medicamento o suplemento?"
+[SECCIÓN] M1-T08 | D. Diagnóstico
+D. Diagnóstico
+La semiología orienta a qué hormona medir: TSH y T4 libre, cortisol, glucosa y HbA1c, calcio, PTH, prolactina, IGF-1
+según el fenotipo.
+[SECCIÓN] M1-T08 | E. Tratamiento
+E. Tratamiento
+La evaluación debe terminar con un plan: exámenes iniciales, orientación diagnóstica y signos de alarma.
+[SECCIÓN] M1-T08 | F. Razonamiento clínico
+F. Razonamiento clínico
+Agrupar los hallazgos por síndrome (por ejemplo, hipertensión, estrías, debilidad proximal y diabetes forman un perfil de
+Cushing). Preguntar siempre por fármacos y embarazo. Evitar pedir hormonas sin hipótesis clínica.
+[SECCIÓN] M1-T08 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+
+
+===== PAGE 27 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 27
+Debe hacer: presentación, identificación, anamnesis estructurada, lavado de manos, examen tiroideo correcto, reflejos,
+campos visuales, pie diabético, resumir hallazgos y explicar. Errores críticos: examinar el tiroides sin explicar o sin pedir
+deglutir; omitir presión arterial; no preguntar fármacos.
+[ESTACIÓN] M1-T08 | Examen tiroideo y semiología endocrina (7 minutos)
+Estación ECOE: Examen tiroideo y semiología endocrina (7 minutos)
+• Instrucción: realizar el examen físico del cuello y reflejos en un paciente con aumento de peso.
+• Evaluación: explica el procedimiento, se coloca detrás, pide tragar, describe tamaño y consistencia, evalúa reflejo
+aquíleo.
+Tabla y algoritmo
+[TABLA] M1-T08 | Signos clave y su significado
+Signos clave y su significado
+Signo
+Significado
+Lid lag y retracción palpebral
+Exceso de hormona tiroidea
+Reflejo con relajación lenta
+Hipotiroidismo
+Estrías violáceas anchas
+Hipercortisolismo
+Hiperpigmentación de pliegues
+Exceso de ACTH (Addison)
+Chvostek y Trousseau
+Hipocalcemia
+Hemianopsia bitemporal
+Lesión del quiasma óptico
+Acantosis nigricans
+Resistencia a la insulina
+Disminución de sensibilidad con monofilamento
+Neuropatía diabética
+[ALGORITMO] M1-T08 | Abordaje semiológico endocrino
+Algoritmo: Abordaje semiológico endocrino
+1. Motivo de consulta y revisión por sistemas endocrinos.
+2. Antecedentes, fármacos, embarazo.
+3. Signos vitales y medidas antropométricas.
+4. Examen dirigido (tiroides, piel, campos visuales, reflejos, pies).
+5. Hipótesis sindrómica y pruebas dirigidas.
+[SECCIÓN] M1-T08 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) siempre fármacos y embarazo; (2) tiroides: palpar desde atrás con deglución;
+(3) Chvostek y Trousseau: hipocalcemia; (4) campos visuales: lesión hipofisaria; (5) monofilamento: pie diabético.
+[CASO] M1-T08 | CASO-1
+Caso clínico 1: Hombre de 50 años con cambios en manos
+Hombre de 50 años con aumento del tamaño de manos y pies, cefalea, hipertensión y sudoración. Hemianopsia
+bitemporal. Sospecha y estudio.
+[SOLUCIÓN] M1-T08 | CASO-1
+Acromegalia por adenoma hipofisario productor de GH con efecto de masa. Estudio: IGF-1, prueba de supresión de GH
+con carga de glucosa, RM hipofisaria; tratamiento: cirugía transesfenoidal y análogos de somatostatina.
+[PREGUNTA] M1-T08 | P1
+1. ¿Cómo se explora correctamente la tiroides?
+a) De frente sin deglución
+b) Desde atrás, palpando mientras el paciente traga
+c) Solo con percusión
+d) Solo con auscultación
+[RESPUESTA] M1-T08 | P1
+Respuesta correcta: b
+Explicación: La tiroides se eleva con la deglución, lo que permite evaluar tamaño, movilidad y nódulos.
+
+
+===== PAGE 28 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 28
+[PREGUNTA] M1-T08 | P2
+2. ¿Qué signo indica hipocalcemia al percutir el nervio facial?
+a) Trousseau
+b) Chvostek
+c) Babinski
+d) Kernig
+[RESPUESTA] M1-T08 | P2
+Respuesta correcta: b
+Explicación: Trousseau se evalúa con el manguito; Babinski y Kernig no son endocrinos.
+[PREGUNTA] M1-T08 | P3
+3. Un monofilamento de 10 g se usa para evaluar:
+a) Neuropatía diabética
+b) Reflejos
+c) Fuerza
+d) Campo visual
+[RESPUESTA] M1-T08 | P3
+Respuesta correcta: a
+Explicación: Detecta pérdida de sensibilidad protectora del pie.
+[FLASHCARD] M1-T08 | F1
+P: ¿Dónde se coloca el examinador para palpar la tiroides?
+R: Detrás del paciente, mientras traga.
+[FLASHCARD] M1-T08 | F2
+P: ¿Qué mide el monofilamento?
+R: Sensibilidad protectora del pie.
+[FLASHCARD] M1-T08 | F3
+P: ¿Trousseau: cómo se induce?
+R: Inflando el manguito por encima de la presión sistólica unos 3 minutos.
+[FLASHCARD] M1-T08 | F4
+P: ¿Qué indica acantosis nigricans?
+R: Resistencia a la insulina.
+[FLASHCARD] M1-T08 | F5
+P: ¿Qué hallazgo ocular de Graves?
+R: Retracción palpebral y exoftalmos.
+[METADATOS] M1-T08
+Metadatos
+Módulo: Endocrinología | Tema: Semiología endocrinológica
+Conceptos clave: fenotipo hormonal, examen tiroideo, Chvostek, Trousseau
+Diagnósticos relacionados: Graves, Cushing, Addison, hipocalcemia, acromegalia
+Medicamentos: no aplica
+Pruebas: TSH, cortisol, glucosa, calcio, IGF-1
+Dificultad: básica a intermedia
+Fuentes: Harrison, Bates (guía de exploración física, verificar edición)
+
+
+===== PAGE 29 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 29
+[TEMA] M1-T09 | Diabetes mellitus
+M1-T09. Diabetes mellitus
+[SECCIÓN] M1-T09 | A. Fundamentos
+A. Fundamentos
+Definición: grupo de trastornos con hiperglucemia por déficit de secreción o acción de la insulina. Clasificación: tipo 1
+(destrucción autoinmune de células beta, déficit absoluto), tipo 2 (resistencia a insulina con disfunción beta progresiva;
+más del 90%), gestacional y otros tipos específicos (MODY, pancreatitis, fibrosis quística, fármacos, Cushing,
+acromegalia). Factores de riesgo de DM2: obesidad abdominal, sedentarismo, antecedente familiar, edad, diabetes
+gestacional previa, síndrome de ovario poliquístico, hipertensión y dislipidemia.
+Fisiopatología: en DM1, ausencia de insulina: hiperglucemia, lipólisis y cetogénesis (cetoacidosis). En DM2, resistencia
+hepática y muscular, aumento de la gluconeogénesis y menor efecto incretínico; con el tiempo, falla de la célula beta. La
+hiperglucemia crónica causa complicaciones microvasculares (retinopatía, nefropatía, neuropatía) por glicación y daño
+endotelial, y acelera la enfermedad macrovascular.
+[SECCIÓN] M1-T09 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Poliuria, polidipsia, polifagia, pérdida de peso, visión borrosa, infecciones recurrentes; DM2 puede ser asintomática por
+años.
+• DM1: inicio agudo en jóvenes, a veces cetoacidosis.
+• Cetoacidosis diabética (CAD): náuseas, vómito, dolor abdominal, respiración de Kussmaul, aliento cetónico,
+deshidratación.
+• Estado hiperosmolar hiperglucémico (EHH): glucosa muy alta, hiperosmolaridad y deshidratación grave, alteración
+de conciencia, sin cetosis importante; más en DM2 anciana.
+• Complicaciones crónicas: retinopatía, nefropatía (albuminuria), neuropatía periférica y autonómica, pie diabético,
+enfermedad coronaria, ACV y arteriopatía periférica.
+[SECCIÓN] M1-T09 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: síntomas, peso, antecedentes familiares, fármacos (corticoides), tabaquismo, alimentación, actividad física,
+hipoglucemias, adherencia. Examen: IMC, cintura, presión, acantosis, fondo de ojo (a cargo de oftalmología), pies
+(pulsos, monofilamento, piel, úlceras), reflejos.
+[SECCIÓN] M1-T09 | D. Diagnóstico
+D. Diagnóstico
+Criterios (ADA, verificar edición vigente): glucosa en ayunas mayor o igual a 126 mg/dL; glucosa a las 2 horas de la
+prueba de tolerancia oral con 75 g mayor o igual a 200 mg/dL; hemoglobina glucosilada (HbA1c) mayor o igual a 6,5%; o
+glucosa al azar mayor o igual a 200 mg/dL con síntomas clásicos. Sin síntomas, se requiere confirmar con una segunda
+prueba. Prediabetes: glucosa en ayunas 100 a 125 mg/dL, glucosa a 2 horas 140 a 199 mg/dL o HbA1c 5,7 a 6,4%.
+• DM1: anticuerpos (anti-GAD, IA-2, insulina), péptido C bajo.
+• Cetoacidosis: glucosa alta (generalmente mayor de 250 mg/dL), pH menor de 7,3, bicarbonato bajo, cetonas positivas
+y brecha aniónica aumentada.
+• Complicaciones: albuminuria en orina, creatinina y TFG, perfil lipídico, fondo de ojo anual.
+[SECCIÓN] M1-T09 | E. Tratamiento
+E. Tratamiento
+• Metas habituales: HbA1c cerca de 7% (individualizar), presión arterial menor de 130/80, LDL según riesgo.
+• No farmacológico: alimentación, actividad física, pérdida de peso, no fumar.
+• DM2: metformina de primera línea (si TFG adecuada); añadir según comorbilidad: enfermedad cardiovascular o
+insuficiencia cardiaca o ERC: iSGLT2 o agonista de GLP-1; otros: sulfonilureas, inhibidores de DPP-4, pioglitazona,
+insulina. Insulina basal si hiperglucemia severa o fracaso.
+• DM1: insulina basal-bolo o bomba, conteo de carbohidratos.
+
+
+===== PAGE 30 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 30
+• CAD: líquidos intravenosos, insulina intravenosa en infusión (después de verificar que el potasio sea mayor o igual a
+3,3 mEq/L), reposición de potasio, buscar y tratar el desencadenante, monitoreo de glucosa, electrolitos y pH.
+• EHH: hidratación enérgica y control de glucosa y potasio, insulina a dosis cuidadosa.
+• Hipoglucemia: 15 a 20 g de carbohidrato de acción rápida; glucagón o glucosa IV si está inconsciente.
+• Seguimiento: HbA1c cada 3 a 6 meses; tamizaje anual de retinopatía, nefropatía y pie.
+[SECCIÓN] M1-T09 | F. Razonamiento clínico
+F. Razonamiento clínico
+Joven delgado con cetosis: pensar en DM1. Obeso con acantosis y glucosa moderada: DM2. La HbA1c puede no ser
+confiable en anemia hemolítica, hemoglobinopatías o embarazo. Errores: dar insulina en CAD con potasio menor de 3,3;
+suspender metformina por creatinina leve sin criterio; omitir tamizaje de pie.
+[SECCIÓN] M1-T09 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Hombre de 55 años con sed, orina frecuente y pérdida de peso." Debe hacer: anamnesis (síntomas,
+antecedentes, fármacos), examen (IMC, presión, pies), solicitar glucosa y HbA1c, explicar diagnóstico y estilo de vida,
+iniciar metformina, programar tamizaje de complicaciones. Errores críticos: no reconocer CAD; olvidar evaluar los pies;
+no explicar la hipoglucemia al iniciar insulina.
+[ESTACIÓN] M1-T09 | Diabetes mellitus tipo 2 (7 minutos)
+Estación ECOE: Diabetes mellitus tipo 2 (7 minutos)
+• Paciente: 3 meses de poliuria y sed, madre con diabetes, sedentario.
+• Hallazgos: IMC 33, acantosis, TA 140/90.
+• Laboratorio: glucosa en ayunas 168, HbA1c 8,2%.
+• Diagnóstico: DM2. Conducta: estilo de vida, metformina, estatina y control de presión, tamizaje de complicaciones.
+Tabla y algoritmo
+[TABLA] M1-T09 | Tipos de diabetes
+Tipos de diabetes
+Rasgo
+DM1
+DM2
+Edad de inicio
+Jóvenes
+Adultos (cada vez más jóvenes)
+Fenotipo
+Delgado
+Obesidad central
+Insulina endógena
+Ausente
+Presente, insuficiente
+Cetoacidosis
+Frecuente
+Rara
+Autoanticuerpos
+Presentes
+Ausentes
+Tratamiento
+Insulina
+Metformina y otros, insulina si necesario
+[ALGORITMO] M1-T09 | Cetoacidosis diabética
+Algoritmo: Cetoacidosis diabética
+1. Glucosa, gases, electrolitos, cetonas, creatinina.
+2. Líquidos intravenosos.
+3. Medir potasio: si es menor de 3,3, reponer antes de insulina.
+4. Insulina intravenosa en infusión.
+5. Tratar desencadenante (infección, omisión de insulina).
+6. Monitorizar y pasar a insulina subcutánea cuando se resuelva la acidosis.
+[SECCIÓN] M1-T09 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) criterios: glucosa en ayunas mayor o igual a 126, HbA1c mayor o igual a 6,5;
+(2) metformina de primera línea; (3) iSGLT2 o GLP-1 si hay riesgo cardiovascular, insuficiencia cardiaca o ERC; (4) CAD:
+líquidos, insulina y potasio; (5) tamizar pie, ojos y riñón cada año.
+[CASO] M1-T09 | CASO-1
+Caso clínico 1: Hombre de 58 años con HbA1c elevada
+
+
+===== PAGE 31 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 31
+Hombre de 58 años, IMC 32, glucosa en ayunas 150 y 160 en dos ocasiones, HbA1c 7,9%, albuminuria. Antecedente de
+infarto. Diagnóstico y tratamiento.
+[SOLUCIÓN] M1-T09 | CASO-1
+DM2 con enfermedad cardiovascular establecida y afectación renal. Metformina más iSGLT2 o agonista de GLP-1 por
+beneficio cardiovascular y renal, estatina, IECA o ARA II por albuminuria, estilo de vida y control de presión.
+[PREGUNTA] M1-T09 | P1
+1. ¿Cuál es el criterio diagnóstico de diabetes?
+a) HbA1c mayor o igual a 5,7%
+b) Glucosa en ayunas mayor o igual a 126 mg/dL en dos ocasiones
+c) Glucosa a las 2 horas de 140 mg/dL
+d) Glucosa al azar de 150 mg/dL sin síntomas
+[RESPUESTA] M1-T09 | P1
+Respuesta correcta: b
+Explicación: Las opciones a y c son de prediabetes; d no alcanza el umbral.
+[PREGUNTA] M1-T09 | P2
+2. En CAD, ¿qué se hace antes de iniciar insulina?
+a) Medir potasio y reponer si es menor de 3,3 mEq/L
+b) Dar bicarbonato siempre
+c) Esperar 24 horas
+d) Administrar glucosa oral
+[RESPUESTA] M1-T09 | P2
+Respuesta correcta: a
+Explicación: La insulina introduce potasio a la célula y puede causar hipopotasemia grave.
+[PREGUNTA] M1-T09 | P3
+3. Paciente con DM2, insuficiencia cardiaca y ERC. ¿Qué fármaco aporta beneficio adicional?
+a) Sulfonilurea
+b) iSGLT2
+c) Pioglitazona
+d) Glibenclamida
+[RESPUESTA] M1-T09 | P3
+Respuesta correcta: b
+Explicación: Los iSGLT2 reducen hospitalización por insuficiencia cardiaca y progresión de ERC; pioglitazona puede
+empeorar la insuficiencia cardiaca.
+[PREGUNTA] M1-T09 | P4
+4. ¿Hallazgo típico de EHH?
+a) Cetonas muy altas
+b) Glucosa muy alta con hiperosmolaridad y poca cetosis
+c) Hipoglucemia
+d) Acidosis grave
+[RESPUESTA] M1-T09 | P4
+Respuesta correcta: b
+Explicación: En EHH hay insulina residual suficiente para evitar cetogénesis importante.
+[FLASHCARD] M1-T09 | F1
+P: ¿Primera línea en DM2?
+R: Metformina.
+[FLASHCARD] M1-T09 | F2
+P: ¿Meta general de HbA1c?
+R: Cerca de 7%, individualizada.
+[FLASHCARD] M1-T09 | F3
+P: ¿Respiración típica de CAD?
+R: Kussmaul.
+
+
+===== PAGE 32 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 32
+[FLASHCARD] M1-T09 | F4
+P: ¿Cuánta glucosa en el tratamiento de hipoglucemia leve?
+R: 15 a 20 g de carbohidrato rápido.
+[FLASHCARD] M1-T09 | F5
+P: ¿Anticuerpos de DM1?
+R: Anti-GAD, IA-2, insulina.
+[FLASHCARD] M1-T09 | F6
+P: ¿Qué complicación microvascular se tamiza con albuminuria?
+R: Nefropatía diabética.
+[METADATOS] M1-T09
+Metadatos
+Módulo: Endocrinología | Tema: Diabetes mellitus
+Conceptos clave: HbA1c, resistencia a insulina, CAD, EHH, complicaciones
+Diagnósticos relacionados: prediabetes, MODY, diabetes gestacional
+Medicamentos: metformina, iSGLT2, agonistas de GLP-1, insulina, sulfonilureas
+Pruebas: glucosa, HbA1c, anticuerpos, péptido C, albuminuria
+Dificultad: intermedia a alta
+Fuentes: Harrison, Standards of Care de la ADA (verificar edición vigente), guías colombianas
+
+
+===== PAGE 33 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 33
+[TEMA] M1-T10 | Obesidad
+M1-T10. Obesidad
+[SECCIÓN] M1-T10 | A. Fundamentos
+A. Fundamentos
+Definición: acumulación excesiva de grasa con riesgo para la salud. Clasificación por IMC (OMS): sobrepeso 25 a 29,9;
+obesidad I 30 a 34,9; II 35 a 39,9; III mayor o igual a 40 kg/m2. La circunferencia de cintura estima grasa visceral.
+Etiología: balance energético positivo con interacción genética, ambiental y conductual; causas secundarias:
+hipotiroidismo, Cushing, fármacos (corticoides, antipsicóticos, antidepresivos, insulina), ovario poliquístico, lesiones
+hipotalámicas. Fisiopatología: el exceso de tejido adiposo visceral produce adipocinas y ácidos grasos que favorecen
+resistencia a insulina, inflamación y dislipidemia.
+[SECCIÓN] M1-T10 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Comorbilidades: DM2, hipertensión, dislipidemia, enfermedad coronaria, apnea del sueño, hígado graso, osteoartrosis,
+reflujo, algunos cánceres, infertilidad.
+• Banderas rojas para causa secundaria: inicio súbito, estrías violáceas, debilidad proximal, antecedente de cirugía
+hipotalámica.
+[SECCIÓN] M1-T10 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: inicio y curso del peso, dieta, actividad, fármacos, sueño, ánimo, antecedentes familiares. Examen: peso,
+talla, IMC, cintura, presión, acantosis, signos de Cushing e hipotiroidismo.
+[SECCIÓN] M1-T10 | D. Diagnóstico
+D. Diagnóstico
+IMC y cintura; glucosa o HbA1c, perfil lipídico, transaminasas, TSH si hay sospecha; descartar causas secundarias solo
+cuando la clínica lo sugiera; considerar polisomnografía si hay síntomas de apnea.
+[SECCIÓN] M1-T10 | E. Tratamiento
+E. Tratamiento
+• Base: intervención intensiva en estilo de vida (dieta, actividad, apoyo conductual); meta inicial de pérdida de 5 a 10%.
+• Farmacoterapia (IMC mayor o igual a 30, o mayor o igual a 27 con comorbilidad): agonistas de GLP-1 y de GLP-1/GIP
+(semaglutida, liraglutida, tirzepatida), orlistat y otros; vigilar náuseas, pancreatitis y colelitiasis. Contraindicaciones
+principales: antecedente de carcinoma medular de tiroides o MEN 2, embarazo.
+• Cirugía bariátrica: IMC mayor o igual a 40, o mayor o igual a 35 con comorbilidades significativas; seguimiento
+nutricional de por vida.
+• Tratar comorbilidades; revisar fármacos que aumentan el peso.
+[SECCIÓN] M1-T10 | F. Razonamiento clínico
+F. Razonamiento clínico
+La mayoría de las obesidades no son endocrinas, pero se descarta Cushing e hipotiroidismo cuando hay signos
+sugestivos. No culpar al paciente: es una enfermedad crónica multifactorial. Error común: tamizar Cushing en todos los
+obesos.
+[SECCIÓN] M1-T10 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 35 años con aumento de peso de 15 kg en un año." Debe hacer: anamnesis sin juicios, cálculo de
+IMC, preguntar por fármacos y ciclo, buscar signos de causa secundaria, plan integral. Errores críticos: lenguaje
+estigmatizante; no calcular IMC; ignorar fármacos.
+[ESTACIÓN] M1-T10 | Obesidad (7 minutos)
+Estación ECOE: Obesidad (7 minutos)
+• Paciente: aumento de 15 kg, dieta irregular, sedentaria, usa antipsicótico.
+
+
+===== PAGE 34 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 34
+• Hallazgos: IMC 36, cintura 110 cm, TA 138/88, acantosis.
+• Conducta: plan de estilo de vida, revisión del antipsicótico con psiquiatría, glucosa y lípidos, considerar farmacoterapia.
+Tabla y algoritmo
+[TABLA] M1-T10 | Clasificación por IMC
+Clasificación por IMC
+Categoría
+IMC (kg/m2)
+Normal
+18,5 a 24,9
+Sobrepeso
+25 a 29,9
+Obesidad I
+30 a 34,9
+Obesidad II
+35 a 39,9
+Obesidad III
+Mayor o igual a 40
+[ALGORITMO] M1-T10 | Abordaje de la obesidad
+Algoritmo: Abordaje de la obesidad
+1. IMC y cintura.
+2. Buscar comorbilidades y causas secundarias.
+3. Intervención de estilo de vida.
+4. Si IMC mayor o igual a 30 (o 27 con comorbilidad): considerar fármacos.
+5. Si IMC mayor o igual a 40 (o 35 con comorbilidad): considerar cirugía.
+[SECCIÓN] M1-T10 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) IMC 30 o más es obesidad; (2) la base es el estilo de vida; (3) revisar
+fármacos que engordan; (4) agonistas de GLP-1: efecto sobre peso, riesgo de carcinoma medular; (5) cirugía bariátrica
+con IMC 40, o 35 con comorbilidad.
+[CASO] M1-T10 | CASO-1
+Caso clínico 1: Hombre de 45 años con IMC 38
+Hombre de 45 años con IMC 38, hipertensión y glucosa de 112. Dieta sin éxito. Plan.
+[SOLUCIÓN] M1-T10 | CASO-1
+Obesidad grado II con comorbilidades. Reforzar estilo de vida, tratar presión, considerar farmacoterapia (GLP-1 o
+GLP-1/GIP) y valorar cirugía bariátrica si no logra la meta.
+[PREGUNTA] M1-T10 | P1
+1. ¿Qué IMC corresponde a obesidad grado II?
+a) 25 a 29,9
+b) 30 a 34,9
+c) 35 a 39,9
+d) Mayor o igual a 40
+[RESPUESTA] M1-T10 | P1
+Respuesta correcta: c
+Explicación: Obesidad II va de 35 a 39,9 kg/m2.
+[PREGUNTA] M1-T10 | P2
+2. ¿Cuál es una contraindicación de semaglutida?
+a) Hipertensión
+b) Antecedente personal o familiar de carcinoma medular de tiroides
+c) Osteoartrosis
+d) Dislipidemia
+[RESPUESTA] M1-T10 | P2
+Respuesta correcta: b
+Explicación: Los agonistas de GLP-1 se asocian con tumores de células C en roedores y se evitan en MEN 2 o
+carcinoma medular.
+
+
+===== PAGE 35 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 35
+[PREGUNTA] M1-T10 | P3
+3. ¿Qué fármaco suele aumentar de peso?
+a) Metformina
+b) Antipsicóticos atípicos
+c) Orlistat
+d) iSGLT2
+[RESPUESTA] M1-T10 | P3
+Respuesta correcta: b
+Explicación: Los otros reducen el peso o son neutros.
+[FLASHCARD] M1-T10 | F1
+P: ¿IMC de obesidad grado I?
+R: 30 a 34,9.
+[FLASHCARD] M1-T10 | F2
+P: ¿Criterio de cirugía bariátrica?
+R: IMC mayor o igual a 40, o 35 con comorbilidad.
+[FLASHCARD] M1-T10 | F3
+P: ¿Meta inicial de pérdida de peso?
+R: 5 a 10%.
+[FLASHCARD] M1-T10 | F4
+P: ¿Fármacos que aumentan el peso?
+R: Corticoides, antipsicóticos, insulina, algunos antidepresivos.
+[FLASHCARD] M1-T10 | F5
+P: ¿Qué mide la cintura?
+R: Grasa visceral.
+[METADATOS] M1-T10
+Metadatos
+Módulo: Endocrinología | Tema: Obesidad
+Conceptos clave: IMC, cintura, adipocinas, comorbilidades
+Diagnósticos relacionados: Cushing, hipotiroidismo, síndrome metabólico
+Medicamentos: semaglutida, liraglutida, tirzepatida, orlistat
+Pruebas: glucosa, lípidos, transaminasas, TSH
+Dificultad: básica a intermedia
+Fuentes: Harrison, guías de obesidad (verificar edición vigente), OMS
+
+
+===== PAGE 36 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 36
+[TEMA] M1-T11 | Alteraciones del calcio y fosfato
+M1-T11. Alteraciones del calcio y fosfato
+[SECCIÓN] M1-T11 | A. Fundamentos
+A. Fundamentos
+Fisiología: el calcio sérico total (aproximadamente 8,5 a 10,5 mg/dL; varía según laboratorio) se reparte en fracción libre
+ionizada (activa), unida a albúmina y complejos. La PTH sube el calcio (hueso, reabsorción renal de calcio, activación de
+vitamina D) y baja el fosfato (aumenta su excreción renal). La vitamina D (calcitriol) aumenta la absorción intestinal de
+calcio y fosfato. La calcitonina tiene papel menor. El FGF23 (osteocitos) aumenta la excreción de fosfato y reduce
+calcitriol. Corregir el calcio por albúmina: calcio corregido = calcio medido + 0,8 x (4 menos albúmina en g/dL).
+Hipercalcemia: causas principales: hiperparatiroidismo primario (ambulatorio, más frecuente) y malignidad
+(hospitalizados; por PTHrP u osteólisis); otras: vitamina D excesiva, enfermedades granulomatosas, tiazidas, litio,
+inmovilización.
+Hipocalcemia: hipoparatiroidismo (posquirúrgico, autoinmune), déficit de vitamina D, enfermedad renal crónica,
+hipomagnesemia, pancreatitis, seudohipoparatiroidismo.
+[SECCIÓN] M1-T11 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Hipercalcemia: "cálculos, huesos, abdomen y psique" (nefrolitiasis, dolor óseo, estreñimiento, náuseas, pancreatitis,
+depresión), poliuria y polidipsia (diabetes insípida nefrogénica), acortamiento del QT. Grave: deshidratación, confusión,
+coma.
+• Hipocalcemia: parestesias periorales y acras, calambres, tetania, signos de Chvostek y Trousseau, laringoespasmo,
+convulsiones, prolongación del QT.
+• Hiperfosfatemia: asociada a ERC, hipoparatiroidismo; calcificaciones. Hipofosfatemia: debilidad, rabdomiólisis,
+hemólisis; en osteomalacia y realimentación.
+[SECCIÓN] M1-T11 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: cirugía de cuello, fármacos (tiazidas, litio, suplementos de calcio y vitamina D), antecedentes de cálculos,
+fracturas, cáncer, enfermedad renal, dieta, exposición solar, antecedente familiar (MEN 1, MEN 2A). Examen: estado de
+hidratación, signos de Chvostek y Trousseau, reflejos, masas cervicales.
+[SECCIÓN] M1-T11 | D. Diagnóstico
+D. Diagnóstico
+• Hipercalcemia: confirmar con calcio corregido o iónico y medir PTH intacta. PTH alta o inapropiadamente normal con
+calcio alto: hiperparatiroidismo primario (fosfato bajo, calciuria elevada). PTH baja: causa no paratiroidea; medir
+PTHrP, 25-OH vitamina D y 1,25-OH, electroforesis de proteínas, imágenes.
+• Hipocalcemia: calcio corregido, PTH, magnesio, fosfato, 25-OH vitamina D, creatinina. PTH baja: hipoparatiroidismo;
+PTH alta: déficit de vitamina D o ERC o resistencia.
+• ECG: QT corto en hipercalcemia, QT largo en hipocalcemia.
+• Localización del adenoma paratiroideo: ecografía y gammagrafía con sestamibi.
+[SECCIÓN] M1-T11 | E. Tratamiento
+E. Tratamiento
+• Hipercalcemia grave o sintomática: hidratación con solución salina isotónica; luego bisfosfonatos intravenosos
+(zoledronato); calcitonina para efecto rápido; glucocorticoides en granulomatosas o linfomas; denosumab en
+refractaria; evitar diuréticos de asa antes de reponer volumen.
+• Hiperparatiroidismo primario sintomático o con indicaciones: paratiroidectomía.
+• Hipocalcemia aguda sintomática: gluconato de calcio intravenoso con monitorización ECG; corregir magnesio.
+Crónica: calcio oral y calcitriol (o análogos); en déficit de vitamina D, colecalciferol.
+• Hiperfosfatemia en ERC: quelantes de fósforo, dieta, diálisis.
+[SECCIÓN] M1-T11 | F. Razonamiento clínico
+
+
+===== PAGE 37 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 37
+F. Razonamiento clínico
+El primer paso siempre es la PTH. Calcio alto con PTH alta casi siempre es hiperparatiroidismo primario; calcio alto con
+PTH suprimida en un paciente con cáncer sugiere PTHrP. En un posoperatorio de tiroidectomía con parestesias, pensar
+en hipoparatiroidismo. No olvidar corregir por albúmina.
+[SECCIÓN] M1-T11 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 55 años con cálculos renales y estreñimiento" o "Paciente con hormigueo perioral tras
+tiroidectomía." Debe hacer: anamnesis dirigida, signos de Chvostek y Trousseau, solicitar calcio corregido y PTH,
+reconocer urgencia (QT largo, convulsiones). Errores críticos: no corregir por albúmina; omitir la PTH; no dar calcio IV
+ante tetania.
+[ESTACIÓN] M1-T11 | Hipocalcemia poscirugía (7 minutos)
+Estación ECOE: Hipocalcemia poscirugía (7 minutos)
+• Paciente: parestesias y calambres 2 días después de una tiroidectomía total.
+• Hallazgos: Chvostek y Trousseau positivos, QT prolongado.
+• Laboratorio: calcio 6,9 mg/dL, PTH baja, magnesio normal.
+• Diagnóstico: hipoparatiroidismo posquirúrgico. Conducta: gluconato de calcio IV, luego calcio oral y calcitriol.
+Tabla y algoritmo
+[TABLA] M1-T11 | Interpretación según calcio y PTH
+Interpretación según calcio y PTH
+Situación
+Calcio
+PTH
+Fosfato
+Hiperparatiroidismo primario
+Alto
+Alta o normal
+Bajo
+Hipercalcemia por malignidad
+(PTHrP)
+Alto
+Baja
+Bajo o normal
+Hipoparatiroidismo
+Bajo
+Baja
+Alto
+Déficit de vitamina D
+Bajo o normal
+Alta
+Bajo
+Enfermedad renal crónica
+Bajo
+Alta
+Alto
+[ALGORITMO] M1-T11 | Hipercalcemia
+Algoritmo: Hipercalcemia
+1. Confirmar con calcio corregido o iónico.
+2. Medir PTH intacta.
+3. PTH alta o normal: hiperparatiroidismo primario, estudio de localización y calciuria.
+4. PTH baja: PTHrP, vitamina D, electroforesis, imágenes (malignidad o granulomatosas).
+5. Calcio mayor de 14 mg/dL o síntomas: hidratación y bisfosfonato.
+[SECCIÓN] M1-T11 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) PTH alta con calcio alto es hiperparatiroidismo primario; (2) corregir calcio por
+albúmina; (3) hipercalcemia grave: hidratar y bisfosfonato; (4) hipocalcemia aguda: gluconato de calcio IV; (5) corregir
+magnesio.
+[CASO] M1-T11 | CASO-1
+Caso clínico 1: Mujer de 60 años con cálculos
+Mujer de 60 años con nefrolitiasis, estreñimiento y fatiga. Calcio 11,8 mg/dL, fosfato bajo, PTH elevada, 25-OH vitamina D
+normal. Diagnóstico y manejo.
+[SOLUCIÓN] M1-T11 | CASO-1
+Hiperparatiroidismo primario. Estudio de localización (ecografía, sestamibi) y paratiroidectomía por síntomas (cálculos),
+hidratación y seguimiento de masa ósea y función renal.
+
+
+===== PAGE 38 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 38
+[PREGUNTA] M1-T11 | P1
+1. Calcio alto con PTH suprimida en un paciente con cáncer de pulmón. ¿Qué mediador se sospecha?
+a) PTH
+b) PTHrP
+c) Calcitonina
+d) FGF23
+[RESPUESTA] M1-T11 | P1
+Respuesta correcta: b
+Explicación: Los tumores pueden producir PTHrP, que actúa sobre el receptor de PTH; la PTH endógena está suprimida.
+[PREGUNTA] M1-T11 | P2
+2. Primera medida en hipercalcemia grave:
+a) Furosemida sola
+b) Hidratación con solución salina isotónica
+c) Calcio IV
+d) Tiazidas
+[RESPUESTA] M1-T11 | P2
+Respuesta correcta: b
+Explicación: Estos pacientes están deshidratados por diabetes insípida nefrogénica y natriuresis; los diuréticos de asa se
+usan solo después de reponer volumen.
+[PREGUNTA] M1-T11 | P3
+3. Hipocalcemia con PTH alta y fosfato alto sugiere:
+a) Hipoparatiroidismo
+b) Enfermedad renal crónica
+c) Hiperparatiroidismo primario
+d) Malignidad
+[RESPUESTA] M1-T11 | P3
+Respuesta correcta: b
+Explicación: En ERC hay retención de fosfato y déficit de calcitriol, con hiperparatiroidismo secundario.
+[FLASHCARD] M1-T11 | F1
+P: ¿Fórmula del calcio corregido?
+R: Calcio medido + 0,8 x (4 menos albúmina).
+[FLASHCARD] M1-T11 | F2
+P: ¿Qué hace la PTH con el fosfato?
+R: Aumenta su excreción renal (baja el fosfato).
+[FLASHCARD] M1-T11 | F3
+P: ¿Cambio ECG en hipercalcemia?
+R: QT corto.
+[FLASHCARD] M1-T11 | F4
+P: ¿Signos de hipocalcemia?
+R: Chvostek y Trousseau.
+[FLASHCARD] M1-T11 | F5
+P: ¿Tratamiento de la hipocalcemia sintomática?
+R: Gluconato de calcio intravenoso.
+[METADATOS] M1-T11
+Metadatos
+Módulo: Endocrinología | Tema: Alteraciones del calcio y fosfato
+Conceptos clave: PTH, vitamina D, FGF23, calcio corregido
+Diagnósticos relacionados: hiperparatiroidismo, hipoparatiroidismo, PTHrP, ERC-MBD
+Medicamentos: zoledronato, calcitonina, gluconato de calcio, calcitriol
+Pruebas: calcio, PTH, 25-OH vitamina D, fosfato, magnesio, ECG
+
+
+===== PAGE 39 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 39
+Dificultad: intermedia a alta
+Fuentes: Harrison, Williams, guías de la Endocrine Society y KDIGO (verificar edición vigente)
+
+
+===== PAGE 40 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 40
+[TEMA] M1-T12 | Farmacología endocrina
+M1-T12. Farmacología endocrina
+[SECCIÓN] M1-T12 | A. Fundamentos
+A. Fundamentos
+Este tema agrupa los fármacos de uso endocrino del programa: tiroideos (levotiroxina, antitiroideos), anticonceptivos
+hormonales, hipoglucemiantes e hiperglucemiantes (fármacos que elevan la glucosa: glucagón y diazóxido, además
+de efectos adversos de corticoides y otros). Los mecanismos se relacionan con efectos adversos: por ejemplo, la insulina
+y las sulfonilureas causan hipoglucemia por su acción directa, mientras que la metformina no.
+[SECCIÓN] M1-T12 | B. Fármacos tiroideos
+B. Fármacos tiroideos
+[TABLA] M1-T12 | Fármacos tiroideos
+Fármacos tiroideos
+Fármaco
+Mecanismo
+Indicación
+Efectos adversos o
+precauciones
+Levotiroxina
+Reemplaza T4
+Hipotiroidismo
+Sobredosis: taquicardia,
+fibrilación auricular,
+osteoporosis; separar de calcio y
+hierro
+Metimazol
+Inhibe la peroxidasa tiroidea
+(organificación y acoplamiento)
+Hipertiroidismo
+Agranulocitosis, teratogenicidad
+en primer trimestre
+Propiltiouracilo
+Igual y bloquea la conversión de
+T4 a T3
+Hipertiroidismo en embarazo
+temprano y tormenta
+Hepatotoxicidad grave
+Yodo radiactivo
+Destruye tejido tiroideo
+Graves, bocio tóxico
+Contraindicado en embarazo y
+lactancia; hipotiroidismo
+posterior
+Propranolol
+Beta-bloqueador no selectivo
+Control sintomático
+Broncoespasmo, bradicardia
+[SECCIÓN] M1-T12 | C. Anticonceptivos hormonales
+C. Anticonceptivos hormonales
+[TABLA] M1-T12 | Anticonceptivos
+Anticonceptivos
+Tipo
+Mecanismo
+Precauciones y contraindicaciones
+Combinados (estrógeno más progestina)
+Inhiben ovulación, espesan moco cervical
+Contraindicados en antecedente de
+trombosis, migraña con aura, tabaquismo
+mayor de 35 años, cáncer de mama,
+hepatopatía grave, hipertensión no
+controlada
+Solo progestina (píldora, implante, DIU de
+levonorgestrel, inyectable)
+Espesan moco, inhiben ovulación según tipo Opción en lactancia y con contraindicación a
+estrógenos; sangrado irregular
+Anticoncepción de emergencia
+(levonorgestrel, ulipristal)
+Retrasan la ovulación
+Eficacia mayor cuanto antes se use
+Efectos adversos de combinados: náuseas, cefalea, sensibilidad mamaria, riesgo de tromboembolismo venoso.
+Interacciones: inductores enzimáticos (rifampicina, carbamazepina, fenitoína) reducen eficacia.
+[SECCIÓN] M1-T12 | D. Hipoglucemiantes
+D. Hipoglucemiantes
+[TABLA] M1-T12 | Hipoglucemiantes
+Hipoglucemiantes
+
+
+===== PAGE 41 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 41
+Clase
+Ejemplos
+Mecanismo
+Efectos adversos clave
+Biguanida
+Metformina
+Disminuye gluconeogénesis
+hepática y aumenta sensibilidad
+a insulina
+Síntomas gastrointestinales,
+acidosis láctica rara;
+contraindicada con TFG muy
+baja
+Sulfonilureas
+Glibenclamida, glimepirida
+Cierran canales de potasio
+sensibles a ATP en célula beta y
+aumentan la secreción de
+insulina
+Hipoglucemia, aumento de peso
+Inhibidores de DPP-4
+Sitagliptina, linagliptina
+Aumentan incretinas endógenas
+Bien tolerados; pancreatitis rara
+Agonistas de GLP-1
+Liraglutida, semaglutida
+Estimulan insulina dependiente
+de glucosa, bajan glucagón,
+retrasan vaciamiento gástrico,
+reducen apetito
+Náuseas, pancreatitis,
+carcinoma medular de tiroides
+(contraindicación)
+iSGLT2
+Empagliflozina, dapagliflozina
+Bloquean reabsorción renal de
+glucosa
+Infecciones genitales,
+cetoacidosis euglucémica,
+depleción de volumen
+Tiazolidinedionas
+Pioglitazona
+Activan PPAR gamma, mejoran
+sensibilidad
+Retención de líquidos,
+insuficiencia cardiaca, fracturas
+Insulinas
+Basal (glargina, detemir,
+degludec), prandial (lispro,
+aspart), NPH
+Reemplazan insulina
+Hipoglucemia, aumento de peso,
+lipodistrofia
+Monitorización: HbA1c cada 3 a 6 meses; función renal con metformina e iSGLT2; peso; hipoglucemias.
+[SECCIÓN] M1-T12 | E. Hiperglucemiantes (fármacos que elevan la glucosa)
+E. Hiperglucemiantes (fármacos que elevan la glucosa)
+• Glucagón: aumenta glucogenólisis y gluconeogénesis; rescate en hipoglucemia grave.
+• Diazóxido: abre canales de potasio sensibles a ATP y reduce la secreción de insulina; usado en insulinoma e
+hiperinsulinismo.
+• Otros fármacos que elevan la glucosa como efecto adverso: glucocorticoides, tiazidas, antipsicóticos atípicos, estatinas
+en dosis altas.
+[SECCIÓN] M1-T12 | F. Razonamiento clínico
+F. Razonamiento clínico
+Elegir metformina primero en DM2 salvo contraindicación; priorizar iSGLT2 o GLP-1 si hay enfermedad cardiovascular,
+insuficiencia cardiaca o ERC; evitar sulfonilureas en ancianos con riesgo de hipoglucemia; en DM1 solo insulina. Errores:
+dar pioglitazona en insuficiencia cardiaca; olvidar la interacción de anticonceptivos con inductores.
+[SECCIÓN] M1-T12 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Debe hacer: justificar la elección con base en comorbilidad, advertir efectos adversos y educar sobre hipoglucemia y
+toma de levotiroxina. Errores críticos: prescribir estrógenos a una paciente con migraña con aura o antecedente de
+trombosis; metimazol en primer trimestre sin advertir; olvidar contraindicación del GLP-1 con MEN 2.
+[ESTACIÓN] M1-T12 | Prescripción razonada (7 minutos)
+Estación ECOE: Prescripción razonada (7 minutos)
+• Instrucción: elegir tratamiento para una paciente con DM2 y enfermedad renal crónica.
+• Esperado: metformina ajustada a TFG o evitada si es baja, iSGLT2 por nefroprotección, educación.
+Tabla y algoritmo
+[TABLA] M1-T12 | Hipoglucemia como efecto adverso
+Hipoglucemia como efecto adverso
+Fármaco
+Riesgo de hipoglucemia
+Insulina
+Alto
+Sulfonilureas
+Alto
+
+
+===== PAGE 42 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 42
+Fármaco
+Riesgo de hipoglucemia
+Metformina
+Bajo
+iSGLT2, DPP-4, GLP-1
+Bajo en monoterapia
+[ALGORITMO] M1-T12 | Elección en DM2
+Algoritmo: Elección en DM2
+1. Metformina y estilo de vida.
+2. Enfermedad cardiovascular, insuficiencia cardiaca o ERC: agregar iSGLT2 o GLP-1.
+3. Meta no alcanzada: sumar otro fármaco o insulina basal.
+4. Hiperglucemia severa o catabolismo: insulina.
+[SECCIÓN] M1-T12 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) metformina primera línea; (2) sulfonilureas y insulina causan hipoglucemia;
+(3) iSGLT2 y GLP-1 con beneficio cardiorrenal; (4) anticonceptivos combinados: contraindicados en migraña con aura y
+trombosis; (5) metimazol, PTU y embarazo: PTU en primer trimestre.
+[CASO] M1-T12 | CASO-1
+Caso clínico 1: Mujer de 24 años con migraña con aura que pide anticonceptivo
+Mujer de 24 años con migraña con aura solicita anticonceptivo. Elección.
+[SOLUCIÓN] M1-T12 | CASO-1
+Evitar estrógenos por riesgo de ACV isquémico. Ofrecer método solo de progestina (DIU de levonorgestrel, implante) o no
+hormonal.
+[PREGUNTA] M1-T12 | P1
+1. ¿Cuál es el mecanismo de las sulfonilureas?
+a) Inhiben DPP-4
+b) Cierran los canales de potasio sensibles a ATP en la célula beta
+c) Bloquean SGLT2
+d) Activan PPAR gamma
+[RESPUESTA] M1-T12 | P1
+Respuesta correcta: b
+Explicación: La despolarización aumenta la entrada de calcio y la liberación de insulina. Las otras opciones son otras
+clases.
+[PREGUNTA] M1-T12 | P2
+2. ¿Efecto adverso de los iSGLT2?
+a) Cetoacidosis euglucémica e infecciones genitales
+b) Hipoglucemia grave en monoterapia
+c) Retención de líquidos con insuficiencia cardiaca
+d) Pancreatitis
+[RESPUESTA] M1-T12 | P2
+Respuesta correcta: a
+Explicación: Al aumentar la glucosuria predisponen a infecciones genitales y, raramente, a cetoacidosis con glucosa
+normal.
+[PREGUNTA] M1-T12 | P3
+3. ¿Qué fármaco reduce la secreción de insulina y se usa en insulinoma?
+a) Metformina
+b) Diazóxido
+c) Glargina
+d) Pioglitazona
+[RESPUESTA] M1-T12 | P3
+Respuesta correcta: b
+Explicación: Abre los canales de potasio de la célula beta y bloquea la liberación de insulina.
+
+
+===== PAGE 43 =====
+
+Guía ECOE - Módulo I: Endocrinología
+Página 43
+[FLASHCARD] M1-T12 | F1
+P: ¿Mecanismo de metformina?
+R: Reduce gluconeogénesis hepática y aumenta la sensibilidad a insulina.
+[FLASHCARD] M1-T12 | F2
+P: ¿Contraindicación de GLP-1?
+R: Carcinoma medular de tiroides o MEN 2.
+[FLASHCARD] M1-T12 | F3
+P: ¿Anticonceptivos combinados y migraña con aura?
+R: Contraindicados por riesgo de ACV.
+[FLASHCARD] M1-T12 | F4
+P: ¿Antitiroideo que bloquea conversión de T4 a T3?
+R: Propiltiouracilo.
+[FLASHCARD] M1-T12 | F5
+P: ¿Fármaco que eleva la glucosa en hipoglucemia grave?
+R: Glucagón.
+[METADATOS] M1-T12
+Metadatos
+Módulo: Endocrinología | Tema: Farmacología endocrina
+Conceptos clave: mecanismo, efectos adversos, elección según comorbilidad
+Diagnósticos relacionados: hipotiroidismo, hipertiroidismo, diabetes, anticoncepción
+Medicamentos: levotiroxina, metimazol, PTU, metformina, sulfonilureas, iSGLT2, GLP-1, insulinas, anticonceptivos,
+glucagón, diazóxido
+Pruebas: TSH, HbA1c, función renal
+Dificultad: intermedia
+Fuentes: Goodman y Gilman, Katzung, Rang y Dale (verificar edición vigente)
