@@ -1,0 +1,4194 @@
+
+
+===== PAGE 1 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 1
+Guía ECOE - Módulo II: Neurología
+Universidad EIA - Medicina | Versión núcleo para estudio y procesamiento en Replit | 23 temas
+completos
+Índice de temas
+ID
+Tema
+M2-T01
+Neuroimagen
+M2-T02
+Epilepsia
+M2-T03
+Accidente cerebrovascular (ACV)
+M2-T04
+Vértigo
+M2-T05
+Banderas rojas en cefalea
+M2-T06
+Migraña
+M2-T07
+Aura migrañosa
+M2-T08
+Cefalea tipo tensión
+M2-T09
+Cefaleas trigémino-autonómicas
+M2-T10
+Enfermedad de Parkinson
+M2-T11
+Neurona motora superior e inferior
+M2-T12
+Síndrome de hipertensión endocraneana
+M2-T13
+Síndrome meníngeo
+M2-T14
+Síndromes sensitivos
+M2-T15
+Síndrome de unión neuromuscular y síndrome miopático
+M2-T16
+Síndromes extrapiramidales hipocinéticos e hipercinéticos
+M2-T17
+Síndrome de Guillain-Barré
+M2-T18
+Enfermedad de Alzheimer
+M2-T19
+Demencia
+M2-T20
+Evaluación mental
+M2-T21
+Evaluación de pares craneales, sensibilidad y motricidad
+M2-T22
+Evaluación cerebelosa
+M2-T23
+Farmacología neurológica
+Convenciones para procesamiento automático: cada bloque lleva una etiqueta en texto monoespaciado gris con el
+formato [TIPO] ID-tema | detalle. Tipos: [TEMA], [SECCIÓN], [TABLA], [ALGORITMO], [CASO], [SOLUCIÓN],
+[PREGUNTA], [RESPUESTA], [FLASHCARD], [ESTACIÓN], [METADATOS]. Las soluciones y respuestas van separadas
+del enunciado.
+[TEMA] M2-T01 | Neuroimagen
+
+
+===== PAGE 2 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 2
+M2-T01. Neuroimagen
+[SECCIÓN] M2-T01 | A. Fundamentos
+A. Fundamentos
+Definición: técnicas de imagen del sistema nervioso: tomografía computarizada (TC), resonancia magnética (RM) y
+estudios vasculares (angio-TC, angio-RM, angiografía). TC: rápida, disponible, excelente para hemorragia aguda y hueso;
+menor resolución en fosa posterior y tejido blando. RM: mejor contraste de tejidos; la secuencia de difusión (DWI)
+detecta isquemia en minutos; FLAIR muestra lesiones periventriculares y edema; T1 con gadolinio, lesiones inflamatorias
+o tumorales. Fisiología de la imagen en TC: sangre aguda hiperdensa (blanca), isquemia hipodensa (oscura, tras
+horas), líquido cefalorraquídeo (LCR) oscuro, hueso blanco.
+[SECCIÓN] M2-T01 | B. Hallazgos clínicos relevantes
+B. Hallazgos clínicos relevantes
+• Hemorragia intraparenquimatoria: hiperdensidad intracerebral. Hematoma epidural: lente biconvexa, arteria
+meníngea media, fractura temporal, intervalo lúcido. Subdural: semiluna, desgarro de venas puente, ancianos y
+alcohólicos. Hemorragia subaracnoidea (HSA): sangre en cisternas, aneurisma roto.
+• Isquemia: hipodensidad tardía en TC; signo de arteria cerebral media hiperdensa; en RM, restricción en difusión.
+• Efecto de masa: desviación de línea media, borramiento de surcos, hidrocefalia, herniación.
+[SECCIÓN] M2-T01 | C. Semiología y evaluación
+C. Semiología y evaluación
+Elegir el estudio según la pregunta clínica: déficit focal agudo o trauma, TC sin contraste; sospecha de esclerosis múltiple,
+tumor, infección o lesión de fosa posterior, RM. Antes de solicitar: función renal (contraste yodado), alergia, embarazo,
+implantes (marcapasos no compatibles, clips ferromagnéticos), claustrofobia.
+[SECCIÓN] M2-T01 | D. Diagnóstico (lectura sistemática)
+D. Diagnóstico (lectura sistemática)
+• ABC: aire, hueso, cisternas, ventrículos, parénquima (diferenciación gris-blanca), línea media.
+• HSA: TC sin contraste en las primeras horas es muy sensible; si es negativa y la sospecha persiste, punción lumbar
+(xantocromía) o angio-TC.
+• Gadolinio: riesgo de fibrosis sistémica nefrogénica en TFG muy baja.
+[SECCIÓN] M2-T01 | E. Tratamiento
+E. Tratamiento
+La imagen no trata, pero define conducta: TC con hemorragia, neurocirugía o manejo de presión; isquemia dentro de
+ventana, reperfusión.
+[SECCIÓN] M2-T01 | F. Razonamiento clínico
+F. Razonamiento clínico
+Una TC normal no excluye isquemia temprana ni lesión de fosa posterior. No retrasar la trombólisis por esperar una RM.
+Pedir imagen con pregunta clínica concreta.
+[SECCIÓN] M2-T01 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Lea esta TC de un paciente con cefalea súbita." Debe hacer: identificar el tipo de estudio, describir hallazgos
+(localización, densidad, efecto de masa), dar diagnóstico y conducta. Errores críticos: confundir hiperdensidad aguda
+con isquemia; no mencionar desviación de línea media.
+[ESTACIÓN] M2-T01 | Lectura de TC craneal (7 minutos)
+Estación ECOE: Lectura de TC craneal (7 minutos)
+• Imagen: semiluna hiperdensa con desviación de la línea media en un anciano con caídas. Esperado: hematoma
+subdural, valoración neuroquirúrgica.
+Tabla y algoritmo
+
+
+===== PAGE 3 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 3
+[TABLA] M2-T01 | Hematomas intracraneales
+Hematomas intracraneales
+Tipo
+Forma en TC
+Causa
+Clínica
+Epidural
+Lente biconvexa
+Arteria meníngea media
+Intervalo lúcido
+Subdural
+Semiluna
+Venas puente
+Ancianos, curso subagudo o
+crónico
+Subaracnoideo
+Sangre en cisternas
+Aneurisma roto
+Cefalea en trueno
+[ALGORITMO] M2-T01 | Elección de imagen
+Algoritmo: Elección de imagen
+1. Déficit agudo, trauma o cefalea en trueno: TC sin contraste.
+2. Sospecha vascular: angio-TC.
+3. Lesión de fosa posterior, desmielinizante, tumor o infección: RM.
+4. HSA con TC negativa: punción lumbar o angio-TC.
+[SECCIÓN] M2-T01 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) TC sin contraste primero en urgencia; (2) sangre aguda es hiperdensa; (3)
+difusión detecta isquemia temprana; (4) epidural lente, subdural semiluna; (5) TC negativa con sospecha de HSA: punción
+lumbar.
+[CASO] M2-T01 | CASO-1
+Caso clínico 1: Hombre de 70 años con caída y somnolencia
+Hombre de 70 años, alcohólico, cae 2 semanas atrás y ahora confusión y debilidad izquierda. TC: colección hiperdensa
+en semiluna derecha con desviación de línea media. Diagnóstico y conducta.
+[SOLUCIÓN] M2-T01 | CASO-1
+Hematoma subdural subagudo o crónico por desgarro de venas puente. Valoración neuroquirúrgica urgente por efecto de
+masa; suspender antitrombóticos y corregir coagulopatía.
+[PREGUNTA] M2-T01 | P1
+1. ¿Qué imagen es de primera elección en un paciente con déficit neurológico focal agudo?
+a) RM con gadolinio
+b) TC sin contraste
+c) Angiografía convencional
+d) Ecografía carotídea
+[RESPUESTA] M2-T01 | P1
+Respuesta correcta: b
+Explicación: Es rápida y descarta hemorragia antes de decidir reperfusión. La RM es útil pero más lenta; las otras no son
+primera línea.
+[PREGUNTA] M2-T01 | P2
+2. Lente biconvexa temporal tras trauma con intervalo lúcido:
+a) Subdural
+b) Epidural
+c) Subaracnoideo
+d) Intraparenquimatoso
+[RESPUESTA] M2-T01 | P2
+Respuesta correcta: b
+Explicación: Es el hematoma epidural por lesión de la arteria meníngea media.
+
+
+===== PAGE 4 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 4
+[PREGUNTA] M2-T01 | P3
+3. ¿Secuencia de RM más sensible para isquemia aguda?
+a) T1
+b) FLAIR
+c) Difusión (DWI)
+d) T2
+[RESPUESTA] M2-T01 | P3
+Respuesta correcta: c
+Explicación: La restricción de la difusión aparece en minutos.
+[FLASHCARD] M2-T01 | F1
+P: ¿Cómo se ve la sangre aguda en TC?
+R: Hiperdensa.
+[FLASHCARD] M2-T01 | F2
+P: ¿Qué forma tiene el hematoma subdural?
+R: Semiluna.
+[FLASHCARD] M2-T01 | F3
+P: ¿Qué estudio si TC negativa y sospecha de HSA?
+R: Punción lumbar o angio-TC.
+[FLASHCARD] M2-T01 | F4
+P: ¿Riesgo del gadolinio en TFG muy baja?
+R: Fibrosis sistémica nefrogénica.
+[METADATOS] M2-T01
+Metadatos
+Módulo: Neurología | Tema: Neuroimagen
+Conceptos clave: TC, RM, difusión, hematomas, HSA
+Diagnósticos relacionados: ACV, hematoma epidural, subdural, HSA, tumor
+Medicamentos: no aplica
+Pruebas: TC, RM, angio-TC, punción lumbar
+Dificultad: intermedia
+Fuentes: Adams y Victor, Bradley (verificar edición vigente)
+
+
+===== PAGE 5 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 5
+[TEMA] M2-T02 | Epilepsia
+M2-T02. Epilepsia
+[SECCIÓN] M2-T02 | A. Fundamentos
+A. Fundamentos
+Definición: predisposición duradera a crisis epilépticas no provocadas (dos crisis no provocadas separadas más de 24
+horas, o una con alto riesgo de recurrencia). Crisis: descarga neuronal anormal y sincrónica. Clasificación (ILAE): inicio
+focal (con conciencia conservada o alterada; con signos motores o no motores), generalizado (tónico-clónico, ausencia,
+mioclónica, atónica) e inicio desconocido. Etiología: estructural (ACV, tumor, trauma, displasia, esclerosis temporal
+medial), genética, infecciosa (neurocisticercosis, frecuente en Colombia), metabólica, inmune. Causas provocadas:
+hipoglucemia, hiponatremia, abstinencia de alcohol o benzodiacepinas, infección del sistema nervioso, fármacos,
+traumatismo.
+Fisiopatología: desequilibrio entre excitación (glutamato) e inhibición (GABA) o alteración de canales iónicos.
+[SECCIÓN] M2-T02 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Focal: aura, automatismos, desconexión, síntomas sensitivos o motores localizados; puede generalizarse.
+• Tónico-clónica generalizada: pérdida de conciencia, fase tónica, fase clónica, mordedura lateral de lengua,
+incontinencia, periodo posictal con confusión.
+• Ausencia: pérdida breve de conciencia (segundos), mirada fija, sin periodo posictal, inicio en la infancia,
+hiperventilación la provoca.
+• Estado epiléptico: crisis de más de 5 minutos o crisis repetidas sin recuperación; urgencia vital.
+[SECCIÓN] M2-T02 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: descripción por testigos (aura, inicio focal, duración, posictal), desencadenantes (privación de sueño,
+alcohol), antecedentes de trauma, infección, fármacos, antecedentes familiares. Examen: estado de conciencia, déficit
+focal (parálisis de Todd), mordedura de lengua, signos de infección, examen cardiovascular (descartar síncope
+convulsivo).
+[SECCIÓN] M2-T02 | D. Diagnóstico
+D. Diagnóstico
+• Clínico; apoyado en electroencefalograma (EEG) (puntas, espiga-onda a 3 Hz en ausencias) y RM cerebral con
+protocolo de epilepsia.
+• Laboratorio: glucosa, electrolitos (sodio, calcio, magnesio), función renal y hepática, tóxicos, prueba de embarazo. TC
+en urgencia si hay trauma, déficit o primera crisis.
+• Diferenciales: síncope, crisis psicógenas no epilépticas, migraña con aura, AIT, trastornos del sueño.
+[SECCIÓN] M2-T02 | E. Tratamiento
+E. Tratamiento
+• Crisis activa mayor de 5 minutos (estado epiléptico): asegurar vía aérea y glucosa; benzodiacepina de primera
+línea (lorazepam IV, aproximadamente 0,1 mg/kg con máximo 4 mg por dosis; midazolam IM o diazepam si no hay
+acceso); si persiste, fármaco de segunda línea (levetiracetam, fenitoína o fosfenitoína, ácido valproico); refractario:
+anestesia en UCI.
+• Crónico: iniciar fármaco antiepiléptico tras segunda crisis no provocada o primera de alto riesgo. Focal:
+carbamazepina, lamotrigina, levetiracetam. Generalizada: valproato (evitar en mujeres en edad fértil por
+teratogenicidad), lamotrigina, levetiracetam; ausencias: etosuximida o valproato. Carbamazepina y fenitoína pueden
+agravar ausencias y mioclonías.
+• Medicación refractaria: cirugía de epilepsia, estimulación del nervio vago, dieta cetogénica.
+• Consejería: sueño, alcohol, conducción de vehículos según normativa, seguridad en el agua y alturas.
+[SECCIÓN] M2-T02 | F. Razonamiento clínico
+F. Razonamiento clínico
+
+
+===== PAGE 6 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 6
+Primero determinar si fue crisis, luego si fue provocada, luego focal o generalizada. La lengua mordida lateralmente y el
+periodo posictal sugieren crisis; el síncope tiene pródromo y recuperación rápida. Errores: dar carbamazepina en
+ausencias; olvidar glucosa capilar; no preguntar por embarazo antes de valproato.
+[SECCIÓN] M2-T02 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Joven de 22 años con una crisis convulsiva presenciada." Debe hacer: anamnesis dirigida, examen
+neurológico, solicitar glucosa, electrolitos, EEG y RM, explicar precauciones. Errores críticos: no medir glucosa; no
+reconocer estado epiléptico; olvidar embarazo y teratogenicidad.
+[ESTACIÓN] M2-T02 | Primera crisis (7 minutos)
+Estación ECOE: Primera crisis (7 minutos)
+• Paciente: crisis tónico-clónica nocturna, privación de sueño, sin fármacos, mordedura lateral de lengua.
+• Hallazgos: examen normal, posictal resuelto.
+• Conducta: EEG, RM, laboratorio, explicar riesgo de recurrencia y precauciones, decisión de fármaco.
+Tabla y algoritmo
+[TABLA] M2-T02 | Elección de antiepiléptico por tipo de crisis
+Elección de antiepiléptico por tipo de crisis
+Tipo de crisis
+Primera línea habitual
+Evitar o precaución
+Focal
+Lamotrigina, levetiracetam, carbamazepina
+Interacciones de carbamazepina
+Generalizada tónico-clónica
+Valproato, lamotrigina, levetiracetam
+Valproato en mujeres fértiles
+Ausencias
+Etosuximida, valproato
+Carbamazepina, fenitoína
+Mioclónica
+Valproato, levetiracetam
+Carbamazepina
+[ALGORITMO] M2-T02 | Crisis convulsiva
+Algoritmo: Crisis convulsiva
+1. Vía aérea, glucosa capilar, acceso venoso.
+2. Crisis mayor de 5 min: benzodiacepina; si persiste, segundo fármaco; refractario: UCI.
+3. Buscar causa provocada (glucosa, sodio, calcio, tóxicos, infección).
+4. Sin causa provocada: EEG y RM, decidir tratamiento según riesgo de recurrencia.
+[SECCIÓN] M2-T02 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) más de 5 minutos es estado epiléptico; (2) benzodiacepina primero; (3)
+ausencias: etosuximida o valproato; (4) valproato es teratógeno; (5) descartar causas provocadas.
+[CASO] M2-T02 | CASO-1
+Caso clínico 1: Niña de 8 años con mirada fija
+Niña de 8 años con episodios de mirada fija de 10 segundos, decenas al día, que se desencadenan al hiperventilar. EEG:
+espiga-onda a 3 Hz. Diagnóstico y tratamiento.
+[SOLUCIÓN] M2-T02 | CASO-1
+Epilepsia de ausencia infantil. Etosuximida o valproato (evitar carbamazepina y fenitoína por riesgo de agravar). Se
+espera buen pronóstico.
+[PREGUNTA] M2-T02 | P1
+1. ¿Primer fármaco en un paciente con crisis mayor de 5 minutos?
+a) Fenitoína
+b) Benzodiacepina
+c) Valproato oral
+d) Levetiracetam oral
+[RESPUESTA] M2-T02 | P1
+Respuesta correcta: b
+Explicación: Las benzodiacepinas actúan rápido sobre el receptor GABA-A. Los demás son segunda línea o no sirven en
+urgencia.
+
+
+===== PAGE 7 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 7
+[PREGUNTA] M2-T02 | P2
+2. Niña con ausencias. ¿Qué fármaco debe evitarse?
+a) Etosuximida
+b) Valproato
+c) Carbamazepina
+d) Lamotrigina
+[RESPUESTA] M2-T02 | P2
+Respuesta correcta: c
+Explicación: La carbamazepina puede empeorar las ausencias.
+[PREGUNTA] M2-T02 | P3
+3. ¿Qué fármaco es especialmente teratógeno?
+a) Levetiracetam
+b) Valproato
+c) Lamotrigina
+d) Gabapentina
+[RESPUESTA] M2-T02 | P3
+Respuesta correcta: b
+Explicación: Se asocia a defectos del tubo neural y alteraciones del neurodesarrollo.
+[FLASHCARD] M2-T02 | F1
+P: ¿Definición de estado epiléptico?
+R: Crisis de más de 5 minutos o crisis repetidas sin recuperación.
+[FLASHCARD] M2-T02 | F2
+P: ¿EEG típico de ausencias?
+R: Espiga-onda a 3 Hz.
+[FLASHCARD] M2-T02 | F3
+P: ¿Etiología frecuente de epilepsia en Colombia?
+R: Neurocisticercosis, entre otras.
+[FLASHCARD] M2-T02 | F4
+P: ¿Parálisis de Todd?
+R: Debilidad focal transitoria posterior a la crisis.
+[METADATOS] M2-T02
+Metadatos
+Módulo: Neurología | Tema: Epilepsia
+Conceptos clave: crisis focal, generalizada, estado epiléptico, antiepilépticos
+Diagnósticos relacionados: síncope, crisis psicógenas, neurocisticercosis
+Medicamentos: lorazepam, levetiracetam, valproato, carbamazepina, lamotrigina, etosuximida
+Pruebas: EEG, RM, glucosa, electrolitos
+Dificultad: intermedia a alta
+Fuentes: Adams y Victor, Bradley, clasificación ILAE (verificar edición vigente)
+
+
+===== PAGE 8 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 8
+[TEMA] M2-T03 | Accidente cerebrovascular (ACV)
+M2-T03. Accidente cerebrovascular (ACV)
+[SECCIÓN] M2-T03 | A. Fundamentos
+A. Fundamentos
+Definición: déficit neurológico focal de inicio súbito por alteración vascular cerebral. Tipos: isquémico (cerca de 85%:
+aterotrombótico, cardioembólico, lacunar) y hemorrágico (intraparenquimatoso y subaracnoideo). Factores de riesgo:
+hipertensión, fibrilación auricular, diabetes, dislipidemia, tabaquismo, edad, enfermedad carotídea. Fisiopatología
+isquémica: la oclusión causa un núcleo infartado y una penumbra isquémica recuperable si se reperfunde; el tiempo es
+cerebro.
+[SECCIÓN] M2-T03 | B. Manifestaciones clínicas por territorio
+B. Manifestaciones clínicas por territorio
+• ACM: hemiparesia y pérdida sensitiva faciobraquial contralateral, hemianopsia, afasia (hemisferio dominante) o
+negligencia (no dominante).
+• ACA: debilidad de pierna contralateral, abulia.
+• ACP: hemianopsia homónima contralateral.
+• Vertebrobasilar: vértigo, diplopía, disartria, ataxia, síndromes alternos (síndrome de Wallenberg).
+• Lacunar: síndromes de hemiparesia motora pura o sensitiva pura.
+• Hemorrágico: cefalea intensa, vómito, deterioro de conciencia. AIT: déficit transitorio sin infarto; señal de alerta.
+• Banderas rojas: disminución de conciencia, cefalea intensa, vómito (hemorragia), compromiso del tronco.
+[SECCIÓN] M2-T03 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: hora exacta de inicio o última vez visto bien, anticoagulantes, cirugía o trauma reciente, convulsión,
+antecedentes cardiovasculares. Examen: signos vitales, glucosa, auscultación cardiaca (soplos, arritmia), examen
+neurológico con escala NIHSS (conciencia, mirada, campos, parálisis facial, fuerza, ataxia, sensibilidad, lenguaje,
+disartria, negligencia); reconocimiento con BE-FAST (equilibrio, ojos, cara, brazo, habla, tiempo).
+[SECCIÓN] M2-T03 | D. Diagnóstico
+D. Diagnóstico
+• TC sin contraste inmediata (descarta hemorragia); angio-TC para oclusión de gran vaso; RM con difusión si hay
+duda.
+• Glucosa capilar siempre (hipoglucemia imita ACV). ECG, troponina, hemograma, coagulación, perfil lipídico.
+• Etiología: ECG y Holter (fibrilación auricular), ecocardiograma, doppler o angio de vasos cervicales.
+[SECCIÓN] M2-T03 | E. Tratamiento
+E. Tratamiento
+• Trombólisis intravenosa (alteplasa o tenecteplasa) hasta 4,5 horas desde que fue visto bien por última vez, tras TC
+sin hemorragia. Contraindicaciones principales: hemorragia en imagen, cirugía mayor reciente, sangrado activo,
+plaquetas menores de 100.000, INR mayor de 1,7, anticoagulante directo en las últimas 48 horas, glucosa menor de 50
+mg/dL, presión arterial mayor de 185/110 mm Hg no controlable.
+• Trombectomía mecánica en oclusión de gran vaso (selección por imagen, ventana extendida hasta 24 horas en
+casos seleccionados).
+• Presión arterial: sin trombólisis, tolerar hasta 220/120; con trombólisis, mantener menor de 185/110 antes y menor de
+180/105 después.
+• Aspirina (24 a 48 horas tras trombólisis; de inmediato si no hay trombólisis); estatina; antiagregación dual breve en AIT
+o ACV menor.
+• Prevención secundaria: anticoagulación si fibrilación auricular, endarterectomía en estenosis carotídea sintomática
+grave, control de factores de riesgo.
+• Hemorrágico: control de presión, reversión de anticoagulación, neurocirugía en casos seleccionados; HSA: tratamiento
+del aneurisma (clip o coil).
+
+
+===== PAGE 9 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 9
+[SECCIÓN] M2-T03 | F. Razonamiento clínico
+F. Razonamiento clínico
+Lo primero es la hora y descartar hemorragia e hipoglucemia. Un síntoma en un solo territorio vascular orienta a ACV;
+síntomas difusos orientan a otras causas. Errores: demorar la TC; bajar la presión de forma agresiva en isquemia;
+trombolizar sin descartar contraindicaciones.
+[SECCIÓN] M2-T03 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Hombre de 68 años con debilidad del brazo derecho y dificultad para hablar desde hace 1 hora." Debe hacer:
+hora de inicio, glucosa capilar, NIHSS, solicitar TC urgente, activar código ACV, evaluar criterios de trombólisis. Errores
+críticos: no establecer hora de inicio; no medir glucosa; dar antihipertensivo agresivo.
+[ESTACIÓN] M2-T03 | Código ACV (7 minutos)
+Estación ECOE: Código ACV (7 minutos)
+• Paciente: debilidad brazo derecho y afasia hace 90 minutos, fibrilación auricular sin anticoagulante.
+• Hallazgos: PA 170/95, hemiparesia derecha, afasia.
+• TC: sin hemorragia. Conducta: trombólisis si cumple criterios, imagen vascular para trombectomía.
+Tabla y algoritmo
+[TABLA] M2-T03 | ACV isquémico vs. hemorrágico
+ACV isquémico vs. hemorrágico
+Rasgo
+Isquémico
+Hemorrágico
+Cefalea y vómito
+Poco frecuentes
+Frecuentes
+Conciencia
+Conservada al inicio
+Deterioro frecuente
+TC sin contraste
+Normal o hipodensidad tardía
+Hiperdensidad
+Tratamiento clave
+Reperfusión
+Control de presión y causa
+[ALGORITMO] M2-T03 | Código ACV
+Algoritmo: Código ACV
+1. Hora de inicio, glucosa capilar, NIHSS.
+2. TC sin contraste urgente.
+3. Sin hemorragia y dentro de ventana: trombólisis si no hay contraindicaciones.
+4. Oclusión de gran vaso: trombectomía.
+5. Fuera de ventana: antiagregación, soporte, estudio etiológico.
+6. Hemorragia: control de presión y neurocirugía.
+[SECCIÓN] M2-T03 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) TC sin contraste primero; (2) trombólisis hasta 4,5 horas; (3) glucosa siempre;
+(4) ACM: hemiparesia faciobraquial y afasia; (5) fibrilación auricular: anticoagular.
+[CASO] M2-T03 | CASO-1
+Caso clínico 1: Mujer de 72 años con hemiparesia izquierda
+Mujer de 72 años con hemiparesia izquierda, negligencia y desviación de la mirada a la derecha hace 2 horas. Glucosa
+110, PA 175/95, TC sin hemorragia. Diagnóstico y conducta.
+[SOLUCIÓN] M2-T03 | CASO-1
+ACV isquémico en territorio de la ACM derecha (negligencia por hemisferio no dominante). Dentro de ventana: trombólisis
+y angio-TC para trombectomía si oclusión de gran vaso; estudiar fibrilación auricular.
+
+
+===== PAGE 10 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 10
+[PREGUNTA] M2-T03 | P1
+1. ¿Primer estudio en sospecha de ACV agudo?
+a) RM de rutina
+b) TC sin contraste
+c) Punción lumbar
+d) Ecocardiograma
+[RESPUESTA] M2-T03 | P1
+Respuesta correcta: b
+Explicación: Descarta hemorragia y permite decidir trombólisis.
+[PREGUNTA] M2-T03 | P2
+2. Mujer con afasia y hemiparesia derecha. ¿Qué arteria?
+a) ACA izquierda
+b) ACM izquierda
+c) ACP derecha
+d) Basilar
+[RESPUESTA] M2-T03 | P2
+Respuesta correcta: b
+Explicación: Afasia y hemiparesia derecha indican hemisferio izquierdo dominante, territorio de la ACM.
+[PREGUNTA] M2-T03 | P3
+3. ¿Cuál es contraindicación de trombólisis?
+a) Edad de 70 años
+b) Hemorragia en la TC
+c) Hipertensión controlada
+d) Diabetes
+[RESPUESTA] M2-T03 | P3
+Respuesta correcta: b
+Explicación: La hemorragia contraindica el fibrinolítico.
+[FLASHCARD] M2-T03 | F1
+P: ¿Ventana de trombólisis?
+R: Hasta 4,5 horas.
+[FLASHCARD] M2-T03 | F2
+P: ¿Escala para gravedad del ACV?
+R: NIHSS.
+[FLASHCARD] M2-T03 | F3
+P: ¿Qué descartar siempre con glucosa?
+R: Hipoglucemia como imitador.
+[FLASHCARD] M2-T03 | F4
+P: ¿Prevención secundaria en fibrilación auricular?
+R: Anticoagulación.
+[METADATOS] M2-T03
+Metadatos
+Módulo: Neurología | Tema: Accidente cerebrovascular
+Conceptos clave: penumbra, NIHSS, trombólisis, trombectomía, territorios vasculares
+Diagnósticos relacionados: AIT, hemorragia intracerebral, HSA
+Medicamentos: alteplasa, tenecteplasa, aspirina, estatinas, anticoagulantes
+Pruebas: TC, angio-TC, RM, ECG, Holter
+Dificultad: alta
+Fuentes: Adams y Victor, guías AHA/ASA vigentes (verificar edición)
+
+
+===== PAGE 11 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 11
+[TEMA] M2-T04 | Vértigo
+M2-T04. Vértigo
+[SECCIÓN] M2-T04 | A. Fundamentos
+A. Fundamentos
+Definición: ilusión de movimiento (generalmente rotatorio) por asimetría del sistema vestibular. Periférico (laberinto o
+nervio vestibular) vs central (tronco o cerebelo). Fisiología: los canales semicirculares detectan aceleración angular; el
+reflejo vestíbulo-ocular mantiene la mirada estable; la asimetría de señales produce nistagmo y vértigo.
+Causas periféricas: vértigo posicional paroxístico benigno (VPPB, la más frecuente), neuritis vestibular, enfermedad de
+Ménière. Centrales: ACV de fosa posterior, esclerosis múltiple, migraña vestibular, tumores.
+[SECCIÓN] M2-T04 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• VPPB: episodios breves (menos de 1 minuto) con cambios de posición.
+• Neuritis vestibular: vértigo intenso continuo por días, náusea, sin hipoacusia.
+• Ménière: episodios de 20 minutos a horas, hipoacusia fluctuante, tinnitus, plenitud ótica.
+• Central: signos neurológicos (disartria, diplopía, ataxia, déficit motor), vértigo con incapacidad para caminar.
+• Bandera roja: cefalea intensa, factores de riesgo vascular, nistagmo vertical o cambiante, incapacidad para sentarse
+sin apoyo.
+[SECCIÓN] M2-T04 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: duración, desencadenantes, síntomas auditivos y neurológicos, fármacos ototóxicos. Examen: nistagmo
+espontáneo, maniobra de Dix-Hallpike (de sentado a decúbito con la cabeza girada 45 grados y colgante; nistagmo
+torsional con latencia y fatiga confirma VPPB del canal posterior), impulso cefálico (head impulse), prueba de
+desviación oblicua (skew), marcha, Romberg.
+HINTS (solo en síndrome vestibular agudo con nistagmo): signos de central son impulso cefálico normal, nistagmo
+cambiante de dirección o vertical, o desviación oblicua presente. Impulso cefálico anormal con nistagmo unidireccional y
+sin skew indica periférico.
+[SECCIÓN] M2-T04 | D. Diagnóstico
+D. Diagnóstico
+Clínico en VPPB y neuritis. RM con difusión si hay sospecha central (la TC es poco sensible en fosa posterior).
+Audiometría en Ménière.
+[SECCIÓN] M2-T04 | E. Tratamiento
+E. Tratamiento
+• VPPB: maniobra de reposición de Epley; sin fármacos.
+• Neuritis vestibular: supresores vestibulares solo por pocos días, antieméticos, rehabilitación vestibular temprana;
+corticoides pueden considerarse.
+• Ménière: restricción de sal, diuréticos, betahistina (evidencia limitada), tratamiento de episodios agudos; casos
+refractarios con intervenciones.
+• Central: manejo del ACV o causa de base.
+[SECCIÓN] M2-T04 | F. Razonamiento clínico
+F. Razonamiento clínico
+Distinguir vértigo de mareo inespecífico y síncope. La combinación vértigo continuo más factores vasculares exige
+descartar ACV aunque parezca neuritis. Errores: tratar con supresores crónicos; usar HINTS en pacientes sin nistagmo;
+confiar en una TC normal.
+[SECCIÓN] M2-T04 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+
+
+===== PAGE 12 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 12
+Entradilla: "Mujer de 60 años con vértigo al girarse en la cama." Debe hacer: descartar signos centrales, realizar
+Dix-Hallpike, explicar el diagnóstico y realizar o explicar Epley. Errores críticos: no buscar signos centrales; indicar
+supresores de forma crónica.
+[ESTACIÓN] M2-T04 | Maniobra de Dix-Hallpike (7 minutos)
+Estación ECOE: Maniobra de Dix-Hallpike (7 minutos)
+• Instrucción: realizar la maniobra a una paciente con vértigo posicional.
+• Esperado: explica, gira la cabeza 45 grados, pasa a decúbito colgante, observa nistagmo, interpreta VPPB y propone
+Epley.
+Tabla y algoritmo
+[TABLA] M2-T04 | Vértigo periférico vs. central
+Vértigo periférico vs. central
+Rasgo
+Periférico
+Central
+Inicio e intensidad
+Intenso
+Variable, a menudo menos intenso
+Nistagmo
+Unidireccional, horizonto-rotatorio, se inhibe
+al fijar
+Vertical o cambia de dirección
+Impulso cefálico
+Anormal
+Normal
+Hipoacusia
+Posible
+Rara
+Síntomas neurológicos
+Ausentes
+Presentes
+Marcha
+Posible caminar con desbalance
+Incapacidad para caminar
+[ALGORITMO] M2-T04 | Vértigo agudo
+Algoritmo: Vértigo agudo
+1. Descartar signos neurológicos y banderas rojas.
+2. Episodios breves posicionales: Dix-Hallpike y Epley.
+3. Continuo con nistagmo: HINTS.
+4. Signos centrales: RM con difusión y manejo de ACV.
+5. Periférico: antieméticos breves y rehabilitación vestibular.
+[SECCIÓN] M2-T04 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) VPPB: Dix-Hallpike y Epley; (2) neuritis: continuo sin hipoacusia; (3) Ménière:
+hipoacusia, tinnitus, plenitud; (4) HINTS: impulso normal es mala señal; (5) TC no descarta ACV de fosa posterior.
+[CASO] M2-T04 | CASO-1
+Caso clínico 1: Hombre de 58 años con vértigo continuo
+Hombre de 58 años, hipertenso y diabético, con vértigo continuo, vómito y no puede caminar. Nistagmo vertical, impulso
+cefálico normal. Diagnóstico y conducta.
+[SOLUCIÓN] M2-T04 | CASO-1
+Síndrome vestibular agudo de origen central (probable ACV de fosa posterior). RM con difusión y angio, manejo de ACV,
+no tratar como neuritis.
+[PREGUNTA] M2-T04 | P1
+1. ¿Qué maniobra trata el VPPB del canal posterior?
+a) Epley
+b) Romberg
+c) Valsalva
+d) Lasègue
+[RESPUESTA] M2-T04 | P1
+Respuesta correcta: a
+Explicación: Reposiciona los otolitos fuera del canal.
+
+
+===== PAGE 13 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 13
+[PREGUNTA] M2-T04 | P2
+2. ¿Hallazgo de HINTS que indica origen central?
+a) Impulso cefálico anormal
+b) Nistagmo unidireccional
+c) Impulso cefálico normal
+d) Hipoacusia
+[RESPUESTA] M2-T04 | P2
+Respuesta correcta: c
+Explicación: Con vértigo continuo y nistagmo, un impulso cefálico normal sugiere lesión central.
+[PREGUNTA] M2-T04 | P3
+3. Vértigo episódico con hipoacusia, tinnitus y plenitud ótica:
+a) Neuritis vestibular
+b) Ménière
+c) VPPB
+d) Migraña
+[RESPUESTA] M2-T04 | P3
+Respuesta correcta: b
+Explicación: La triada de síntomas auditivos y vértigo es típica.
+[FLASHCARD] M2-T04 | F1
+P: ¿Causa más frecuente de vértigo periférico?
+R: VPPB.
+[FLASHCARD] M2-T04 | F2
+P: ¿Maniobra diagnóstica del VPPB?
+R: Dix-Hallpike.
+[FLASHCARD] M2-T04 | F3
+P: ¿HINTS se usa cuando?
+R: Síndrome vestibular agudo con nistagmo.
+[FLASHCARD] M2-T04 | F4
+P: ¿Tratamiento de Ménière?
+R: Restricción de sal y diuréticos, control de crisis.
+[METADATOS] M2-T04
+Metadatos
+Módulo: Neurología | Tema: Vértigo
+Conceptos clave: periférico vs. central, HINTS, Dix-Hallpike, Epley
+Diagnósticos relacionados: VPPB, neuritis vestibular, Ménière, ACV de fosa posterior
+Medicamentos: antieméticos, supresores vestibulares, diuréticos
+Pruebas: Dix-Hallpike, impulso cefálico, RM
+Dificultad: intermedia
+Fuentes: Adams y Victor, Bradley (verificar edición vigente)
+
+
+===== PAGE 14 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 14
+[TEMA] M2-T05 | Banderas rojas en cefalea
+M2-T05. Banderas rojas en cefalea
+[SECCIÓN] M2-T05 | A. Fundamentos
+A. Fundamentos
+Definición: hallazgos que sugieren una cefalea secundaria (causa estructural, vascular, infecciosa o sistémica) y exigen
+estudio. La mayoría de las cefaleas son primarias (migraña, tensional, trigémino-autonómicas); las secundarias son
+menos frecuentes pero graves. Fisiopatología: el dolor se origina en estructuras sensibles (meninges, vasos, senos
+venosos, nervios craneales) por inflamación, tracción, compresión o aumento de presión.
+[SECCIÓN] M2-T05 | B. Manifestaciones clínicas (banderas rojas)
+B. Manifestaciones clínicas (banderas rojas)
+• Inicio súbito, "la peor cefalea de mi vida" o en trueno (HSA, disección, trombosis venosa, síndrome de
+vasoconstricción).
+• Edad mayor de 50 años de inicio nuevo (arteritis de células gigantes, tumor).
+• Fiebre, rigidez de cuello, rash (meningitis); inmunosupresión o VIH, cáncer.
+• Déficit neurológico focal, alteración del estado mental, papiledema, convulsión.
+• Cefalea progresiva, que despierta del sueño, empeora al acostarse o con maniobras de Valsalva (hipertensión
+endocraneana).
+• Trauma reciente, embarazo o posparto, cambio de patrón, sobreuso de analgésicos.
+• Arteritis de células gigantes: edad mayor de 50, cefalea temporal, claudicación mandibular, sensibilidad del cuero
+cabelludo, polimialgia, VSG o PCR altas; riesgo de ceguera.
+[SECCIÓN] M2-T05 | C. Semiología y evaluación
+C. Semiología y evaluación
+Mnemotecnia SNOOP: Systemic symptoms, Neurologic signs, Onset súbito, Older age, Pattern change. Examen: signos
+vitales (temperatura, presión), fondo de ojo (papiledema), rigidez de nuca (Kernig y Brudzinski), examen neurológico
+completo, arterias temporales, agudeza visual.
+[SECCIÓN] M2-T05 | D. Diagnóstico
+D. Diagnóstico
+• Cefalea en trueno: TC sin contraste inmediata; si es negativa y han pasado más de 6 horas, punción lumbar
+(xantocromía) o angio-TC.
+• Sospecha de meningitis: punción lumbar (tras TC si hay déficit focal, papiledema o alteración de conciencia) y
+antibióticos sin demora.
+• Sospecha de masa o trombosis venosa: RM con venografía. Arteritis: VSG, PCR y biopsia de arteria temporal (no
+retrasar el tratamiento).
+[SECCIÓN] M2-T05 | E. Tratamiento
+E. Tratamiento
+Depende de la causa: arteritis de células gigantes, prednisona de inmediato para prevenir ceguera; HSA, neurocirugía;
+meningitis, antibióticos empíricos; masa, neurocirugía y tratamiento de presión. Cefalea por sobreuso de analgésicos:
+retirar el fármaco y establecer profilaxis.
+[SECCIÓN] M2-T05 | F. Razonamiento clínico
+F. Razonamiento clínico
+Una cefalea con bandera roja no debe tratarse como migraña hasta descartar causa secundaria. Una TC normal no
+excluye todo: HSA tardía, trombosis venosa, arteritis. Errores: no dar corticoide ante sospecha de arteritis; no hacer fondo
+de ojo.
+[SECCIÓN] M2-T05 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+
+
+===== PAGE 15 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 15
+Entradilla: "Mujer de 65 años con cefalea temporal y dolor al masticar." Debe hacer: identificar banderas rojas, pedir
+VSG y PCR, iniciar prednisona, derivar para biopsia, advertir sobre ceguera. Errores críticos: no reconocer cefalea en
+trueno; no indicar imagen; retrasar corticoides.
+[ESTACIÓN] M2-T05 | Cefalea con bandera roja (7 minutos)
+Estación ECOE: Cefalea con bandera roja (7 minutos)
+• Paciente: cefalea súbita explosiva durante ejercicio. Esperado: TC urgente, punción lumbar si TC negativa, sospecha
+de HSA.
+Tabla y algoritmo
+[TABLA] M2-T05 | Banderas rojas y causas probables
+Banderas rojas y causas probables
+Bandera roja
+Causa sospechada
+Cefalea en trueno
+HSA, disección, vasoconstricción reversible
+Fiebre y rigidez de cuello
+Meningitis
+Mayor de 50 años, claudicación mandibular
+Arteritis de células gigantes
+Papiledema, cefalea matutina
+Hipertensión endocraneana, tumor
+Embarazo o posparto
+Trombosis venosa, preeclampsia
+Inmunosupresión
+Infección oportunista, linfoma
+[ALGORITMO] M2-T05 | Cefalea con banderas rojas
+Algoritmo: Cefalea con banderas rojas
+1. Identificar bandera roja.
+2. En trueno: TC sin contraste; si es negativa, punción lumbar o angio-TC.
+3. Fiebre y rigidez: antibióticos y punción lumbar.
+4. Mayor de 50 años: VSG, PCR y corticoide si hay sospecha de arteritis.
+5. Papiledema o déficit: RM.
+[SECCIÓN] M2-T05 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) trueno: HSA hasta demostrar lo contrario; (2) arteritis: prednisona sin esperar
+biopsia; (3) fiebre y rigidez: meningitis; (4) papiledema: imagen antes de punción; (5) siempre fondo de ojo.
+[CASO] M2-T05 | CASO-1
+Caso clínico 1: Mujer de 68 años con cefalea temporal
+Mujer de 68 años con cefalea temporal derecha de 3 semanas, dolor al masticar y visión borrosa transitoria. VSG 95.
+Diagnóstico y conducta.
+[SOLUCIÓN] M2-T05 | CASO-1
+Arteritis de células gigantes. Prednisona a dosis altas de inmediato (riesgo de ceguera), biopsia de arteria temporal en los
+días siguientes, seguimiento y protección ósea.
+[PREGUNTA] M2-T05 | P1
+1. ¿Qué indica cefalea súbita de intensidad máxima?
+a) Migraña típica
+b) Hemorragia subaracnoidea hasta demostrar lo contrario
+c) Cefalea tensional
+d) Cefalea en racimos
+[RESPUESTA] M2-T05 | P1
+Respuesta correcta: b
+Explicación: El inicio explosivo orienta a causa vascular grave.
+
+
+===== PAGE 16 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 16
+[PREGUNTA] M2-T05 | P2
+2. Mujer de 70 años con VSG alta y claudicación mandibular. Primera conducta:
+a) Esperar la biopsia
+b) Prednisona de inmediato
+c) Triptán
+d) AINE
+[RESPUESTA] M2-T05 | P2
+Respuesta correcta: b
+Explicación: El riesgo de ceguera obliga a tratar sin demora.
+[PREGUNTA] M2-T05 | P3
+3. Cefalea con papiledema y déficit focal. Antes de la punción lumbar:
+a) Realizar imagen
+b) Realizar punción directa
+c) Dar triptán
+d) Alta
+[RESPUESTA] M2-T05 | P3
+Respuesta correcta: a
+Explicación: La punción con masa puede provocar herniación.
+[FLASHCARD] M2-T05 | F1
+P: ¿Mnemotecnia de banderas rojas?
+R: SNOOP.
+[FLASHCARD] M2-T05 | F2
+P: ¿Qué estudio tras cefalea en trueno?
+R: TC sin contraste inmediata.
+[FLASHCARD] M2-T05 | F3
+P: ¿Complicación temida de arteritis de células gigantes?
+R: Ceguera.
+[FLASHCARD] M2-T05 | F4
+P: ¿Qué hallazgo ocular exige imagen?
+R: Papiledema.
+[METADATOS] M2-T05
+Metadatos
+Módulo: Neurología | Tema: Banderas rojas en cefalea
+Conceptos clave: cefalea secundaria, SNOOP, HSA, arteritis de células gigantes
+Diagnósticos relacionados: meningitis, tumor, trombosis venosa
+Medicamentos: prednisona
+Pruebas: TC, RM, punción lumbar, VSG
+Dificultad: intermedia
+Fuentes: Adams y Victor, clasificación ICHD-3 (verificar edición vigente)
+
+
+===== PAGE 17 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 17
+[TEMA] M2-T06 | Migraña
+M2-T06. Migraña
+[SECCIÓN] M2-T06 | A. Fundamentos
+A. Fundamentos
+Definición: cefalea primaria recurrente, con ataques de 4 a 72 horas, generalmente unilateral y pulsátil, con náusea y
+sensibilidad a luz y sonido. Epidemiología: más frecuente en mujeres, aparece entre adolescencia y adultez joven.
+Fisiopatología: activación del sistema trigémino-vascular con liberación de péptido relacionado con el gen de la
+calcitonina (CGRP), inflamación neurogénica y sensibilización central; la depresión cortical propagada explica el aura.
+Factores desencadenantes: sueño, ayuno, estrés, menstruación, alcohol, algunos alimentos.
+[SECCIÓN] M2-T06 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Fases: pródromo, aura (en una parte), cefalea, posdromo.
+• Criterios (ICHD-3) sin aura: al menos 5 ataques de 4 a 72 horas, con al menos 2 de: unilateral, pulsátil, intensidad
+moderada o grave, empeora con la actividad física; y náusea o vómito, o fotofobia y fonofobia.
+• Complicaciones: estado migrañoso (más de 72 horas), cefalea por sobreuso de medicación, migraña crónica (15 o
+más días al mes).
+[SECCIÓN] M2-T06 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: frecuencia, duración, intensidad, desencadenantes, aura, uso de analgésicos y días de uso, relación con
+menstruación, antecedentes familiares, anticonceptivos. Examen: neurológico normal entre crisis; fondo de ojo; descartar
+banderas rojas.
+[SECCIÓN] M2-T06 | D. Diagnóstico
+D. Diagnóstico
+Clínico. Imagen solo si hay bandera roja, cambio de patrón o examen anormal. Diario de cefalea.
+[SECCIÓN] M2-T06 | E. Tratamiento
+E. Tratamiento
+• Agudo: AINE (ibuprofeno, naproxeno) o paracetamol, antieméticos (metoclopramida); triptanes (agonistas
+5-HT1B/1D: sumatriptán, rizatriptán) en crisis moderadas o graves; contraindicados en enfermedad coronaria, ACV
+previo, hipertensión no controlada, migraña hemipléjica o del tronco. Limitar el uso para evitar cefalea por sobreuso
+(triptanes 10 o más días al mes; AINE 15 o más).
+• Profilaxis (frecuencia alta o gran discapacidad): propranolol, amitriptilina, topiramato, flunarizina (usada en la región),
+valproato (evitar en mujeres fértiles), anticuerpos monoclonales anti-CGRP. Elegir según comorbilidad (propranolol si
+hipertensión, amitriptilina si insomnio, topiramato si obesidad).
+• Embarazo: paracetamol; evitar valproato, topiramato y ergóticos.
+• No farmacológico: higiene del sueño, evitar desencadenantes, ejercicio.
+[SECCIÓN] M2-T06 | F. Razonamiento clínico
+F. Razonamiento clínico
+Migraña es el diagnóstico probable en cefalea recurrente con náusea y fotofobia y examen normal. Cambio de patrón o
+inicio después de los 50 años obliga a descartar secundaria. En mujeres con aura, evitar estrógenos. Errores: dar
+triptanes con enfermedad coronaria; permitir sobreuso de analgésicos.
+[SECCIÓN] M2-T06 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 28 años con cefalea pulsátil unilateral y vómito." Debe hacer: caracterizar la cefalea, preguntar por
+aura y banderas rojas, examen neurológico y fondo de ojo, plan agudo y profiláctico, educar sobre sobreuso. Errores
+críticos: pedir imagen sin indicación; recetar estrógenos a mujer con aura; no preguntar por embarazo.
+[ESTACIÓN] M2-T06 | Migraña (7 minutos)
+
+
+===== PAGE 18 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 18
+Estación ECOE: Migraña (7 minutos)
+• Paciente: cefalea pulsátil unilateral 6 horas, fotofobia, náusea, 3 ataques al mes, examen normal.
+• Conducta: AINE o triptán, antiemético, diario, profilaxis si empeora, educación sobre sobreuso.
+Tabla y algoritmo
+[TABLA] M2-T06 | Migraña vs. tensional vs. trigémino-autonómicas
+Migraña vs. tensional vs. trigémino-autonómicas
+Rasgo
+Migraña
+Tensional
+Racimos
+Localización
+Unilateral
+Bilateral
+Unilateral periorbitaria
+Calidad
+Pulsátil
+Opresiva
+Penetrante, intensa
+Intensidad
+Moderada a grave
+Leve a moderada
+Muy grave
+Duración
+4 a 72 h
+30 min a 7 días
+15 a 180 min
+Náusea y fotofobia
+Presentes
+Ausente o leve
+Ausentes
+Síntomas autonómicos
+No
+No
+Sí
+Conducta del paciente
+Reposo en la oscuridad
+Sin cambios
+Agitación
+[ALGORITMO] M2-T06 | Migraña
+Algoritmo: Migraña
+1. Diagnóstico clínico y descarte de banderas rojas.
+2. Crisis leve a moderada: AINE más antiemético.
+3. Crisis moderada a grave: triptán si no hay contraindicación.
+4. Frecuente o incapacitante: profilaxis.
+5. Vigilar sobreuso de analgésicos.
+[SECCIÓN] M2-T06 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) criterios ICHD-3; (2) CGRP es clave; (3) triptanes: contraindicados en
+cardiopatía isquémica y ACV; (4) sobreuso de analgésicos causa cefalea; (5) aura contraindica estrógenos.
+[CASO] M2-T06 | CASO-1
+Caso clínico 1: Mujer de 30 años con cefaleas mensuales
+Mujer de 30 años con cefalea pulsátil izquierda de 12 horas, vómito y fotofobia, 4 días al mes, exploración normal.
+Diagnóstico y manejo.
+[SOLUCIÓN] M2-T06 | CASO-1
+Migraña sin aura. AINE más antiemético en crisis, triptán si no responde; profilaxis (propranolol o amitriptilina) por
+frecuencia de 4 días al mes si hay discapacidad; educar sobre desencadenantes y sobreuso.
+[PREGUNTA] M2-T06 | P1
+1. ¿Contraindicación de los triptanes?
+a) Obesidad
+b) Enfermedad coronaria
+c) Asma leve
+d) Embarazo temprano
+[RESPUESTA] M2-T06 | P1
+Respuesta correcta: b
+Explicación: Por vasoconstricción coronaria. Las otras no son contraindicaciones absolutas, aunque en embarazo se
+prefiere paracetamol.
+
+
+===== PAGE 19 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 19
+[PREGUNTA] M2-T06 | P2
+2. Neuropéptido clave en migraña:
+a) CGRP
+b) Dopamina
+c) Insulina
+d) Acetilcolina
+[RESPUESTA] M2-T06 | P2
+Respuesta correcta: a
+Explicación: Es blanco de los anticuerpos monoclonales anti-CGRP.
+[PREGUNTA] M2-T06 | P3
+3. Más de 10 días al mes de triptanes puede causar:
+a) Cefalea por sobreuso de medicación
+b) Hipertensión
+c) Migraña con aura
+d) Cefalea en racimos
+[RESPUESTA] M2-T06 | P3
+Respuesta correcta: a
+Explicación: El uso frecuente cronifica la cefalea.
+[FLASHCARD] M2-T06 | F1
+P: ¿Duración de la migraña sin tratamiento?
+R: 4 a 72 horas.
+[FLASHCARD] M2-T06 | F2
+P: ¿Mecanismo de triptanes?
+R: Agonistas de receptores 5-HT1B/1D.
+[FLASHCARD] M2-T06 | F3
+P: ¿Profilaxis en hipertensión?
+R: Propranolol.
+[FLASHCARD] M2-T06 | F4
+P: ¿Qué evitar en migraña con aura?
+R: Anticonceptivos con estrógenos.
+[METADATOS] M2-T06
+Metadatos
+Módulo: Neurología | Tema: Migraña
+Conceptos clave: sistema trigémino-vascular, CGRP, triptanes, profilaxis
+Diagnósticos relacionados: cefalea tensional, racimos, cefalea por sobreuso
+Medicamentos: ibuprofeno, naproxeno, sumatriptán, rizatriptán, propranolol, amitriptilina, topiramato, flunarizina,
+anti-CGRP
+Pruebas: clínico; imagen solo con bandera roja
+Dificultad: intermedia
+Fuentes: Harrison, Adams y Victor, ICHD-3, guías vigentes (verificar edición)
+
+
+===== PAGE 20 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 20
+[TEMA] M2-T07 | Aura migrañosa
+M2-T07. Aura migrañosa
+[SECCIÓN] M2-T07 | A. Fundamentos
+A. Fundamentos
+Definición: síntomas neurológicos focales reversibles que preceden o acompañan la cefalea migrañosa. Ocurre en cerca
+de un tercio de los pacientes. Fisiopatología: depresión cortical propagada (onda de despolarización que avanza
+lentamente por la corteza, a unos 3 mm por minuto), con onda de inhibición posterior. Tipos: visual (más común),
+sensitiva, del lenguaje, motora (migraña hemipléjica), del tronco.
+[SECCIÓN] M2-T07 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Visual: escotoma centelleante, espectro de fortificación (zigzag), fotopsias que se expanden en 5 a 20 minutos.
+• Sensitiva: hormigueo que avanza de mano a cara.
+• Duración de 5 a 60 minutos; se instalan gradualmente; la cefalea sigue durante la aura o hasta 60 minutos después.
+• Bandera roja: aura de más de 60 minutos, motora, o de inicio súbito con síntomas negativos (pérdida de visión o
+fuerza).
+[SECCIÓN] M2-T07 | C. Semiología y evaluación
+C. Semiología y evaluación
+Preguntar por tipo, progresión (gradual vs súbita), duración, positiva (luces) vs negativa (pérdida), relación con cefalea,
+factores vasculares, anticonceptivos con estrógeno. Examen neurológico y de campos visuales.
+[SECCIÓN] M2-T07 | D. Diagnóstico
+D. Diagnóstico
+Clínico (ICHD-3: al menos dos ataques con aura reversible, gradual, de 5 a 60 minutos). Diferenciales: AIT (síntomas
+negativos, súbitos), epilepsia occipital (breve, coloreada, minutos), disección carotídea o vertebral, migraña con aura
+prolongada. En mayores de 40 años con aura sin cefalea, descartar AIT. RM si hay atipicidad.
+[SECCIÓN] M2-T07 | E. Tratamiento
+E. Tratamiento
+Igual que migraña; contraindicar estrógenos por mayor riesgo de ACV isquémico; tabaquismo y control vascular.
+Triptanes son seguros en aura típica pero contraindicados en migraña hemipléjica o del tronco.
+[SECCIÓN] M2-T07 | F. Razonamiento clínico
+F. Razonamiento clínico
+Las claves: síntomas positivos, que se propagan lentamente y duran menos de una hora, favorecen aura; los síntomas
+negativos de inicio súbito sugieren AIT. Errores: pasar por alto un AIT en adulto mayor con factores de riesgo; recetar
+anticonceptivos combinados.
+[SECCIÓN] M2-T07 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Joven con luces en zigzag seguidas de cefalea." Debe hacer: caracterizar la aura, preguntar por estrógenos,
+tabaquismo y antecedentes vasculares, aconsejar método anticonceptivo sin estrógeno. Errores críticos: recetar
+anticonceptivo combinado; no pedir estudio en aura atípica.
+[ESTACIÓN] M2-T07 | Aura visual (7 minutos)
+Estación ECOE: Aura visual (7 minutos)
+• Paciente: 20 minutos de zigzag luminoso que crece lentamente, luego cefalea pulsátil. Esperado: migraña con aura,
+evitar estrógenos.
+Tabla y algoritmo
+[TABLA] M2-T07 | Aura vs. AIT vs. epilepsia occipital
+Aura vs. AIT vs. epilepsia occipital
+
+
+===== PAGE 21 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 21
+Rasgo
+Aura migrañosa
+AIT
+Epilepsia occipital
+Inicio
+Gradual
+Súbito
+Súbito
+Síntomas
+Positivos (luces)
+Negativos (pérdida)
+Positivos, coloreados
+Duración
+5 a 60 min
+Minutos a horas
+Segundos a pocos minutos
+Edad
+Joven
+Mayor con riesgo vascular
+Variable
+[ALGORITMO] M2-T07 | Aura
+Algoritmo: Aura
+1. Clasificar síntomas (positivos vs negativos) y velocidad de instalación.
+2. Gradual y típica: migraña con aura; evitar estrógenos.
+3. Súbita o negativa: estudiar como AIT.
+4. Atípica o prolongada: RM y neurología.
+[SECCIÓN] M2-T07 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) aura es gradual y dura 5 a 60 minutos; (2) síntomas positivos; (3) súbita y
+negativa: AIT; (4) estrógenos contraindicados; (5) depresión cortical propagada.
+[CASO] M2-T07 | CASO-1
+Caso clínico 1: Mujer de 22 años con aura visual
+Mujer de 22 años con 20 minutos de escotoma centelleante seguido de cefalea pulsátil. Toma anticonceptivo combinado.
+Conducta.
+[SOLUCIÓN] M2-T07 | CASO-1
+Migraña con aura. Suspender el anticonceptivo con estrógenos por riesgo de ACV y ofrecer método solo de progestina o
+no hormonal; tratar la crisis y valorar profilaxis.
+[PREGUNTA] M2-T07 | P1
+1. ¿Duración típica de un aura migrañosa?
+a) Menos de 1 minuto
+b) 5 a 60 minutos
+c) 3 horas
+d) 24 horas
+[RESPUESTA] M2-T07 | P1
+Respuesta correcta: b
+Explicación: Es criterio diagnóstico de la ICHD-3.
+[PREGUNTA] M2-T07 | P2
+2. ¿Qué método anticonceptivo se evita en migraña con aura?
+a) DIU de cobre
+b) Combinado con estrógeno
+c) Implante de progestina
+d) Preservativo
+[RESPUESTA] M2-T07 | P2
+Respuesta correcta: b
+Explicación: Aumenta el riesgo de ACV isquémico.
+[PREGUNTA] M2-T07 | P3
+3. Pérdida visual súbita monocular de pocos minutos en hipertenso de 70 años:
+a) Aura migrañosa
+b) AIT (amaurosis fugaz)
+c) Epilepsia
+d) Cefalea tensional
+[RESPUESTA] M2-T07 | P3
+Respuesta correcta: b
+Explicación: Síntomas negativos súbitos en paciente vascular sugieren isquemia.
+
+
+===== PAGE 22 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 22
+[FLASHCARD] M2-T07 | F1
+P: ¿Qué la causa?
+R: Depresión cortical propagada.
+[FLASHCARD] M2-T07 | F2
+P: ¿Aura más frecuente?
+R: Visual.
+[FLASHCARD] M2-T07 | F3
+P: ¿Duración de aura?
+R: 5 a 60 minutos.
+[FLASHCARD] M2-T07 | F4
+P: ¿Qué la distingue del AIT?
+R: Instalación gradual y síntomas positivos.
+[METADATOS] M2-T07
+Metadatos
+Módulo: Neurología | Tema: Aura migrañosa
+Conceptos clave: depresión cortical propagada, síntomas positivos, anticonceptivos
+Diagnósticos relacionados: AIT, epilepsia occipital, disección
+Medicamentos: triptanes, analgésicos
+Pruebas: clínica, RM si atípica
+Dificultad: intermedia
+Fuentes: Adams y Victor, ICHD-3 (verificar edición vigente)
+
+
+===== PAGE 23 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 23
+[TEMA] M2-T08 | Cefalea tipo tensión
+M2-T08. Cefalea tipo tensión
+[SECCIÓN] M2-T08 | A. Fundamentos
+A. Fundamentos
+Definición: cefalea primaria más frecuente, de dolor bilateral opresivo de intensidad leve a moderada. Fisiopatología:
+sensibilización de nociceptores pericraneales y de vías centrales; contribuyen estrés, postura y tensión muscular.
+Clasificación: episódica infrecuente, episódica frecuente y crónica (15 o más días al mes).
+[SECCIÓN] M2-T08 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Dolor bilateral en banda u opresivo, de 30 minutos a 7 días, intensidad leve a moderada.
+• No empeora con actividad física habitual; sin náusea ni vómito; puede haber fotofobia o fonofobia, pero no ambas.
+• Sin aura; examen neurológico normal.
+[SECCIÓN] M2-T08 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: frecuencia, duración, calidad, desencadenantes (estrés, sueño, postura), uso de analgésicos, ánimo.
+Examen: palpación de músculos pericraneales y cervicales, neurológico normal.
+[SECCIÓN] M2-T08 | D. Diagnóstico
+D. Diagnóstico
+Clínico según ICHD-3. Imagen solo ante banderas rojas. Diferenciales: migraña, cefalea cervicogénica, secundaria.
+[SECCIÓN] M2-T08 | E. Tratamiento
+E. Tratamiento
+• Agudo: paracetamol, ibuprofeno o naproxeno; evitar opioides y uso frecuente (sobreuso).
+• Profilaxis (frecuente o crónica): amitriptilina; terapia cognitivo-conductual, manejo del estrés, ejercicio, higiene del
+sueño.
+[SECCIÓN] M2-T08 | F. Razonamiento clínico
+F. Razonamiento clínico
+Si el dolor es bilateral, opresivo y sin náusea, favorece tensional; si hay náusea marcada y empeora con el movimiento,
+favorece migraña. Muchos pacientes tienen ambas. Errores: sobreuso de analgésicos; pedir imagen sin indicación.
+[SECCIÓN] M2-T08 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Estudiante de 20 años con dolor de cabeza en banda de fin de semana." Debe hacer: caracterizar, descartar
+banderas rojas, explicar el carácter benigno, medidas no farmacológicas, advertir sobreuso. Errores críticos: solicitar TC
+innecesaria; prescribir opioides.
+[ESTACIÓN] M2-T08 | Cefalea tensional (7 minutos)
+Estación ECOE: Cefalea tensional (7 minutos)
+• Paciente: dolor opresivo bilateral de 3 días con estrés, examen normal. Esperado: diagnóstico clínico, paracetamol o
+AINE, manejo del estrés.
+Tabla y algoritmo
+[TABLA] M2-T08 | Tensional vs. migraña
+Tensional vs. migraña
+Rasgo
+Tensional
+Migraña
+Localización
+Bilateral
+Unilateral
+Calidad
+Opresiva
+Pulsátil
+Intensidad
+Leve a moderada
+Moderada a grave
+
+
+===== PAGE 24 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 24
+Rasgo
+Tensional
+Migraña
+Actividad
+No empeora
+Empeora
+Náusea
+Ausente
+Presente
+[ALGORITMO] M2-T08 | Cefalea tensional
+Algoritmo: Cefalea tensional
+1. Excluir banderas rojas.
+2. Tratamiento agudo con analgésico simple.
+3. Frecuente: amitriptilina y medidas no farmacológicas.
+4. Prevenir sobreuso.
+[SECCIÓN] M2-T08 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) bilateral y opresiva; (2) sin náusea; (3) no empeora con la actividad; (4)
+amitriptilina como profilaxis; (5) evitar sobreuso.
+[CASO] M2-T08 | CASO-1
+Caso clínico 1: Hombre de 35 años con cefalea en banda
+Hombre de 35 años con cefalea opresiva bilateral diaria hace 3 meses, estrés laboral, examen normal. Conducta.
+[SOLUCIÓN] M2-T08 | CASO-1
+Cefalea tipo tensión crónica probable. Descartar sobreuso de analgésicos, iniciar amitriptilina, manejo del estrés y
+ejercicio.
+[PREGUNTA] M2-T08 | P1
+1. ¿Qué fármaco se usa en la profilaxis de la cefalea tensional?
+a) Amitriptilina
+b) Sumatriptán
+c) Oxígeno
+d) Indometacina
+[RESPUESTA] M2-T08 | P1
+Respuesta correcta: a
+Explicación: Los triptanes son para migraña; el oxígeno, para racimos.
+[PREGUNTA] M2-T08 | P2
+2. ¿Qué rasgo distingue la tensional?
+a) Náusea y vómito
+b) Dolor opresivo bilateral que no empeora con la actividad
+c) Aura
+d) Lagrimeo
+[RESPUESTA] M2-T08 | P2
+Respuesta correcta: b
+Explicación: Los otros indican migraña o trigémino-autonómica.
+[PREGUNTA] M2-T08 | P3
+3. ¿Duración típica?
+a) 5 minutos
+b) 30 minutos a 7 días
+c) 15 a 180 minutos
+d) Más de 1 mes continuo
+[RESPUESTA] M2-T08 | P3
+Respuesta correcta: b
+Explicación: Es el rango de la clasificación.
+[FLASHCARD] M2-T08 | F1
+P: ¿Cefalea primaria más frecuente?
+R: Tensional.
+
+
+===== PAGE 25 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 25
+[FLASHCARD] M2-T08 | F2
+P: ¿Fármaco profiláctico?
+R: Amitriptilina.
+[FLASHCARD] M2-T08 | F3
+P: ¿Se acompaña de náusea?
+R: No.
+[METADATOS] M2-T08
+Metadatos
+Módulo: Neurología | Tema: Cefalea tipo tensión
+Conceptos clave: dolor bilateral opresivo, sensibilización, sobreuso
+Diagnósticos relacionados: migraña, cefalea cervicogénica
+Medicamentos: paracetamol, ibuprofeno, amitriptilina
+Pruebas: clínico
+Dificultad: básica
+Fuentes: Adams y Victor, ICHD-3 (verificar edición vigente)
+
+
+===== PAGE 26 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 26
+[TEMA] M2-T09 | Cefaleas trigémino-autonómicas
+M2-T09. Cefaleas trigémino-autonómicas
+[SECCIÓN] M2-T09 | A. Fundamentos
+A. Fundamentos
+Definición: cefaleas primarias unilaterales de dolor intenso en territorio trigeminal con signos autonómicos craneales
+ipsilaterales. Incluyen cefalea en racimos, hemicránea paroxística, SUNCT/SUNA y hemicránea continua.
+Fisiopatología: activación del reflejo trigémino-autonómico (núcleo del trigémino con vías parasimpáticas) con
+participación hipotalámica (ritmo circadiano). Epidemiología: racimos más frecuente en hombres, tabaquismo asociado.
+[SECCIÓN] M2-T09 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Racimos: dolor periorbitario o temporal unilateral insoportable, 15 a 180 minutos, 1 cada dos días hasta 8 al día, con
+lagrimeo, inyección conjuntival, rinorrea, ptosis, miosis, sudoración facial; el paciente se agita y camina (a diferencia de
+migraña). Ocurre en periodos (racimos) y a la misma hora, a menudo de noche.
+• Hemicránea paroxística: ataques de 2 a 30 minutos, muchos al día, respuesta absoluta a indometacina.
+• SUNCT/SUNA: ataques de segundos a minutos, muy frecuentes.
+[SECCIÓN] M2-T09 | C. Semiología y evaluación
+C. Semiología y evaluación
+Preguntar por horario, duración, número diario, agitación, signos autonómicos, alcohol como desencadenante durante
+racimo. Examen: síndrome de Horner parcial, ojo rojo, neurológico completo.
+[SECCIÓN] M2-T09 | D. Diagnóstico
+D. Diagnóstico
+Clínico según ICHD-3. RM cerebral en el primer episodio para descartar causa secundaria (tumor hipofisario, lesión selar,
+disección). Diferenciales: migraña, glaucoma agudo, neuralgia del trigémino, sinusitis.
+[SECCIÓN] M2-T09 | E. Tratamiento
+E. Tratamiento
+• Agudo (racimos): oxígeno al 100% a 12 a 15 L/min por mascarilla durante 15 minutos; sumatriptán subcutáneo;
+zolmitriptán nasal. Los analgésicos orales suelen ser lentos.
+• Profilaxis: verapamilo (primera línea; control de ECG por bloqueo AV), prednisona como puente breve, litio,
+topiramato; bloqueo del nervio occipital mayor.
+• Hemicránea paroxística: indometacina (prueba terapéutica; proteger estómago).
+• Evitar alcohol durante el periodo en racimo.
+[SECCIÓN] M2-T09 | F. Razonamiento clínico
+F. Razonamiento clínico
+Dolor unilateral periorbitario con lagrimeo y agitación es racimos hasta demostrar lo contrario. Si responde a
+indometacina, es hemicránea. Neuralgia del trigémino es dolor eléctrico breve con gatillo, tratada con carbamazepina.
+Errores: usar triptanes orales en lugar de oxígeno o inyectables; olvidar ECG con verapamilo.
+[SECCIÓN] M2-T09 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Hombre de 35 años, fumador, con dolor intenso en el ojo derecho por las noches." Debe hacer: caracterizar
+el dolor, buscar signos autonómicos, indicar oxígeno y sumatriptán, iniciar verapamilo con ECG, solicitar RM. Errores
+críticos: confundir con migraña; indicar triptanes orales como único manejo; no solicitar imagen.
+[ESTACIÓN] M2-T09 | Cefalea en racimos (7 minutos)
+Estación ECOE: Cefalea en racimos (7 minutos)
+• Paciente: dolor periorbitario derecho de 45 minutos, lagrimeo y rinorrea, camina agitado, ocurre 2 veces por noche
+desde hace 3 semanas.
+
+
+===== PAGE 27 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 27
+• Esperado: racimos; oxígeno 100% y sumatriptán SC; verapamilo; RM; evitar alcohol.
+Tabla y algoritmo
+[TABLA] M2-T09 | Cefaleas trigémino-autonómicas
+Cefaleas trigémino-autonómicas
+Tipo
+Duración
+Frecuencia diaria
+Respuesta clave
+Racimos
+15 a 180 min
+1 cada 2 días a 8
+Oxígeno, sumatriptán SC,
+verapamilo
+Hemicránea paroxística
+2 a 30 min
+Más de 5
+Indometacina
+SUNCT/SUNA
+1 a 600 s
+Muy numerosos
+Lamotrigina
+[ALGORITMO] M2-T09 | Cefalea unilateral con signos autonómicos
+Algoritmo: Cefalea unilateral con signos autonómicos
+1. Caracterizar duración y frecuencia.
+2. Solicitar RM en primera evaluación.
+3. Racimos: oxígeno y sumatriptán SC; profilaxis con verapamilo.
+4. Respuesta a indometacina: hemicránea.
+5. Dolor eléctrico breve con gatillo: neuralgia del trigémino, carbamazepina.
+[SECCIÓN] M2-T09 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) dolor periorbitario con lagrimeo y agitación; (2) oxígeno al 100% y sumatriptán
+SC; (3) verapamilo con ECG; (4) hemicránea: indometacina; (5) RM inicial.
+[CASO] M2-T09 | CASO-1
+Caso clínico 1: Hombre de 38 años con dolor ocular nocturno
+Hombre de 38 años, fumador, con dolor ocular derecho intenso de 1 hora cada noche, lagrimeo, rinorrea y agitación, hace
+3 semanas. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T09 | CASO-1
+Cefalea en racimos episódica. Oxígeno y sumatriptán SC en la crisis, verapamilo (ECG previo) y prednisona de puente,
+RM, suspender alcohol y tabaco.
+[PREGUNTA] M2-T09 | P1
+1. Tratamiento agudo de primera línea de racimos:
+a) Oxígeno al 100% y sumatriptán SC
+b) Paracetamol oral
+c) Amitriptilina
+d) Opioide oral
+[RESPUESTA] M2-T09 | P1
+Respuesta correcta: a
+Explicación: Actúan rápido; los orales tienen inicio lento.
+[PREGUNTA] M2-T09 | P2
+2. Responde de forma absoluta a indometacina:
+a) Racimos
+b) Hemicránea paroxística
+c) Migraña
+d) Tensional
+[RESPUESTA] M2-T09 | P2
+Respuesta correcta: b
+Explicación: Es la característica diagnóstica de la hemicránea.
+
+
+===== PAGE 28 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 28
+[PREGUNTA] M2-T09 | P3
+3. Control necesario al usar verapamilo:
+a) Glucemia
+b) ECG
+c) Calcio
+d) Hemograma
+[RESPUESTA] M2-T09 | P3
+Respuesta correcta: b
+Explicación: Puede causar bloqueo AV y bradicardia.
+[FLASHCARD] M2-T09 | F1
+P: ¿Conducta del paciente en racimos?
+R: Agitación y caminar.
+[FLASHCARD] M2-T09 | F2
+P: ¿Profilaxis de racimos?
+R: Verapamilo.
+[FLASHCARD] M2-T09 | F3
+P: ¿Hemicránea: fármaco?
+R: Indometacina.
+[FLASHCARD] M2-T09 | F4
+P: ¿Estudio inicial?
+R: RM cerebral.
+[METADATOS] M2-T09
+Metadatos
+Módulo: Neurología | Tema: Cefaleas trigémino-autonómicas
+Conceptos clave: reflejo trigémino-autonómico, racimos, indometacina
+Diagnósticos relacionados: migraña, neuralgia del trigémino, glaucoma
+Medicamentos: oxígeno, sumatriptán, verapamilo, prednisona, indometacina, litio
+Pruebas: RM, ECG
+Dificultad: intermedia
+Fuentes: Adams y Victor, ICHD-3 (verificar edición vigente)
+
+
+===== PAGE 29 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 29
+[TEMA] M2-T10 | Enfermedad de Parkinson
+M2-T10. Enfermedad de Parkinson
+[SECCIÓN] M2-T10 | A. Fundamentos
+A. Fundamentos
+Definición: enfermedad neurodegenerativa progresiva por pérdida de neuronas dopaminérgicas de la sustancia negra
+pars compacta, con depósito de alfa-sinucleína (cuerpos de Lewy). Epidemiología: inicio típico después de los 60 años;
+más frecuente en hombres. Factores de riesgo: edad, antecedentes familiares, exposición a pesticidas; el tabaco y el
+café se asocian con menor riesgo. Fisiopatología: la falta de dopamina en el estriado desequilibra los ganglios basales:
+la vía directa (facilitadora del movimiento) se hipoactiva y la indirecta (inhibidora) se hiperactiva, lo que produce
+bradicinesia y rigidez.
+[SECCIÓN] M2-T10 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Motoras: bradicinesia (obligatoria para el diagnóstico) más temblor de reposo (4 a 6 Hz, "contar monedas",
+asimétrico), rigidez en rueda dentada o plomo, e inestabilidad postural (tardía).
+• Signos: hipomimia, hipofonía, micrografía, marcha con pasos cortos, festinación, disminución del braceo, postura
+flexionada.
+• No motoras (a menudo preceden): hiposmia, estreñimiento, trastorno de conducta del sueño REM, depresión,
+ansiedad, hipotensión ortostática, demencia tardía.
+• Banderas rojas contra Parkinson típico: caídas tempranas, mala respuesta a levodopa, disautonomía precoz,
+oftalmoplejía vertical, signos piramidales o cerebelosos.
+[SECCIÓN] M2-T10 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: inicio asimétrico, olfato, sueño, estreñimiento, fármacos (antipsicóticos, metoclopramida). Examen: observar
+facies, temblor en reposo, rigidez (movimiento pasivo de la muñeca con maniobra de refuerzo), bradicinesia (golpeteo de
+dedos, apertura y cierre de manos, con decremento de amplitud), marcha, prueba del empujón (retropulsión).
+[SECCIÓN] M2-T10 | D. Diagnóstico
+D. Diagnóstico
+Clínico (criterios MDS): bradicinesia más temblor o rigidez. Respuesta a levodopa apoya. RM para descartar causa
+secundaria o atípica; DaTscan (SPECT del transportador de dopamina) en casos dudosos. Excluir parkinsonismo
+farmacológico y vascular.
+[SECCIÓN] M2-T10 | E. Tratamiento
+E. Tratamiento
+• Levodopa con carbidopa: la más eficaz; la carbidopa inhibe la descarboxilasa periférica y reduce náuseas e
+hipotensión. Complicaciones a largo plazo: fluctuaciones motoras (fenómeno de desgaste, "wearing-off"), discinesias.
+• Agonistas dopaminérgicos (pramipexol, ropinirol, rotigotina): útiles en pacientes jóvenes; efectos adversos:
+somnolencia, edema, alucinaciones, trastornos de control de impulsos.
+• Inhibidores de MAO-B (selegilina, rasagilina), inhibidores de COMT (entacapona; alargan el efecto de levodopa),
+amantadina (discinesias), anticolinérgicos (temblor en jóvenes; evitar en ancianos por efectos cognitivos).
+• Psicosis: reducir fármacos antiparkinsonianos y usar quetiapina o clozapina; evitar haloperidol y metoclopramida.
+• Cirugía: estimulación cerebral profunda en pacientes seleccionados con fluctuaciones y buena respuesta a levodopa.
+Rehabilitación, ejercicio, nutrición.
+[SECCIÓN] M2-T10 | F. Razonamiento clínico
+F. Razonamiento clínico
+Un temblor de reposo asimétrico con bradicinesia es Parkinson hasta demostrar lo contrario. Si hay caídas tempranas o
+poca respuesta a levodopa, pensar en parkinsonismo atípico. Antes de dar un diagnóstico, revisar fármacos. Errores:
+iniciar anticolinérgicos en ancianos; suspender levodopa bruscamente (riesgo de síndrome de retirada).
+[SECCIÓN] M2-T10 | G. Aplicación al ECOE
+
+
+===== PAGE 30 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 30
+G. Aplicación al ECOE
+Entradilla: "Hombre de 68 años con temblor en la mano derecha y lentitud." Debe hacer: anamnesis dirigida (fármacos,
+olfato, sueño), examen de temblor, rigidez, bradicinesia, marcha, explicar diagnóstico y plan. Errores críticos: no revisar
+fármacos; omitir bradicinesia; recetar antipsicótico típico.
+[ESTACIÓN] M2-T10 | Parkinson (7 minutos)
+Estación ECOE: Parkinson (7 minutos)
+• Paciente: temblor de reposo derecho, letra pequeña, estreñimiento, pérdida del olfato.
+• Hallazgos: hipomimia, rigidez en rueda dentada derecha, bradicinesia. Esperado: Parkinson, iniciar
+levodopa-carbidopa según edad y discapacidad, rehabilitación.
+Tabla y algoritmo
+[TABLA] M2-T10 | Fármacos antiparkinsonianos
+Fármacos antiparkinsonianos
+Fármaco
+Mecanismo
+Efecto adverso destacado
+Levodopa-carbidopa
+Precursor de dopamina más inhibidor
+periférico de la descarboxilasa
+Discinesias, fluctuaciones, náusea
+Pramipexol, ropinirol
+Agonistas D2
+Somnolencia, trastornos de control de
+impulsos, alucinaciones
+Selegilina, rasagilina
+Inhibidores de MAO-B
+Insomnio, interacciones serotoninérgicas
+Entacapona
+Inhibidor de COMT
+Diarrea, discinesias
+Amantadina
+Libera dopamina, antagonista NMDA
+Alucinaciones, edema, livedo reticular
+Trihexifenidilo
+Anticolinérgico
+Confusión, retención urinaria, boca seca
+[ALGORITMO] M2-T10 | Sospecha de Parkinson
+Algoritmo: Sospecha de Parkinson
+1. Buscar bradicinesia más temblor o rigidez.
+2. Revisar fármacos causantes.
+3. Banderas rojas: considerar parkinsonismo atípico y RM.
+4. Iniciar tratamiento según edad y discapacidad.
+5. Seguimiento de complicaciones motoras y no motoras.
+[SECCIÓN] M2-T10 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) bradicinesia es obligatoria; (2) temblor de reposo asimétrico; (3) levodopa es
+la más eficaz; (4) evitar antipsicóticos típicos y metoclopramida; (5) caídas tempranas sugieren parkinsonismo atípico.
+[CASO] M2-T10 | CASO-1
+Caso clínico 1: Hombre de 66 años con temblor
+Hombre de 66 años con temblor de reposo en mano izquierda hace 1 año, lentitud, micrografía y estreñimiento. Rigidez
+en rueda dentada izquierda. Diagnóstico y tratamiento inicial.
+[SOLUCIÓN] M2-T10 | CASO-1
+Enfermedad de Parkinson. Iniciar levodopa-carbidopa o un agonista/inhibidor de MAO-B según discapacidad; educar,
+ejercicio y rehabilitación; vigilar complicaciones.
+[PREGUNTA] M2-T10 | P1
+1. ¿Qué signo es indispensable para el diagnóstico clínico?
+a) Temblor de reposo
+b) Bradicinesia
+c) Rigidez
+d) Inestabilidad postural
+[RESPUESTA] M2-T10 | P1
+Respuesta correcta: b
+Explicación: La bradicinesia debe estar presente; el temblor puede faltar y la inestabilidad aparece tarde.
+
+
+===== PAGE 31 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 31
+[PREGUNTA] M2-T10 | P2
+2. ¿Para qué se combina carbidopa con levodopa?
+a) Aumentar la pérdida de dopamina
+b) Inhibir la descarboxilasa periférica
+c) Bloquear receptores D2
+d) Inhibir la MAO-B
+[RESPUESTA] M2-T10 | P2
+Respuesta correcta: b
+Explicación: Reduce la conversión periférica a dopamina y sus efectos adversos.
+[PREGUNTA] M2-T10 | P3
+3. ¿Fármaco contraindicado en psicosis de Parkinson?
+a) Quetiapina
+b) Clozapina
+c) Haloperidol
+d) Pimavanserina
+[RESPUESTA] M2-T10 | P3
+Respuesta correcta: c
+Explicación: Los antagonistas D2 potentes empeoran el parkinsonismo.
+[FLASHCARD] M2-T10 | F1
+P: ¿Qué estructura degenera?
+R: Sustancia negra pars compacta.
+[FLASHCARD] M2-T10 | F2
+P: ¿Frecuencia del temblor de reposo?
+R: 4 a 6 Hz.
+[FLASHCARD] M2-T10 | F3
+P: ¿Estudio dudoso?
+R: DaTscan.
+[FLASHCARD] M2-T10 | F4
+P: ¿Complicación tardía de levodopa?
+R: Discinesias y fluctuaciones.
+[METADATOS] M2-T10
+Metadatos
+Módulo: Neurología | Tema: Enfermedad de Parkinson
+Conceptos clave: bradicinesia, dopamina, ganglios basales, levodopa
+Diagnósticos relacionados: parkinsonismos atípicos, temblor esencial, parkinsonismo farmacológico
+Medicamentos: levodopa-carbidopa, pramipexol, rasagilina, entacapona, amantadina
+Pruebas: clínico, RM, DaTscan
+Dificultad: intermedia
+Fuentes: Adams y Victor, Bradley, criterios MDS (verificar edición vigente)
+
+
+===== PAGE 32 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 32
+[TEMA] M2-T11 | Neurona motora superior e inferior
+M2-T11. Neurona motora superior e inferior
+[SECCIÓN] M2-T11 | A. Fundamentos
+A. Fundamentos
+Neurona motora superior (NMS): células de la corteza motora que descienden por la vía corticoespinal (cápsula interna,
+tronco, decusación piramidal en el bulbo, médula) y la corticobulbar. Neurona motora inferior (NMI): motoneuronas del
+asta anterior de la médula y de los núcleos motores de pares craneales; incluye raíces y nervios periféricos hasta la placa
+motora. Fisiopatología: la lesión de la NMS libera los reflejos espinales de la inhibición descendente (espasticidad,
+hiperreflexia); la lesión de la NMI interrumpe el arco reflejo y la trofia muscular (flacidez, hiporreflexia, atrofia).
+[SECCIÓN] M2-T11 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• NMS: debilidad con patrón piramidal, espasticidad (signo de la navaja), hiperreflexia, signo de Babinski (extensión del
+primer ortejo), clonus, Hoffmann, poca atrofia.
+• NMI: debilidad, hipotonía, hiporreflexia o arreflexia, atrofia, fasciculaciones.
+• Lesiones típicas: corteza o cápsula interna (hemiparesia contralateral), tronco (síndromes alternos), médula
+(paraparesia o tetraparesia con nivel sensitivo y esfínteres), cauda equina.
+• Esclerosis lateral amiotrófica (ELA): signos mixtos de NMS y NMI sin alteración sensitiva.
+[SECCIÓN] M2-T11 | C. Semiología y evaluación
+C. Semiología y evaluación
+Fuerza con escala MRC 0 a 5 (por grupos musculares), tono, trofismo, reflejos osteotendinosos (0 a 4), reflejos cutáneos
+(plantar, abdominal), Hoffmann, clonus, fasciculaciones. Documentación: "Fuerza 3/5 en miembro superior derecho, tono
+aumentado en navaja, reflejos 3+, Babinski derecho presente."
+[SECCIÓN] M2-T11 | D. Diagnóstico
+D. Diagnóstico
+Clínico (localización antes que etiología). RM cerebral o medular según nivel, electromiografía y velocidades de
+conducción, punción lumbar si se sospecha inflamatorio. Diferenciales: neuropatía, miopatía, unión neuromuscular.
+[SECCIÓN] M2-T11 | E. Tratamiento
+E. Tratamiento
+Según causa (ACV, mielopatía, compresión, ELA). En ELA: riluzol y soporte respiratorio y nutricional. Espasticidad:
+baclofeno, tizanidina, toxina botulínica y fisioterapia. Compresión medular: urgencia neuroquirúrgica.
+[SECCIÓN] M2-T11 | F. Razonamiento clínico
+F. Razonamiento clínico
+Localizar primero: ¿NMS o NMI? ¿Nivel? Luego causa. Un hallazgo de NMS con nivel sensitivo es mielopatía;
+fasciculaciones y atrofia son NMI. La fase aguda de lesión de NMS (shock espinal o cerebral) puede mostrar flacidez
+antes de espasticidad.
+[SECCIÓN] M2-T11 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Paciente con debilidad en pierna derecha." Debe hacer: exploración de tono, fuerza, reflejos, Babinski,
+trofismo; clasificar NMS o NMI; proponer causa y estudio. Errores críticos: no explorar Babinski; confundir hiper e
+hiporreflexia.
+[ESTACIÓN] M2-T11 | Examen motor (7 minutos)
+Estación ECOE: Examen motor (7 minutos)
+• Instrucción: explorar fuerza, tono, reflejos y Babinski en brazo y pierna. Esperado: técnica correcta, comparación
+bilateral, conclusión sobre NMS o NMI.
+Tabla comparativa y algoritmo
+
+
+===== PAGE 33 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 33
+[TABLA] M2-T11 | Neurona motora superior vs. inferior
+Neurona motora superior vs. inferior
+Rasgo
+NMS
+NMI
+Tono
+Aumentado (espasticidad)
+Disminuido (flacidez)
+Reflejos
+Aumentados
+Disminuidos o ausentes
+Atrofia
+Poca (por desuso)
+Marcada
+Fasciculaciones
+Ausentes
+Presentes
+Babinski
+Presente
+Ausente
+Ejemplo
+ACV, mielopatía
+Neuropatía, poliomielitis, ELA (componente)
+[ALGORITMO] M2-T11 | Debilidad
+Algoritmo: Debilidad
+1. Clasificar: NMS, NMI, unión neuromuscular o músculo.
+2. Definir distribución (focal, hemicuerpo, simétrica, proximal o distal).
+3. Buscar nivel sensitivo y esfínteres.
+4. Solicitar imagen y electrofisiología según la localización.
+[SECCIÓN] M2-T11 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) NMS: espástico, hiperreflexia, Babinski; (2) NMI: flácido, hiporreflexia, atrofia,
+fasciculaciones; (3) ELA es mixta sin déficit sensitivo; (4) localizar antes de buscar causa; (5) la fase aguda puede ser
+flácida.
+[CASO] M2-T11 | CASO-1
+Caso clínico 1: Mujer de 55 años con debilidad progresiva
+Mujer de 55 años con calambres, fasciculaciones, atrofia de la mano y reflejos aumentados en piernas con Babinski. Sin
+pérdida sensitiva. Diagnóstico.
+[SOLUCIÓN] M2-T11 | CASO-1
+Esclerosis lateral amiotrófica: signos de NMI en brazos y de NMS en piernas, sin alteración sensitiva. EMG, RM para
+excluir mielopatía; riluzol y manejo multidisciplinario.
+[PREGUNTA] M2-T11 | P1
+1. Fasciculaciones, atrofia e hiporreflexia indican:
+a) Lesión de NMS
+b) Lesión de NMI
+c) Lesión cerebelosa
+d) Lesión sensitiva
+[RESPUESTA] M2-T11 | P1
+Respuesta correcta: b
+Explicación: Son signos de afectación del asta anterior o del nervio periférico.
+[PREGUNTA] M2-T11 | P2
+2. ¿Cuál es un signo de NMS?
+a) Fasciculaciones
+b) Babinski
+c) Arreflexia
+d) Hipotonía
+[RESPUESTA] M2-T11 | P2
+Respuesta correcta: b
+Explicación: La extensión del primer ortejo indica lesión de la vía corticoespinal.
+
+
+===== PAGE 34 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 34
+[PREGUNTA] M2-T11 | P3
+3. ¿Fármaco aprobado para ELA?
+a) Riluzol
+b) Levodopa
+c) Donepezilo
+d) Piridostigmina
+[RESPUESTA] M2-T11 | P3
+Respuesta correcta: a
+Explicación: Modula el glutamato y prolonga modestamente la supervivencia.
+[FLASHCARD] M2-T11 | F1
+P: ¿Tono en lesión de NMS?
+R: Aumentado, espasticidad en navaja.
+[FLASHCARD] M2-T11 | F2
+P: ¿Escala de fuerza?
+R: MRC de 0 a 5.
+[FLASHCARD] M2-T11 | F3
+P: ¿Qué sugiere clonus?
+R: Lesión de NMS.
+[FLASHCARD] M2-T11 | F4
+P: ¿ELA afecta sensibilidad?
+R: No.
+[METADATOS] M2-T11
+Metadatos
+Módulo: Neurología | Tema: Neurona motora superior e inferior
+Conceptos clave: vía corticoespinal, espasticidad, fasciculaciones, localización
+Diagnósticos relacionados: ELA, mielopatía, neuropatía, ACV
+Medicamentos: riluzol, baclofeno, tizanidina
+Pruebas: examen motor, RM, EMG
+Dificultad: básica a intermedia
+Fuentes: DeJong, Adams y Victor (verificar edición vigente)
+
+
+===== PAGE 35 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 35
+[TEMA] M2-T12 | Síndrome de hipertensión endocraneana
+M2-T12. Síndrome de hipertensión endocraneana
+[SECCIÓN] M2-T12 | A. Fundamentos
+A. Fundamentos
+Definición: aumento de la presión intracraneal (PIC) mayor de 20 mm Hg (adultos; en hipertensión intracraneal
+idiopática, presión de apertura de LCR mayor de 25 cm H2O). Fisiología: doctrina de Monro-Kellie: el cráneo es un
+compartimento rígido con tres contenidos (parénquima, sangre, LCR); el aumento de uno obliga a disminuir los otros;
+agotada la compensación, la PIC sube de forma exponencial. Presión de perfusión cerebral = presión arterial media
+menos PIC.
+Causas: tumores, hemorragia, edema cerebral, hidrocefalia, meningitis o encefalitis, trombosis venosa cerebral, absceso,
+hipertensión intracraneal idiopática (mujeres jóvenes con obesidad).
+[SECCIÓN] M2-T12 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Cefalea progresiva, peor en la mañana o al acostarse o con Valsalva, vómito en proyectil sin náusea previa,
+papiledema, diplopía horizontal (parálisis del VI par por tracción), alteración de conciencia.
+• Tríada de Cushing (tardía): hipertensión, bradicardia y respiración irregular.
+• Herniaciones: uncal (midriasis ipsilateral por compresión del III par, hemiparesia), subfalcina, amigdalina (paro
+respiratorio), central.
+• Hipertensión intracraneal idiopática: cefalea, oscurecimientos visuales transitorios, tinnitus pulsátil, riesgo de pérdida
+visual.
+[SECCIÓN] M2-T12 | C. Semiología y evaluación
+C. Semiología y evaluación
+Fondo de ojo (papiledema: borramiento de bordes del disco), pupilas, Glasgow, signos de herniación, campos visuales,
+pares craneales. Evitar punción lumbar si hay sospecha de masa.
+[SECCIÓN] M2-T12 | D. Diagnóstico
+D. Diagnóstico
+TC o RM cerebral con venografía si se sospecha trombosis. Punción lumbar con presión de apertura en HTIC idiopática
+(tras imagen normal): LCR de composición normal.
+[SECCIÓN] M2-T12 | E. Tratamiento
+E. Tratamiento
+• Emergencia (herniación): cabecera a 30 grados, vía aérea y oxigenación, evitar hipotensión, hiperventilación breve
+como puente, manitol o solución salina hipertónica, sedación, drenaje ventricular o craniectomía descompresiva,
+neurocirugía.
+• Edema por tumor: dexametasona.
+• HTIC idiopática: pérdida de peso, acetazolamida, punciones evacuadoras, derivación o fenestración de la vaina del
+nervio óptico si hay pérdida visual.
+• Tratar la causa.
+[SECCIÓN] M2-T12 | F. Razonamiento clínico
+F. Razonamiento clínico
+Cefalea con papiledema es hipertensión endocraneana hasta demostrar lo contrario. Si hay déficit focal, pensar en masa.
+Errores: hacer punción lumbar antes de imagen; hiperventilar de forma prolongada; no examinar el fondo de ojo.
+[SECCIÓN] M2-T12 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 28 años con obesidad y cefalea diaria con visión borrosa transitoria." Debe hacer: fondo de ojo,
+campos visuales, solicitar imagen y presión de apertura, explicar tratamiento. Errores críticos: punción lumbar sin
+imagen; omitir fondo de ojo.
+
+
+===== PAGE 36 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 36
+[ESTACIÓN] M2-T12 | Hipertensión endocraneana (7 minutos)
+Estación ECOE: Hipertensión endocraneana (7 minutos)
+• Paciente: cefalea matutina con vómito, diplopía. Esperado: papiledema, parálisis del VI par, imagen urgente, evitar
+punción lumbar.
+Tabla y algoritmo
+[TABLA] M2-T12 | Herniaciones cerebrales
+Herniaciones cerebrales
+Tipo
+Estructura comprimida
+Signo
+Uncal
+III par y tronco
+Midriasis ipsilateral, hemiparesia
+Subfalcina
+Arteria cerebral anterior
+Debilidad de pierna
+Amigdalina
+Bulbo
+Apnea, coma
+[ALGORITMO] M2-T12 | Sospecha de HTE
+Algoritmo: Sospecha de HTE
+1. Signos vitales, Glasgow, pupilas, fondo de ojo.
+2. Estabilizar y elevar cabecera.
+3. Imagen urgente.
+4. Herniación: manitol o hipertónica, neurocirugía.
+5. Imagen normal con papiledema: punción lumbar con presión de apertura.
+[SECCIÓN] M2-T12 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) Monro-Kellie; (2) papiledema, vómito en proyectil, cefalea matutina; (3) tríada
+de Cushing: tardía; (4) imagen antes de punción lumbar; (5) HTIC idiopática: acetazolamida y pérdida de peso.
+[CASO] M2-T12 | CASO-1
+Caso clínico 1: Mujer de 26 años con cefalea y obesidad
+Mujer de 26 años, IMC 36, cefalea diaria, oscurecimientos visuales y tinnitus pulsátil. Papiledema bilateral, RM normal,
+presión de apertura 34 cm H2O, LCR normal. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T12 | CASO-1
+Hipertensión intracraneal idiopática. Acetazolamida y pérdida de peso, vigilancia de campos visuales; punciones o
+derivación si hay amenaza visual.
+[PREGUNTA] M2-T12 | P1
+1. ¿Qué par craneal se afecta con frecuencia en la HTE y causa diplopía?
+a) III
+b) IV
+c) VI
+d) VII
+[RESPUESTA] M2-T12 | P1
+Respuesta correcta: c
+Explicación: Su largo trayecto lo hace vulnerable a la tracción.
+[PREGUNTA] M2-T12 | P2
+2. ¿Qué fármaco se usa en la herniación aguda?
+a) Manitol
+b) Metformina
+c) Levodopa
+d) Furosemida sola siempre
+[RESPUESTA] M2-T12 | P2
+Respuesta correcta: a
+Explicación: Reduce el edema osmóticamente.
+
+
+===== PAGE 37 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 37
+[PREGUNTA] M2-T12 | P3
+3. Tríada de Cushing:
+a) Hipotensión, taquicardia, apnea
+b) Hipertensión, bradicardia, respiración irregular
+c) Fiebre, rigidez, cefalea
+d) Midriasis, ptosis, anhidrosis
+[RESPUESTA] M2-T12 | P3
+Respuesta correcta: b
+Explicación: Es una respuesta tardía que indica herniación inminente.
+[FLASHCARD] M2-T12 | F1
+P: ¿Doctrina que explica la PIC?
+R: Monro-Kellie.
+[FLASHCARD] M2-T12 | F2
+P: ¿Signo de fondo de ojo?
+R: Papiledema.
+[FLASHCARD] M2-T12 | F3
+P: ¿Tratamiento de HTIC idiopática?
+R: Acetazolamida y pérdida de peso.
+[FLASHCARD] M2-T12 | F4
+P: ¿Cuándo evitar punción lumbar?
+R: Con sospecha de masa o sin imagen previa.
+[METADATOS] M2-T12
+Metadatos
+Módulo: Neurología | Tema: Síndrome de hipertensión endocraneana
+Conceptos clave: Monro-Kellie, papiledema, herniación, tríada de Cushing
+Diagnósticos relacionados: tumor, hidrocefalia, HTIC idiopática, trombosis venosa
+Medicamentos: manitol, solución salina hipertónica, dexametasona, acetazolamida
+Pruebas: fondo de ojo, TC, RM, punción lumbar
+Dificultad: intermedia a alta
+Fuentes: Adams y Victor, Bradley (verificar edición vigente)
+
+
+===== PAGE 38 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 38
+[TEMA] M2-T13 | Síndrome meníngeo
+M2-T13. Síndrome meníngeo
+[SECCIÓN] M2-T13 | A. Fundamentos
+A. Fundamentos
+Definición: irritación de las meninges con cefalea, fiebre, rigidez de nuca y fotofobia. Causas: meningitis infecciosa
+(bacteriana, viral, tuberculosa, fúngica) y no infecciosa (HSA, carcinomatosis). Agentes bacterianos: *Streptococcus
+pneumoniae* y *Neisseria meningitidis* (los más comunes en adultos), *Haemophilus influenzae*, *Listeria
+monocytogenes* (mayores de 50, inmunosuprimidos, embarazo), estreptococo del grupo B en neonatos. Fisiopatología:
+la inflamación del espacio subaracnoideo eleva la PIC, altera la barrera hematoencefálica y la dinámica del LCR.
+[SECCIÓN] M2-T13 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Cefalea, fiebre, rigidez de nuca, fotofobia, vómito, alteración de conciencia, convulsiones.
+• Kernig: con la cadera flexionada a 90 grados, la extensión pasiva de la rodilla produce dolor y resistencia. Brudzinski:
+la flexión pasiva del cuello provoca flexión de caderas y rodillas.
+• Meningococo: petequias o púrpura, choque. Complicaciones: edema cerebral, hidrocefalia, sordera, secuelas.
+• Bandera roja: deterioro de conciencia, petequias, signos focales, papiledema.
+[SECCIÓN] M2-T13 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: duración, contactos, vacunación, inmunosupresión, viajes, VIH, procedimientos de cráneo. Examen: signos
+vitales, rigidez de nuca, Kernig, Brudzinski, piel (petequias), fondo de ojo, examen neurológico.
+[SECCIÓN] M2-T13 | D. Diagnóstico
+D. Diagnóstico
+• Punción lumbar con presión de apertura, recuento celular, glucosa, proteínas, tinción de Gram y cultivo;
+hemocultivos. TC previa si hay inmunosupresión, déficit focal, papiledema o alteración grave de conciencia; no
+retrasar los antibióticos.
+[TABLA] M2-T13 | Perfil del LCR
+Perfil del LCR
+Tipo
+Células
+Glucosa
+Proteínas
+Bacteriana
+Mucho aumento, neutrófilos
+Baja
+Alta
+Viral
+Aumento moderado, linfocitos
+Normal
+Normal o levemente alta
+Tuberculosa o fúngica
+Linfocitos
+Muy baja
+Muy alta
+[SECCIÓN] M2-T13 | E. Tratamiento
+E. Tratamiento
+• Meningitis bacteriana: antibióticos de inmediato (tras hemocultivos, sin esperar imagen o punción): ceftriaxona más
+vancomicina, más ampicilina si hay riesgo de *Listeria* (mayores de 50, inmunosupresión); dexametasona antes o
+con la primera dosis (reduce secuelas en neumococo).
+• Viral: soporte; si se sospecha herpes (encefalitis), aciclovir.
+• Profilaxis de contactos de meningococo: rifampicina, ciprofloxacino o ceftriaxona.
+• Vacunación (neumococo, meningococo, Hib).
+[SECCIÓN] M2-T13 | F. Razonamiento clínico
+F. Razonamiento clínico
+Fiebre y rigidez de nuca con alteración de conciencia es meningitis bacteriana hasta demostrar lo contrario. El LCR ayuda
+a diferenciar. Errores: retrasar antibióticos por la imagen; olvidar *Listeria* en ancianos; no dar corticoide.
+[SECCIÓN] M2-T13 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+
+
+===== PAGE 39 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 39
+Entradilla: "Joven de 19 años con fiebre alta, cefalea intensa y petequias." Debe hacer: signos vitales, Kernig y
+Brudzinski, hemocultivos, antibióticos inmediatos, punción lumbar, aislamiento y notificación. Errores críticos: retrasar
+antibióticos; omitir profilaxis de contactos.
+[ESTACIÓN] M2-T13 | Meningitis (7 minutos)
+Estación ECOE: Meningitis (7 minutos)
+• Paciente: fiebre, cefalea, vómito, confusión, petequias. Esperado: ceftriaxona y vancomicina más dexametasona sin
+demora, punción lumbar, medidas de aislamiento.
+Algoritmo
+[ALGORITMO] M2-T13 | Sospecha de meningitis
+Algoritmo: Sospecha de meningitis
+1. Hemocultivos y antibióticos empíricos más dexametasona de inmediato.
+2. Déficit focal, papiledema o inmunosupresión: TC antes de punción.
+3. Punción lumbar: celularidad, glucosa, proteínas, Gram, cultivo.
+4. Ajustar antibióticos según resultados.
+5. Profilaxis de contactos si es meningococo.
+[SECCIÓN] M2-T13 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) fiebre, cefalea y rigidez; (2) no retrasar antibióticos; (3) ceftriaxona y
+vancomicina más dexametasona; (4) mayores de 50: añadir ampicilina por *Listeria*; (5) LCR bacteriano: glucosa baja y
+neutrófilos.
+[CASO] M2-T13 | CASO-1
+Caso clínico 1: Joven con fiebre y petequias
+Joven de 19 años con fiebre, cefalea, rigidez de nuca y petequias. LCR turbio con 2.500 neutrófilos, glucosa baja,
+proteínas altas. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T13 | CASO-1
+Meningitis bacteriana, probable meningocócica. Ceftriaxona (más vancomicina hasta cultivo), dexametasona, aislamiento
+respiratorio, profilaxis de contactos, notificación.
+[PREGUNTA] M2-T13 | P1
+1. Meningitis en paciente de 65 años. ¿Qué agente adicional cubrir?
+a) Listeria
+b) Pseudomonas
+c) Candida
+d) Mycoplasma
+[RESPUESTA] M2-T13 | P1
+Respuesta correcta: a
+Explicación: *Listeria* afecta a mayores de 50 e inmunosuprimidos y se cubre con ampicilina.
+[PREGUNTA] M2-T13 | P2
+2. LCR con glucosa muy baja y proteínas muy altas con linfocitos:
+a) Viral
+b) Tuberculosa
+c) Normal
+d) Meningococo agudo
+[RESPUESTA] M2-T13 | P2
+Respuesta correcta: b
+Explicación: Es el patrón típico de la meningitis tuberculosa o fúngica.
+
+
+===== PAGE 40 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 40
+[PREGUNTA] M2-T13 | P3
+3. ¿Cuándo se da dexametasona en meningitis bacteriana?
+a) Antes o con la primera dosis de antibiótico
+b) Una semana después
+c) Nunca
+d) Solo en niños
+[RESPUESTA] M2-T13 | P3
+Respuesta correcta: a
+Explicación: Debe administrarse al inicio para reducir secuelas.
+[FLASHCARD] M2-T13 | F1
+P: ¿Signo de Brudzinski?
+R: Flexión de caderas y rodillas al flexionar el cuello.
+[FLASHCARD] M2-T13 | F2
+P: ¿Agente más frecuente en adultos?
+R: Neumococo y meningococo.
+[FLASHCARD] M2-T13 | F3
+P: ¿Profilaxis en contactos de meningococo?
+R: Rifampicina, ciprofloxacino o ceftriaxona.
+[FLASHCARD] M2-T13 | F4
+P: ¿LCR viral?
+R: Linfocitos, glucosa normal.
+[METADATOS] M2-T13
+Metadatos
+Módulo: Neurología | Tema: Síndrome meníngeo
+Conceptos clave: Kernig, Brudzinski, perfil del LCR, antibióticos empíricos
+Diagnósticos relacionados: HSA, encefalitis, meningitis tuberculosa
+Medicamentos: ceftriaxona, vancomicina, ampicilina, dexametasona, aciclovir
+Pruebas: punción lumbar, hemocultivos, TC
+Dificultad: intermedia a alta
+Fuentes: Harrison, Adams y Victor, guías IDSA (verificar edición vigente)
+
+
+===== PAGE 41 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 41
+[TEMA] M2-T14 | Síndromes sensitivos
+M2-T14. Síndromes sensitivos
+[SECCIÓN] M2-T14 | A. Fundamentos
+A. Fundamentos
+Vías: (1) columna dorsal-lemnisco medial (tacto fino, vibración, propiocepción; sube ipsilateral y decusa en el bulbo);
+(2) espinotalámica (dolor y temperatura; decusa en la médula uno o dos segmentos por encima de la entrada de la raíz y
+asciende contralateral). Dermatomas: áreas cutáneas de cada raíz. Fisiopatología: el patrón de pérdida (distal
+simétrico, por dermatoma, por nivel, hemicorporal) localiza la lesión.
+[SECCIÓN] M2-T14 | B. Manifestaciones clínicas por síndrome
+B. Manifestaciones clínicas por síndrome
+• Polineuropatía: pérdida simétrica distal en "guante y calcetín" (diabetes, alcohol, déficit de B12, uremia).
+• Mononeuropatía: territorio de un nervio (túnel carpiano en mediano).
+• Radiculopatía: dolor irradiado y pérdida en un dermatoma, con reflejo disminuido.
+• Síndrome de Brown-Séquard (hemisección medular): debajo de la lesión, pérdida motora y de propiocepción y
+vibración ipsilateral; pérdida de dolor y temperatura contralateral.
+• Síndrome medular central o siringomielia: pérdida "suspendida" de dolor y temperatura en capa (por interrupción de
+fibras que cruzan), con tacto y propiocepción conservados.
+• Cordón posterior (déficit de B12, tabes dorsal): pérdida de vibración y propiocepción, ataxia sensitiva, Romberg
+positivo.
+• Tronco (síndrome de Wallenberg, bulbar lateral): dolor y temperatura de la cara ipsilateral y del cuerpo
+contralateral.
+• Tálamo: hemianestesia contralateral con dolor central posterior.
+• Corteza parietal: agrafestesia, astereognosia, extinción sensitiva con sensibilidad primaria conservada.
+[SECCIÓN] M2-T14 | C. Semiología y evaluación
+C. Semiología y evaluación
+Examen: tacto leve (algodón), dolor (alfiler), temperatura (frío), vibración (diapasón de 128 Hz), propiocepción (posición
+del ortejo), Romberg, discriminación de dos puntos, grafestesia, estereognosia. Siempre comparar lados y buscar nivel.
+Documentar con mapa de dermatomas.
+[SECCIÓN] M2-T14 | D. Diagnóstico
+D. Diagnóstico
+Localizar primero. Neuropatía: glucosa, B12, TSH, función renal y hepática, electromiografía y conducción. Mielopatía:
+RM medular. Radiculopatía: RM lumbar o cervical. Lesión central: RM cerebral.
+[SECCIÓN] M2-T14 | E. Tratamiento
+E. Tratamiento
+Según causa: control glucémico, reposición de B12, descompresión quirúrgica de compresión medular (urgencia), manejo
+de dolor neuropático (gabapentina, pregabalina, duloxetina, amitriptilina), protección de pies.
+[SECCIÓN] M2-T14 | F. Razonamiento clínico
+F. Razonamiento clínico
+Patrón guante y calcetín: causa metabólica o tóxica. Nivel sensitivo con alteración de esfínteres: urgencia medular.
+Pérdida de dolor y temperatura en capa con tacto conservado: siringomielia. Errores: no buscar nivel sensitivo; no pensar
+en déficit de B12.
+[SECCIÓN] M2-T14 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Paciente con adormecimiento de pies." Debe hacer: explorar modalidades sensitivas y reflejos, definir
+patrón, solicitar glucosa y B12, educar sobre cuidado de pies. Errores críticos: no explorar propiocepción; omitir examen
+del pie diabético.
+
+
+===== PAGE 42 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 42
+[ESTACIÓN] M2-T14 | Examen sensitivo (7 minutos)
+Estación ECOE: Examen sensitivo (7 minutos)
+• Instrucción: explorar sensibilidad superficial y profunda en miembros inferiores. Esperado: técnica adecuada,
+comparación y localización del patrón.
+Tabla comparativa y algoritmo
+[TABLA] M2-T14 | Síndromes sensitivos
+Síndromes sensitivos
+Síndrome
+Patrón
+Causa típica
+Polineuropatía
+Distal simétrico, guante y calcetín
+Diabetes, alcohol, B12
+Radiculopatía
+Dermatoma con dolor
+Hernia discal
+Brown-Séquard
+Ipsilateral motor y propioceptivo,
+contralateral dolor y temperatura
+Trauma, tumor
+Siringomielia
+Pérdida suspendida de dolor y temperatura
+en capa
+Siringomielia, malformación de Chiari
+Cordón posterior
+Pérdida de vibración y propiocepción, ataxia
+sensitiva
+B12, sífilis
+Wallenberg
+Cara ipsilateral y cuerpo contralateral
+Infarto bulbar lateral
+[ALGORITMO] M2-T14 | Pérdida sensitiva
+Algoritmo: Pérdida sensitiva
+1. Definir modalidades afectadas y patrón.
+2. Buscar nivel sensitivo y esfínteres: urgencia medular.
+3. Simétrico distal: estudio metabólico y electromiografía.
+4. Dermatomal: RM de columna.
+5. Hemicorporal: RM cerebral.
+[SECCIÓN] M2-T14 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) dos vías: dorsal y espinotalámica; (2) guante y calcetín: causa metabólica; (3)
+Brown-Séquard: cruzado; (4) siringomielia: pérdida en capa; (5) nivel más esfínteres es urgencia.
+[CASO] M2-T14 | CASO-1
+Caso clínico 1: Hombre de 50 años con ataxia sensitiva
+Hombre de 50 años, vegano, con pérdida de vibración y propiocepción en piernas y Romberg positivo. Diagnóstico
+probable.
+[SOLUCIÓN] M2-T14 | CASO-1
+Degeneración combinada subaguda por déficit de vitamina B12 (cordón posterior). Medir B12 y homocisteína, reposición.
+[PREGUNTA] M2-T14 | P1
+1. Pérdida de vibración y propiocepción con Romberg positivo indica lesión de:
+a) Columna dorsal
+b) Vía espinotalámica
+c) Cerebelo únicamente
+d) Nervio mediano
+[RESPUESTA] M2-T14 | P1
+Respuesta correcta: a
+Explicación: Es la vía de propiocepción; el Romberg se vuelve positivo al cerrar los ojos.
+
+
+===== PAGE 43 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 43
+[PREGUNTA] M2-T14 | P2
+2. Hemisección medular produce:
+a) Brown-Séquard
+b) Siringomielia
+c) Wallenberg
+d) Polineuropatía
+[RESPUESTA] M2-T14 | P2
+Respuesta correcta: a
+Explicación: Es el patrón cruzado clásico.
+[PREGUNTA] M2-T14 | P3
+3. Pérdida suspendida de dolor y temperatura en capa con tacto conservado:
+a) Siringomielia
+b) Neuropatía periférica
+c) Hemiplejia
+d) Radiculopatía
+[RESPUESTA] M2-T14 | P3
+Respuesta correcta: a
+Explicación: Interrumpe fibras espinotalámicas que cruzan en la comisura anterior.
+[FLASHCARD] M2-T14 | F1
+P: ¿Dónde decusa la espinotalámica?
+R: En la médula, cerca del nivel de entrada.
+[FLASHCARD] M2-T14 | F2
+P: ¿Dónde decusa la columna dorsal?
+R: En el bulbo.
+[FLASHCARD] M2-T14 | F3
+P: ¿Qué déficit vitamínico afecta el cordón posterior?
+R: Vitamina B12.
+[FLASHCARD] M2-T14 | F4
+P: ¿Qué se pierde en agrafestesia?
+R: Reconocimiento de números dibujados en la piel (corteza parietal).
+[METADATOS] M2-T14
+Metadatos
+Módulo: Neurología | Tema: Síndromes sensitivos
+Conceptos clave: vías sensitivas, dermatomas, Brown-Séquard, siringomielia
+Diagnósticos relacionados: neuropatía diabética, déficit de B12, hernia discal
+Medicamentos: gabapentina, pregabalina, duloxetina
+Pruebas: examen sensitivo, B12, RM, EMG
+Dificultad: intermedia
+Fuentes: DeJong, Adams y Victor (verificar edición vigente)
+
+
+===== PAGE 44 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 44
+[TEMA] M2-T15 | Síndrome de unión neuromuscular y síndrome miopático
+M2-T15. Síndrome de unión neuromuscular y síndrome
+miopático
+[SECCIÓN] M2-T15 | A. Fundamentos
+A. Fundamentos
+Unión neuromuscular: la acetilcolina liberada por la terminal presináptica (dependiente de canales de calcio) se une a
+receptores nicotínicos postsinápticos y produce contracción. Miastenia gravis: autoanticuerpos contra el receptor de
+acetilcolina (la mayoría; otros contra MuSK), con pérdida de receptores; asociada a timoma o hiperplasia tímica.
+Síndrome de Eaton-Lambert: anticuerpos contra canales de calcio dependientes de voltaje presinápticos (P/Q); se
+asocia a carcinoma pulmonar de células pequeñas. Miopatías: enfermedades del músculo (inflamatorias como
+polimiositis y dermatomiositis, distrofias, tóxicas por estatinas o corticoides, endocrinas por hipotiroidismo o Cushing,
+metabólicas).
+[SECCIÓN] M2-T15 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Miastenia: debilidad fluctuante y fatigable, peor al final del día y con el esfuerzo; ptosis, diplopía, disartria, disfagia,
+debilidad proximal; reflejos y sensibilidad normales. Crisis miasténica: insuficiencia respiratoria.
+• Eaton-Lambert: debilidad proximal de las piernas que mejora transitoriamente con el ejercicio, arreflexia, síntomas
+autonómicos (boca seca, impotencia).
+• Miopatía: debilidad proximal simétrica (dificultad para levantarse de la silla o subir escaleras), reflejos conservados,
+sensibilidad normal, mialgias en algunos casos; dermatomiositis: heliotropo, pápulas de Gottron.
+[SECCIÓN] M2-T15 | C. Semiología y evaluación
+C. Semiología y evaluación
+Examen: ptosis tras mirada sostenida hacia arriba (30 a 60 segundos), prueba del hielo en el párpado, fatigabilidad al
+contar en voz alta o abrir y cerrar los ojos, fuerza proximal, levantarse de la silla, reflejos, signo de Gowers (niños con
+distrofia).
+[SECCIÓN] M2-T15 | D. Diagnóstico
+D. Diagnóstico
+• Miastenia: anticuerpos anti-receptor de ACh; electromiografía con estimulación repetitiva (decremento); TC de tórax
+para timoma.
+• Eaton-Lambert: anticuerpos anti-canal de calcio; estimulación repetitiva con incremento a alta frecuencia; buscar
+cáncer pulmonar.
+• Miopatía: CK elevada (en inflamatorias), EMG miopático, biopsia, anticuerpos específicos.
+[SECCIÓN] M2-T15 | E. Tratamiento
+E. Tratamiento
+• Miastenia: piridostigmina (inhibidor de acetilcolinesterasa), inmunosupresores (prednisona, azatioprina), timectomía
+en timoma o enfermedad generalizada; crisis: inmunoglobulina intravenosa o plasmaféresis y soporte ventilatorio.
+Evitar fármacos que empeoran: aminoglucósidos, fluoroquinolonas, macrólidos, betabloqueadores, magnesio
+intravenoso.
+• Eaton-Lambert: tratar el cáncer, 3,4-diaminopiridina.
+• Miopatía inflamatoria: corticoides e inmunosupresores; suspender fármacos tóxicos; corregir endocrinopatía.
+[SECCIÓN] M2-T15 | F. Razonamiento clínico
+F. Razonamiento clínico
+Fatigabilidad con ptosis y diplopía sin pérdida sensitiva orienta a miastenia. Mejoría con ejercicio y arreflexia orientan a
+Eaton-Lambert. Debilidad proximal con CK alta orienta a miopatía inflamatoria. Errores: dar un fármaco que empeora la
+miastenia; olvidar buscar cáncer en Eaton-Lambert.
+[SECCIÓN] M2-T15 | G. Aplicación al ECOE
+
+
+===== PAGE 45 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 45
+G. Aplicación al ECOE
+Entradilla: "Mujer de 30 años con párpado caído y visión doble al final del día." Debe hacer: probar fatigabilidad,
+examinar pares craneales y fuerza, solicitar anticuerpos y TC de tórax, explicar tratamiento y fármacos a evitar. Errores
+críticos: no reconocer crisis miasténica; indicar fluoroquinolona.
+[ESTACIÓN] M2-T15 | Miastenia gravis (7 minutos)
+Estación ECOE: Miastenia gravis (7 minutos)
+• Paciente: ptosis y diplopía que empeoran por la tarde, disfagia leve. Esperado: prueba de fatigabilidad, anticuerpos,
+TC de tórax, piridostigmina.
+Tabla comparativa y algoritmo
+[TABLA] M2-T15 | Unión neuromuscular vs. miopatía
+Unión neuromuscular vs. miopatía
+Rasgo
+Miastenia gravis
+Eaton-Lambert
+Miopatía
+Debilidad
+Fluctuante, fatigable
+Proximal, mejora con ejercicio
+Proximal fija
+Reflejos
+Normales
+Disminuidos o ausentes
+Normales
+Pares craneales
+Ptosis, diplopía
+Poco afectados
+Raro
+CK
+Normal
+Normal
+Elevada (inflamatorias)
+Autonómico
+No
+Sí
+No
+Asociación
+Timoma
+Cáncer pulmonar de células
+pequeñas
+Fármacos, endocrinas,
+autoinmune
+[ALGORITMO] M2-T15 | Debilidad proximal o fluctuante
+Algoritmo: Debilidad proximal o fluctuante
+1. Evaluar fatigabilidad, reflejos, sensibilidad.
+2. Fluctuante con ptosis: anticuerpos y estimulación repetitiva, TC de tórax.
+3. Mejora con ejercicio y arreflexia: anticuerpos anti-canal de calcio y búsqueda de cáncer.
+4. Proximal fija con CK alta: EMG y biopsia.
+[SECCIÓN] M2-T15 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) miastenia: anticuerpos anti-ACh y fatigabilidad; (2) timoma: TC de tórax; (3)
+piridostigmina; (4) Eaton-Lambert: células pequeñas de pulmón; (5) miopatía: CK elevada, reflejos normales.
+[CASO] M2-T15 | CASO-1
+Caso clínico 1: Mujer de 28 años con ptosis vespertina
+Mujer de 28 años con ptosis y diplopía que empeoran por la tarde y mejoran con reposo. Prueba del hielo positiva.
+Diagnóstico y estudio.
+[SOLUCIÓN] M2-T15 | CASO-1
+Miastenia gravis. Anticuerpos anti-receptor de ACh, estimulación repetitiva, TC de tórax (timoma), piridostigmina e
+inmunosupresión; evitar fármacos agravantes.
+[PREGUNTA] M2-T15 | P1
+1. ¿Qué fármaco puede empeorar la miastenia?
+a) Fluoroquinolonas
+b) Paracetamol
+c) Amoxicilina
+d) Omeprazol
+[RESPUESTA] M2-T15 | P1
+Respuesta correcta: a
+Explicación: Las fluoroquinolonas, aminoglucósidos y macrólidos bloquean la transmisión neuromuscular.
+
+
+===== PAGE 46 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 46
+[PREGUNTA] M2-T15 | P2
+2. Debilidad proximal que mejora con el ejercicio y arreflexia:
+a) Miastenia
+b) Eaton-Lambert
+c) Polimiositis
+d) Guillain-Barré
+[RESPUESTA] M2-T15 | P2
+Respuesta correcta: b
+Explicación: Con el ejercicio aumenta la liberación de acetilcolina.
+[PREGUNTA] M2-T15 | P3
+3. CK muy elevada con debilidad proximal e inicio subagudo:
+a) Miopatía inflamatoria
+b) Miastenia
+c) Neuropatía
+d) Eaton-Lambert
+[RESPUESTA] M2-T15 | P3
+Respuesta correcta: a
+Explicación: La necrosis muscular libera CK.
+[FLASHCARD] M2-T15 | F1
+P: ¿Anticuerpo en miastenia?
+R: Anti-receptor de acetilcolina.
+[FLASHCARD] M2-T15 | F2
+P: ¿Tumor asociado a miastenia?
+R: Timoma.
+[FLASHCARD] M2-T15 | F3
+P: ¿Fármaco sintomático de miastenia?
+R: Piridostigmina.
+[FLASHCARD] M2-T15 | F4
+P: ¿Cáncer asociado a Eaton-Lambert?
+R: Carcinoma pulmonar de células pequeñas.
+[METADATOS] M2-T15
+Metadatos
+Módulo: Neurología | Tema: Síndrome de unión neuromuscular y síndrome miopático
+Conceptos clave: acetilcolina, fatigabilidad, CK, timoma
+Diagnósticos relacionados: miastenia gravis, Eaton-Lambert, polimiositis, dermatomiositis
+Medicamentos: piridostigmina, prednisona, azatioprina, inmunoglobulina, 3,4-diaminopiridina
+Pruebas: anticuerpos, estimulación repetitiva, CK, EMG, TC de tórax
+Dificultad: intermedia a alta
+Fuentes: Adams y Victor, Bradley (verificar edición vigente)
+
+
+===== PAGE 47 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 47
+[TEMA] M2-T16 | Síndromes extrapiramidales hipocinéticos e hipercinéticos
+M2-T16. Síndromes extrapiramidales hipocinéticos e
+hipercinéticos
+[SECCIÓN] M2-T16 | A. Fundamentos
+A. Fundamentos
+Los ganglios basales (estriado, globo pálido, núcleo subtalámico, sustancia negra) modulan el movimiento mediante vías
+directa e indirecta. Síndromes hipocinéticos: poco movimiento, rigidez (parkinsonismos). Hipercinéticos: movimientos
+involuntarios excesivos (temblor, corea, distonía, tics, mioclonías, balismo, discinesias).
+Hipocinéticos: enfermedad de Parkinson (tema M2-T10), parkinsonismos atípicos (atrofia multisistémica, parálisis
+supranuclear progresiva, degeneración corticobasal, demencia con cuerpos de Lewy), parkinsonismo farmacológico
+(antipsicóticos, metoclopramida) y vascular.
+[SECCIÓN] M2-T16 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Temblor esencial: postural y de acción, simétrico, mejora con alcohol, antecedente familiar.
+• Corea: movimientos breves, irregulares, no suprimibles. Enfermedad de Huntington: herencia autosómica
+dominante, expansión de repeticiones CAG (cromosoma 4), corea, trastorno cognitivo y psiquiátrico.
+• Distonía: contracciones sostenidas con posturas anormales (tortícolis, blefarospasmo).
+• Tics: movimientos o vocalizaciones breves, estereotipados y suprimibles temporalmente (síndrome de Tourette).
+• Hemibalismo: movimientos violentos de lanzamiento por lesión del núcleo subtalámico contralateral (ACV).
+• Discinesia tardía: movimientos orofaciales por antipsicóticos crónicos.
+• Enfermedad de Wilson: en menores de 40 años con trastorno de movimiento, hepatopatía, anillos de
+Kayser-Fleischer, ceruloplasmina baja.
+• Atípicos: PSP (oftalmoplejía vertical, caídas tempranas); AMS (disautonomía, ataxia); cuerpos de Lewy (demencia
+precoz y alucinaciones visuales).
+[SECCIÓN] M2-T16 | C. Semiología y evaluación
+C. Semiología y evaluación
+Observar el movimiento en reposo, postura, acción y marcha; clasificar (temblor, corea, distonía, tics, mioclonía);
+preguntar por fármacos, antecedente familiar, inicio, desencadenantes; examinar tono, bradicinesia, mirada vertical,
+ortostatismo.
+[SECCIÓN] M2-T16 | D. Diagnóstico
+D. Diagnóstico
+Clínico. RM; ceruloplasmina y cobre en menores de 40 años; prueba genética en Huntington; DaTscan si hay duda entre
+temblor esencial y Parkinson. Revisión de fármacos siempre.
+[SECCIÓN] M2-T16 | E. Tratamiento
+E. Tratamiento
+• Temblor esencial: propranolol o primidona.
+• Huntington: tetrabenazina o deutetrabenazina para la corea, soporte y consejo genético.
+• Distonía focal: toxina botulínica; generalizada: anticolinérgicos, cirugía.
+• Tics: educación, terapia conductual, antagonistas D2 o agonistas alfa-2 si interfieren.
+• Discinesia tardía: reducir el antipsicótico, inhibidores de VMAT2.
+• Wilson: quelantes (penicilamina) o zinc.
+• Parkinsonismo farmacológico: suspender el fármaco causante.
+[SECCIÓN] M2-T16 | F. Razonamiento clínico
+F. Razonamiento clínico
+
+
+===== PAGE 48 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 48
+Temblor de reposo con bradicinesia: Parkinson; temblor de acción simétrico: esencial; movimientos irregulares: corea. En
+joven con movimiento anormal, descartar Wilson. Errores: pasar por alto el origen farmacológico; confundir temblor
+esencial con Parkinson.
+[SECCIÓN] M2-T16 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Hombre de 45 años con movimientos involuntarios y antecedente familiar." Debe hacer: caracterizar el
+movimiento, buscar síntomas cognitivos y psiquiátricos, antecedente familiar, solicitar estudio genético y dar consejo.
+Errores críticos: no preguntar por fármacos; omitir consejería genética.
+[ESTACIÓN] M2-T16 | Movimientos anormales (7 minutos)
+Estación ECOE: Movimientos anormales (7 minutos)
+• Instrucción: identificar el tipo de movimiento en un paciente y plantear causa. Esperado: caracterización correcta y
+plan.
+Tabla comparativa y algoritmo
+[TABLA] M2-T16 | Parkinson vs. otros síndromes extrapiramidales
+Parkinson vs. otros síndromes extrapiramidales
+Entidad
+Rasgo central
+Dato diferencial
+Parkinson
+Bradicinesia, temblor de reposo
+Respuesta a levodopa
+Temblor esencial
+Temblor postural
+Mejora con alcohol, sin bradicinesia
+Huntington
+Corea, demencia, psiquiatría
+CAG, herencia dominante
+Wilson
+Distonía, hepatopatía
+Kayser-Fleischer, ceruloplasmina baja
+PSP
+Caídas, parálisis vertical
+Poca respuesta a levodopa
+Discinesia tardía
+Movimientos orofaciales
+Antipsicóticos crónicos
+[ALGORITMO] M2-T16 | Trastorno del movimiento
+Algoritmo: Trastorno del movimiento
+1. Clasificar: hipocinético o hipercinético y tipo de movimiento.
+2. Revisar fármacos.
+3. Menor de 40 años: descartar Wilson.
+4. Antecedente familiar: considerar Huntington.
+5. Tratamiento sintomático y causa.
+[SECCIÓN] M2-T16 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) hipocinético: Parkinson y atípicos; (2) hipercinético: temblor, corea, distonía,
+tics; (3) Huntington: CAG, autosómico dominante; (4) Wilson: menor de 40, ceruloplasmina baja; (5) revisar siempre los
+fármacos.
+[CASO] M2-T16 | CASO-1
+Caso clínico 1: Hombre de 40 años con corea
+Hombre de 40 años con movimientos irregulares, irritabilidad y pérdida de memoria; el padre murió con un cuadro similar.
+Diagnóstico.
+[SOLUCIÓN] M2-T16 | CASO-1
+Enfermedad de Huntington. Confirmar con prueba genética tras consejería; tetrabenazina para corea; apoyo psiquiátrico y
+consejo familiar.
+
+
+===== PAGE 49 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 49
+[PREGUNTA] M2-T16 | P1
+1. ¿Qué distingue al temblor esencial del parkinsoniano?
+a) Es de reposo
+b) Es postural y mejora con alcohol
+c) Con bradicinesia
+d) Con rigidez
+[RESPUESTA] M2-T16 | P1
+Respuesta correcta: b
+Explicación: El temblor esencial aparece con la postura o la acción.
+[PREGUNTA] M2-T16 | P2
+2. Anillos de Kayser-Fleischer y ceruloplasmina baja:
+a) Huntington
+b) Wilson
+c) PSP
+d) Parkinson
+[RESPUESTA] M2-T16 | P2
+Respuesta correcta: b
+Explicación: Es la enfermedad por acúmulo de cobre.
+[PREGUNTA] M2-T16 | P3
+3. Lesión del núcleo subtalámico produce:
+a) Hemibalismo contralateral
+b) Parkinson
+c) Temblor esencial
+d) Tics
+[RESPUESTA] M2-T16 | P3
+Respuesta correcta: a
+Explicación: Se libera el movimiento por pérdida de la inhibición.
+[FLASHCARD] M2-T16 | F1
+P: ¿Gen y repeticiones en Huntington?
+R: CAG, cromosoma 4.
+[FLASHCARD] M2-T16 | F2
+P: ¿Tratamiento del temblor esencial?
+R: Propranolol o primidona.
+[FLASHCARD] M2-T16 | F3
+P: ¿Movimientos orofaciales por antipsicóticos?
+R: Discinesia tardía.
+[FLASHCARD] M2-T16 | F4
+P: ¿Tratamiento de distonía focal?
+R: Toxina botulínica.
+[METADATOS] M2-T16
+Metadatos
+Módulo: Neurología | Tema: Síndromes extrapiramidales hipocinéticos e hipercinéticos
+Conceptos clave: ganglios basales, corea, distonía, parkinsonismos atípicos
+Diagnósticos relacionados: Parkinson, Huntington, Wilson, temblor esencial
+Medicamentos: propranolol, tetrabenazina, toxina botulínica, penicilamina
+Pruebas: RM, ceruloplasmina, prueba genética, DaTscan
+Dificultad: intermedia a alta
+Fuentes: Adams y Victor, Bradley (verificar edición vigente)
+
+
+===== PAGE 50 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 50
+[TEMA] M2-T17 | Síndrome de Guillain-Barré
+M2-T17. Síndrome de Guillain-Barré
+[SECCIÓN] M2-T17 | A. Fundamentos
+A. Fundamentos
+Definición: polirradiculoneuropatía inflamatoria aguda autoinmune. La forma más frecuente en Occidente es la
+polirradiculoneuropatía desmielinizante inflamatoria aguda (AIDP); existen variantes axonales (AMAN, AMSAN) y la
+variante de Miller Fisher. Desencadenantes: infección previa 1 a 4 semanas antes (*Campylobacter jejuni*,
+citomegalovirus, virus de Epstein-Barr, Zika, infección respiratoria), vacunas rara vez. Fisiopatología: mimetismo
+molecular; anticuerpos y complemento atacan mielina o axolema de nervios periféricos y raíces.
+[SECCIÓN] M2-T17 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Debilidad simétrica, ascendente, que progresa en horas a días (máximo en menos de 4 semanas), con arreflexia o
+hiporreflexia; parestesias distales, dolor lumbar o radicular.
+• Afectación de pares craneales (diplejía facial), disfagia, insuficiencia respiratoria (hasta 25% requieren ventilación).
+• Disautonomía: taquicardia, bradicardia, hipotensión o hipertensión lábil, íleo, retención urinaria, arritmias.
+• Miller Fisher: oftalmoplejía, ataxia y arreflexia (anticuerpos anti-GQ1b).
+• Banderas rojas: disnea, disfagia, progresión rápida, inestabilidad autonómica.
+[SECCIÓN] M2-T17 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis: infección o vacuna previa, velocidad de progresión, parestesias, disnea. Examen: fuerza por grupos,
+reflejos, sensibilidad, pares craneales, capacidad vital (contar en una sola inspiración), frecuencia cardiaca y presión
+arterial.
+[SECCIÓN] M2-T17 | D. Diagnóstico
+D. Diagnóstico
+• LCR: disociación albuminocitológica (proteínas altas con menos de 10 células/mm3); puede ser normal en la primera
+semana.
+• Electrofisiología: disminución de velocidades de conducción, bloqueos, latencias prolongadas.
+• Monitorizar capacidad vital forzada (CVF) y presión inspiratoria máxima. Diferenciales: mielopatía aguda, miastenia,
+botulismo, parálisis periódica hipopotasémica, porfiria, neuropatía por VIH o difteria.
+[SECCIÓN] M2-T17 | E. Tratamiento
+E. Tratamiento
+• Inmunoglobulina intravenosa (0,4 g/kg/día por 5 días) o plasmaféresis; no se combinan; los corticoides no sirven.
+• Vigilancia en UCI si progresa: criterios de intubación (regla 20/30/40): CVF menor de 20 mL/kg, presión inspiratoria
+máxima menos negativa que -30 cm H2O, presión espiratoria máxima menor de 40 cm H2O, o deterioro bulbar o
+fatiga.
+• Soporte: profilaxis de trombosis, manejo del dolor (gabapentinoides), monitoreo cardiaco, rehabilitación.
+[SECCIÓN] M2-T17 | F. Razonamiento clínico
+F. Razonamiento clínico
+Debilidad ascendente con arreflexia tras infección es Guillain-Barré hasta demostrar lo contrario. Un nivel sensitivo y
+esfínteres comprometidos temprano sugiere mielopatía. Errores: dar corticoides; no medir la capacidad vital; subestimar
+disautonomía.
+[SECCIÓN] M2-T17 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Hombre de 35 años con debilidad de piernas que sube hacia los brazos, 2 semanas después de diarrea."
+Debe hacer: reflejos, fuerza, pares craneales, capacidad respiratoria, hospitalización, LCR, inmunoglobulina. Errores
+críticos: no vigilar la respiración; indicar corticoides; dar alta.
+
+
+===== PAGE 51 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 51
+[ESTACIÓN] M2-T17 | Guillain-Barré (7 minutos)
+Estación ECOE: Guillain-Barré (7 minutos)
+• Paciente: debilidad ascendente en 5 días tras gastroenteritis, arreflexia. Esperado: hospitalizar, medir CVF, LCR con
+disociación albuminocitológica, IGIV.
+Tabla y algoritmo
+[TABLA] M2-T17 | Guillain-Barré vs. diferenciales
+Guillain-Barré vs. diferenciales
+Entidad
+Rasgo clave
+Guillain-Barré
+Ascendente, arreflexia, LCR con proteínas altas
+Mielopatía aguda
+Nivel sensitivo, esfínteres, hiperreflexia posterior
+Miastenia
+Fatigable, reflejos normales
+Botulismo
+Descendente, pupilas dilatadas
+Parálisis periódica hipopotasémica
+Episódica, potasio bajo
+[ALGORITMO] M2-T17 | Guillain-Barré
+Algoritmo: Guillain-Barré
+1. Sospecha: debilidad simétrica con arreflexia.
+2. Hospitalizar y medir CVF.
+3. LCR y conducción nerviosa.
+4. IGIV o plasmaféresis.
+5. Progresión respiratoria: UCI e intubación según criterios.
+[SECCIÓN] M2-T17 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) ascendente con arreflexia; (2) disociación albuminocitológica; (3) IGIV o
+plasmaféresis, sin corticoides; (4) vigilar CVF; (5) disautonomía.
+[CASO] M2-T17 | CASO-1
+Caso clínico 1: Hombre de 30 años con debilidad ascendente
+Hombre de 30 años con debilidad de piernas progresiva en 4 días, arreflexia, tras gastroenteritis. LCR: proteínas 120
+mg/dL, 2 células. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T17 | CASO-1
+Guillain-Barré (AIDP). Hospitalizar, vigilar CVF y disautonomía, IGIV; UCI si hay compromiso respiratorio.
+[PREGUNTA] M2-T17 | P1
+1. ¿Hallazgo típico del LCR?
+a) Pleocitosis marcada
+b) Proteínas altas con células normales
+c) Glucosa baja
+d) Neutrófilos
+[RESPUESTA] M2-T17 | P1
+Respuesta correcta: b
+Explicación: Es la disociación albuminocitológica.
+[PREGUNTA] M2-T17 | P2
+2. ¿Qué tratamiento NO está indicado?
+a) IGIV
+b) Plasmaféresis
+c) Corticoides
+d) Soporte ventilatorio
+[RESPUESTA] M2-T17 | P2
+Respuesta correcta: c
+Explicación: Los corticoides no mejoran el pronóstico.
+
+
+===== PAGE 52 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 52
+[PREGUNTA] M2-T17 | P3
+3. ¿Variante con oftalmoplejía, ataxia y arreflexia?
+a) AMAN
+b) Miller Fisher
+c) AIDP
+d) CIDP
+[RESPUESTA] M2-T17 | P3
+Respuesta correcta: b
+Explicación: Se asocia a anticuerpos anti-GQ1b.
+[FLASHCARD] M2-T17 | F1
+P: ¿Infección frecuente previa?
+R: Campylobacter jejuni.
+[FLASHCARD] M2-T17 | F2
+P: ¿Qué se monitoriza?
+R: Capacidad vital forzada.
+[FLASHCARD] M2-T17 | F3
+P: ¿Anticuerpo de Miller Fisher?
+R: Anti-GQ1b.
+[FLASHCARD] M2-T17 | F4
+P: ¿Terapias eficaces?
+R: IGIV o plasmaféresis.
+[METADATOS] M2-T17
+Metadatos
+Módulo: Neurología | Tema: Síndrome de Guillain-Barré
+Conceptos clave: AIDP, arreflexia, disociación albuminocitológica, CVF
+Diagnósticos relacionados: Miller Fisher, miastenia, botulismo, mielopatía
+Medicamentos: inmunoglobulina intravenosa
+Pruebas: LCR, conducción nerviosa, CVF
+Dificultad: intermedia a alta
+Fuentes: Adams y Victor, Harrison (verificar edición vigente)
+
+
+===== PAGE 53 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 53
+[TEMA] M2-T18 | Enfermedad de Alzheimer
+M2-T18. Enfermedad de Alzheimer
+[SECCIÓN] M2-T18 | A. Fundamentos
+A. Fundamentos
+Definición: enfermedad neurodegenerativa, causa más frecuente de demencia (60 a 70%). Factores de riesgo: edad,
+alelo APOE e4, síndrome de Down, antecedente familiar, hipertensión, diabetes, bajo nivel educativo, traumatismo
+craneal. Fisiopatología: depósito extracelular de beta-amiloide (placas) y acumulación intraneuronal de proteína tau
+hiperfosforilada (ovillos neurofibrilares); pérdida sináptica y neuronal, comienzo en hipocampo y corteza entorrinal; déficit
+colinérgico.
+[SECCIÓN] M2-T18 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Pérdida de memoria episódica reciente de inicio insidioso y progresiva; luego desorientación, alteración del lenguaje
+(anomia), visuoespacial, ejecutiva y praxias.
+• Conducta: apatía, depresión, agitación, psicosis en fases moderadas a avanzadas.
+• Fase avanzada: dependencia, mutismo, incontinencia, disfagia.
+• Banderas rojas contra Alzheimer: inicio abrupto, fluctuaciones, alucinaciones tempranas, signos focales,
+parkinsonismo temprano, progresión muy rápida.
+[SECCIÓN] M2-T18 | C. Semiología y evaluación
+C. Semiología y evaluación
+Anamnesis con informante: inicio, curso, olvidos, pérdida de funcionalidad (actividades instrumentales y básicas),
+conducta, fármacos, depresión. Examen: neurológico (normal al inicio), pruebas cognitivas (MoCA, MMSE), evaluación
+funcional.
+[SECCIÓN] M2-T18 | D. Diagnóstico
+D. Diagnóstico
+Clínico (criterios NIA-AA). Descartar causas reversibles: TSH, B12, hemograma, glucosa, calcio, electrolitos, función renal
+y hepática, VIH y sífilis según riesgo. Neuroimagen (RM o TC): atrofia hipocampal y temporal medial; excluir lesión
+ocupante o vascular. Biomarcadores (LCR o PET amiloide y tau) en casos selectos.
+[SECCIÓN] M2-T18 | E. Tratamiento
+E. Tratamiento
+• Inhibidores de colinesterasa (donepezilo, rivastigmina, galantamina) en leve a moderada; efectos adversos: náusea,
+diarrea, bradicardia, síncope, pérdida de peso.
+• Memantina (antagonista NMDA) en moderada a grave.
+• Anticuerpos monoclonales anti-amiloide (lecanemab, donanemab) para enfermedad temprana con confirmación de
+amiloide; riesgo de alteraciones de imagen relacionadas con amiloide (ARIA); disponibilidad y criterios locales por
+verificar.
+• No farmacológico: estimulación cognitiva, ejercicio, control vascular, apoyo al cuidador, seguridad. Evitar
+anticolinérgicos y benzodiacepinas; antipsicóticos con cautela.
+[SECCIÓN] M2-T18 | F. Razonamiento clínico
+F. Razonamiento clínico
+Pérdida de memoria reciente con preservación de funciones motoras al inicio orienta a Alzheimer. Antes de concluir,
+revisar fármacos, depresión y causas reversibles. Errores: diagnosticar demencia sin descartar hipotiroidismo o déficit de
+B12; usar benzodiacepinas.
+[SECCIÓN] M2-T18 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Mujer de 75 años con olvidos progresivos desde hace 2 años." Debe hacer: entrevista con acompañante,
+pruebas cognitivas, laboratorio de causas reversibles, imagen, explicación a la familia. Errores críticos: no descartar
+
+
+===== PAGE 54 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 54
+causas reversibles; omitir evaluación funcional.
+[ESTACIÓN] M2-T18 | Demencia tipo Alzheimer (7 minutos)
+Estación ECOE: Demencia tipo Alzheimer (7 minutos)
+• Paciente: olvida citas, se pierde en lugares conocidos, no maneja finanzas. MoCA 17/30. Esperado: Alzheimer
+probable, laboratorio, imagen, donepezilo, apoyo al cuidador.
+Tabla y algoritmo
+[TABLA] M2-T18 | Fármacos antidemenciales
+Fármacos antidemenciales
+Fármaco
+Mecanismo
+Estadio
+Efecto adverso
+Donepezilo
+Inhibe acetilcolinesterasa
+Leve a grave
+Bradicardia, náusea
+Rivastigmina
+Inhibe colinesterasas
+Leve a moderada
+Gastrointestinales, parche
+reduce efectos
+Galantamina
+Inhibe acetilcolinesterasa
+Leve a moderada
+Gastrointestinales
+Memantina
+Antagonista NMDA
+Moderada a grave
+Mareo, confusión
+[ALGORITMO] M2-T18 | Sospecha de Alzheimer
+Algoritmo: Sospecha de Alzheimer
+1. Evaluar cognición y funcionalidad.
+2. Descartar causas reversibles (TSH, B12, fármacos, depresión).
+3. Neuroimagen.
+4. Iniciar inhibidor de colinesterasa y apoyo.
+5. Seguimiento cognitivo y conductual.
+[SECCIÓN] M2-T18 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) amiloide y tau; (2) memoria reciente primero; (3) atrofia hipocampal; (4)
+donepezilo y memantina; (5) descartar causas reversibles.
+[CASO] M2-T18 | CASO-1
+Caso clínico 1: Mujer de 76 años con olvidos
+Mujer de 76 años, 2 años de olvidos y dificultad para manejar dinero. MoCA 16/30, TSH y B12 normales, RM con atrofia
+hipocampal. Diagnóstico y tratamiento.
+[SOLUCIÓN] M2-T18 | CASO-1
+Alzheimer probable. Donepezilo, control de riesgo vascular, apoyo al cuidador y seguimiento.
+[PREGUNTA] M2-T18 | P1
+1. ¿Cuál es el hallazgo patológico característico?
+a) Cuerpos de Lewy
+b) Placas de amiloide y ovillos de tau
+c) Cuerpos de Pick
+d) Infartos lacunares
+[RESPUESTA] M2-T18 | P1
+Respuesta correcta: b
+Explicación: Los otros corresponden a demencia con cuerpos de Lewy, frontotemporal y vascular.
+[PREGUNTA] M2-T18 | P2
+2. ¿Mecanismo de memantina?
+a) Inhibe acetilcolinesterasa
+b) Antagonista de receptores NMDA
+c) Agonista D2
+d) Inhibe MAO-B
+[RESPUESTA] M2-T18 | P2
+Respuesta correcta: b
+Explicación: Reduce la excitotoxicidad por glutamato.
+
+
+===== PAGE 55 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 55
+[PREGUNTA] M2-T18 | P3
+3. ¿Efecto adverso de donepezilo?
+a) Bradicardia
+b) Hipertensión
+c) Estreñimiento
+d) Taquicardia
+[RESPUESTA] M2-T18 | P3
+Respuesta correcta: a
+Explicación: El aumento colinérgico enlentece la conducción.
+[FLASHCARD] M2-T18 | F1
+P: ¿Alelo de riesgo?
+R: APOE e4.
+[FLASHCARD] M2-T18 | F2
+P: ¿Región afectada primero?
+R: Hipocampo y corteza entorrinal.
+[FLASHCARD] M2-T18 | F3
+P: ¿Estadio de memantina?
+R: Moderada a grave.
+[FLASHCARD] M2-T18 | F4
+P: ¿Qué se descarta primero?
+R: Causas reversibles de deterioro cognitivo.
+[METADATOS] M2-T18
+Metadatos
+Módulo: Neurología | Tema: Enfermedad de Alzheimer
+Conceptos clave: amiloide, tau, memoria episódica, colinesterasa
+Diagnósticos relacionados: demencia vascular, cuerpos de Lewy, depresión
+Medicamentos: donepezilo, rivastigmina, galantamina, memantina
+Pruebas: MoCA, MMSE, RM, TSH, B12
+Dificultad: intermedia
+Fuentes: Adams y Victor, Bradley, criterios NIA-AA (verificar edición vigente)
+
+
+===== PAGE 56 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 56
+[TEMA] M2-T19 | Demencia
+M2-T19. Demencia
+[SECCIÓN] M2-T19 | A. Generalidades de las demencias
+A. Generalidades de las demencias
+Definición (DSM-5: trastorno neurocognitivo mayor): declive adquirido, respecto a un nivel previo, en uno o más
+dominios cognitivos (atención, función ejecutiva, aprendizaje y memoria, lenguaje, perceptual-motor, cognición social) que
+interfiere con la independencia en las actividades cotidianas, sin ocurrir exclusivamente durante un delirium.
+Diferencia clave con el envejecimiento normal y el deterioro cognitivo leve: la funcionalidad.
+Epidemiología: la prevalencia se duplica cada 5 años después de los 65; el Alzheimer explica 60 a 70% de los casos,
+seguido de vascular, cuerpos de Lewy y frontotemporal; las formas mixtas son frecuentes en ancianos.
+Clasificación: (1) por etiología: neurodegenerativas (Alzheimer, cuerpos de Lewy, frontotemporal, Parkinson,
+Huntington), vasculares, mixtas, secundarias (tóxicas, metabólicas, infecciosas, hidrocefalia normotensiva, tumores,
+priónicas); (2) por topografía: corticales (Alzheimer, frontotemporal: amnesia, afasia, apraxia, agnosia) y subcorticales
+(vascular de pequeño vaso, Parkinson, Huntington, hidrocefalia normotensiva: lentitud, alteración ejecutiva, apatía,
+trastornos de la marcha).
+Causas potencialmente reversibles: hipotiroidismo, déficit de B12 o folato, depresión (seudodemencia), fármacos
+(anticolinérgicos, benzodiacepinas, opioides), hematoma subdural, hidrocefalia normotensiva, neurosífilis, VIH,
+alteraciones electrolíticas (sodio, calcio), hepatopatía o uremia, apnea del sueño, alcohol, déficit de tiamina.
+Síntomas neuropsiquiátricos: apatía, depresión, ansiedad, agitación, psicosis, alteraciones del sueño; son frecuentes y
+muy relevantes para el cuidador.
+[SECCIÓN] M2-T19 | B. Evaluación general del paciente con sospecha de demencia
+B. Evaluación general del paciente con sospecha de demencia
+• Anamnesis con informante: inicio (insidioso o brusco), curso (progresivo, escalonado, fluctuante), dominios
+afectados, impacto funcional, conducta, alucinaciones, sueño, caídas, fármacos, alcohol, antecedentes vasculares,
+familiares y de cabeza.
+• Escalas: cribado (MMSE, MoCA, Addenbrooke ACE-III), funcionalidad (Barthel para actividades básicas, Lawton y
+Pfeffer para instrumentales), estadificación (CDR, GDS/FAST), depresión (Yesavage), delirium (CAM).
+• Examen: neurológico completo (parkinsonismo, signos focales, reflejos primitivos, marcha, movimientos oculares),
+cardiovascular, visión y audición.
+• Laboratorio mínimo: hemograma, glucosa, función renal y hepática, electrolitos y calcio, TSH, B12, folato; VIH y sífilis
+según riesgo.
+• Imagen: RM (o TC) para descartar lesión estructural y valorar atrofia y carga vascular; PET con FDG, DaTscan, LCR o
+PET amiloide en casos dudosos; EEG y punción lumbar si hay curso rápido.
+[SECCIÓN] M2-T19 | C. Deterioro cognitivo leve (DCL)
+C. Deterioro cognitivo leve (DCL)
+Definición: declive cognitivo mayor que el esperado para la edad y escolaridad, notado por el paciente o un informante y
+objetivado en pruebas (habitualmente 1 a 1,5 desviaciones estándar por debajo de la norma), con independencia
+funcional conservada (las actividades instrumentales pueden requerir más esfuerzo) y sin criterios de demencia.
+Subtipos: amnésico (afecta memoria; unidominio o multidominio; con frecuencia pródromo de Alzheimer) y no
+amnésico (afecta lenguaje, ejecutivas o visuoespacial; puede preceder a frontotemporal, Lewy o vascular).
+Epidemiología: 15 a 20% de los mayores de 60 años. Pronóstico: cerca de 10 a 15% progresa a demencia cada año
+(frente a 1 a 2% de la población general); algunos se mantienen estables o revierten, sobre todo si hay causa tratable.
+Causas: neurodegenerativas, vasculares, depresión, fármacos, apnea del sueño, hipotiroidismo, déficit de B12, alcohol,
+hipoacusia, enfermedades sistémicas.
+Diagnóstico: historia con informante, MoCA (puntajes por debajo de 26 sugieren alteración; ajustar por escolaridad),
+prueba funcional, laboratorio de causas reversibles, RM (atrofia hipocampal, carga vascular), neuropsicología;
+biomarcadores (LCR o PET) si se busca Alzheimer prodrómico.
+
+
+===== PAGE 57 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 57
+Tratamiento: no hay fármaco que haya demostrado modificar la progresión de forma consistente; los inhibidores de
+colinesterasa no se recomiendan de rutina en DCL. Se indica: tratar causas reversibles y depresión, corregir déficit
+sensorial (audífonos), ejercicio aeróbico, control de factores de riesgo vascular (presión arterial, diabetes, lípidos),
+estimulación cognitiva, dieta, no fumar y moderar alcohol; seguimiento clínico y cognitivo cada 6 a 12 meses. Los
+anticuerpos anti-amiloide pueden considerarse en Alzheimer temprano confirmado por biomarcadores (disponibilidad y
+criterios por verificar).
+[SECCIÓN] M2-T19 | D. Enfermedad de Alzheimer
+D. Enfermedad de Alzheimer
+Desarrollada en el tema M2-T18. Resumen: memoria episódica reciente, depósito de beta-amiloide y tau, atrofia
+hipocampal y temporal medial, inicio insidioso y progresivo; tratamiento con inhibidores de colinesterasa (leve a
+moderada), memantina (moderada a grave) y apoyo al cuidador.
+[SECCIÓN] M2-T19 | E. Demencia frontotemporal (DFT)
+E. Demencia frontotemporal (DFT)
+Definición: grupo de enfermedades neurodegenerativas con atrofia frontal y/o temporal anterior. Epidemiología:
+causa frecuente de demencia de inicio temprano (45 a 65 años); 30 a 40% con antecedente familiar. Genética:
+mutaciones en C9orf72 (también causa ELA), MAPT (tau) y GRN (progranulina). Patología: inclusiones de tau o de
+TDP-43 (menos frecuente, FUS).
+Variantes clínicas:
+• Conductual (bvFTD, la más común): desinhibición, apatía o inercia, pérdida de simpatía y empatía, conductas
+compulsivas o perseverativas, hiperoralidad y cambios dietéticos (preferencia por dulces), perfil neuropsicológico
+con alteración ejecutiva y relativa preservación de memoria y visuoespacial. Poca conciencia de enfermedad.
+• Afasia progresiva primaria variante semántica: pérdida del significado de las palabras y objetos, anomia, dislexia
+de superficie; atrofia temporal anterior (predominio izquierdo).
+• Afasia progresiva primaria no fluente o agramática: habla con esfuerzo, agramatismo, apraxia del habla; atrofia
+frontal inferior izquierda.
+• Asociación con ELA (DFT-ELA), parálisis supranuclear progresiva y síndrome corticobasal.
+Diagnóstico: clínico (criterios de Rascovsky para bvFTD: al menos 3 de 6 rasgos), RM con atrofia frontal o temporal
+anterior, PET con FDG con hipometabolismo frontal; la memoria puede estar relativamente conservada al inicio y la RM
+puede ser normal en fases tempranas; genética con consejería.
+Tratamiento: no hay terapia modificadora. ISRS o trazodona para desinhibición, compulsiones e irritabilidad; los
+inhibidores de colinesterasa pueden empeorar la conducta y la memantina no es eficaz; antipsicóticos con cautela;
+manejo conductual y ambiental, apoyo al cuidador, evaluación legal y financiera temprana, consejería genética.
+[SECCIÓN] M2-T19 | F. Demencia vascular
+F. Demencia vascular
+Definición: deterioro cognitivo con evidencia de enfermedad cerebrovascular y relación temporal o causal plausible.
+Factores de riesgo: hipertensión (el principal), diabetes, fibrilación auricular, dislipidemia, tabaquismo, ACV previo,
+enfermedad carotídea.
+Subtipos: multiinfarto cortical, infarto estratégico (tálamo, giro angular, caudado), enfermedad de pequeño vaso
+subcortical (lagunas, leucoaraiosis; la más frecuente), hipoperfusión, hemorrágica (angiopatía amiloide), hereditaria
+(CADASIL: mutación NOTCH3, migraña con aura, ictus en jóvenes, leucoencefalopatía).
+Clínica: inicio brusco o curso escalonado con fluctuaciones, antecedente de ACV, alteración ejecutiva y enlentecimiento
+psicomotor (más que amnesia), apatía, depresión, labilidad emocional, trastorno de la marcha, incontinencia urinaria
+precoz, signos focales (hiperreflexia, Babinski, parálisis pseudobulbar). La escala isquémica de Hachinski (7 o más
+sugiere origen vascular) es una ayuda clásica.
+Diagnóstico: RM con infartos, lagunas, hiperintensidades de sustancia blanca (escala de Fazekas), microhemorragias;
+angio-RM o doppler, ECG y Holter, ecocardiograma buscando fuente embólica; perfil de riesgo vascular.
+Tratamiento: prevención secundaria vascular como pilar: control de la presión arterial (meta general menor de 130/80),
+antiagregante, estatina, control de diabetes, anticoagulación en fibrilación auricular, abandono del tabaco, ejercicio. Los
+inhibidores de colinesterasa (donepezilo, galantamina) tienen beneficio modesto; la memantina no se recomienda de
+rutina. Rehabilitación, tratamiento de depresión y apoyo al cuidador.
+
+
+===== PAGE 58 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 58
+[SECCIÓN] M2-T19 | G. Demencia por cuerpos de Lewy (DCL-Lewy)
+G. Demencia por cuerpos de Lewy (DCL-Lewy)
+Definición: demencia asociada a depósitos de alfa-sinucleína (cuerpos de Lewy) corticales y subcorticales; comparte
+patología con Parkinson. Criterios (McKeith 2017): requiere demencia progresiva con alteración atencional, ejecutiva y
+visuoespacial (la memoria puede conservarse al inicio) más características clínicas centrales: (1) fluctuaciones
+marcadas de cognición y alerta, (2) alucinaciones visuales recurrentes, bien formadas (personas, animales), (3)
+trastorno de conducta del sueño REM, (4) parkinsonismo espontáneo (bradicinesia, rigidez, temblor de reposo).
+Biomarcadores indicativos: captación reducida del transportador de dopamina en ganglios basales (DaTscan),
+gammagrafía cardiaca con MIBG disminuida, polisomnografía con sueño REM sin atonía. Probable: dos o más
+características centrales, o una más un biomarcador indicativo.
+Regla del año: si la demencia aparece antes o dentro del año del parkinsonismo, se denomina demencia por cuerpos de
+Lewy; si el parkinsonismo precede a la demencia por más de un año, demencia asociada a la enfermedad de
+Parkinson.
+Otros hallazgos: hipersensibilidad grave a los antipsicóticos, disautonomía (hipotensión ortostática, estreñimiento,
+síncope), hiposmia, hipersomnia diurna, caídas, delirios, depresión. RM con hipocampo relativamente preservado
+frente al Alzheimer.
+Tratamiento: inhibidores de colinesterasa (rivastigmina, donepezilo) para cognición, alucinaciones y fluctuaciones;
+levodopa para el parkinsonismo con cautela (puede aumentar las alucinaciones); melatonina o clonazepam a dosis bajas
+para el trastorno del sueño REM; tratar hipotensión ortostática; evitar antipsicóticos típicos y metoclopramida; si hay
+psicosis grave, quetiapina o clozapina a dosis mínimas (la pimavanserina es una opción en algunos países).
+[SECCIÓN] M2-T19 | H. Otras causas relevantes
+H. Otras causas relevantes
+• Hidrocefalia normotensiva: marcha magnética, incontinencia urinaria y demencia; mejora con punción lumbar
+evacuadora o derivación.
+• Creutzfeldt-Jakob: deterioro rápido en meses, mioclonías, ataxia; EEG con complejos periódicos, RM con restricción
+en difusión cortical, proteína 14-3-3 o RT-QuIC en LCR.
+• Demencia en Parkinson, Huntington, VIH, neurosífilis, alcohólica, por déficit de tiamina (Wernicke-Korsakoff).
+[SECCIÓN] M2-T19 | I. Razonamiento clínico
+I. Razonamiento clínico
+Orden de preguntas: (1) ¿es delirium? (agudo, fluctuante, atención alterada), (2) ¿es depresión o causa reversible?, (3)
+¿hay pérdida funcional (demencia) o no (DCL)?, (4) ¿cuál es el perfil? Memoria reciente: Alzheimer. Conducta o lenguaje
+a los 55 años: frontotemporal. Alucinaciones visuales y fluctuación: Lewy. Inicio escalonado con factores vasculares:
+vascular. Marcha e incontinencia: hidrocefalia. Errores: diagnosticar demencia durante un delirium; dar haloperidol en
+Lewy; dar colinesterásicos a pacientes con frontotemporal; ignorar la prevención vascular en demencia vascular.
+[SECCIÓN] M2-T19 | J. Aplicación al ECOE
+J. Aplicación al ECOE
+Entradilla (ejemplos): "Hombre de 58 años con cambios de conducta, come dulces compulsivamente y ya no muestra
+empatía"; "Mujer de 72 años con olvidos que aún maneja sus cuentas"; "Hombre de 74 años con alucinaciones visuales y
+rigidez". Debe hacer: entrevista con informante, preguntar por funcionalidad, fármacos, antecedentes vasculares; aplicar
+MoCA; examen neurológico; solicitar laboratorio de causas reversibles e imagen; explicar diagnóstico probable y plan;
+aconsejar al cuidador. Errores críticos: prescribir haloperidol en Lewy; iniciar colinesterásicos en frontotemporal; no
+explorar funcionalidad; no descartar causas reversibles.
+[ESTACIÓN] M2-T19 | Demencia (7 minutos)
+Estación ECOE: Demencia (7 minutos)
+• Instrucción: evaluar a un paciente de 58 años con cambios de conducta; esperado: reconocer bvFTD, descartar
+causas reversibles (TSH, B12, fármacos, depresión), solicitar RM, explicar que no hay terapia modificadora, usar ISRS
+para conductas, evitar colinesterásicos y dar apoyo al cuidador.
+• Otra variante de estación: paciente con marcha de pasos cortos, incontinencia y olvidos. Esperado: sospecha de
+hidrocefalia normotensiva, RM, punción lumbar evacuadora.
+
+
+===== PAGE 59 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 59
+Tablas comparativas y algoritmo
+[TABLA] M2-T19 | Delirium vs. demencia
+Delirium vs. demencia
+Rasgo
+Delirium
+Demencia
+Inicio
+Agudo (horas a días)
+Insidioso (meses a años)
+Curso
+Fluctuante
+Progresivo
+Atención
+Alterada
+Conservada al inicio
+Conciencia
+Alterada
+Conservada hasta fases avanzadas
+Causa
+Enfermedad aguda, fármacos, infección
+Neurodegenerativa o vascular
+Reversibilidad
+Frecuente
+Rara
+[TABLA] M2-T19 | Envejecimiento normal vs. DCL vs. demencia
+Envejecimiento normal vs. DCL vs. demencia
+Rasgo
+Envejecimiento normal
+DCL
+Demencia
+Quejas cognitivas
+Leves
+Presentes
+Presentes, a veces ausentes por
+anosognosia
+Pruebas cognitivas
+Normales
+Alteradas leves
+Alteradas
+Funcionalidad
+Conservada
+Conservada o mínima alteración
+Alterada
+Progresión
+Mínima
+Variable, 10 a 15% al año a
+demencia
+Progresiva
+[TABLA] M2-T19 | Tipos de demencia
+Tipos de demencia
+Tipo
+Rasgo distintivo
+Imagen típica
+Tratamiento clave
+Alzheimer
+Memoria episódica reciente
+Atrofia hipocampal y temporal
+medial
+Colinesterásicos, memantina
+Vascular
+Inicio escalonado, ejecutiva,
+marcha
+Infartos, lagunas, leucoaraiosis
+Control vascular
+Cuerpos de Lewy
+Fluctuación, alucinaciones
+visuales, parkinsonismo, sueño
+REM
+Hipocampo preservado,
+DaTscan alterado
+Rivastigmina, evitar
+neurolépticos
+Frontotemporal
+Conducta o lenguaje, 45 a 65
+años
+Atrofia frontal o temporal anterior ISRS, manejo conductual
+Hidrocefalia normotensiva
+Marcha, incontinencia, demencia Ventriculomegalia
+desproporcionada
+Derivación
+[TABLA] M2-T19 | Variantes de la demencia frontotemporal
+Variantes de la demencia frontotemporal
+Variante
+Característica
+Atrofia
+Conductual
+Desinhibición, apatía, compulsiones,
+hiperoralidad
+Frontal y temporal anterior
+Semántica
+Pérdida del significado de palabras
+Temporal anterior (izquierda)
+No fluente o agramática
+Habla con esfuerzo, agramatismo
+Frontal inferior izquierda
+[ALGORITMO] M2-T19 | Paciente con deterioro cognitivo
+Algoritmo: Paciente con deterioro cognitivo
+1. Descartar delirium (CAM) y depresión.
+2. Evaluar funcionalidad: conservada con pruebas alteradas, DCL; alterada, demencia.
+3. Laboratorio de causas reversibles (TSH, B12, glucosa, electrolitos, calcio, VIH y sífilis si hay riesgo) y neuroimagen.
+4. Clasificar por perfil clínico (Alzheimer, vascular, Lewy, frontotemporal, hidrocefalia).
+5. Tratamiento específico, prevención vascular, fármacos a evitar y apoyo al cuidador.
+6. DCL: seguimiento cada 6 a 12 meses.
+[SECCIÓN] M2-T19 | K. Repaso de alto rendimiento
+
+
+===== PAGE 60 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 60
+K. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) la funcionalidad separa DCL de demencia; (2) DCL amnésico progresa a
+Alzheimer con frecuencia; (3) frontotemporal: conducta o lenguaje a los 45 a 65 años, sin colinesterásicos; (4) vascular:
+control de factores de riesgo es el tratamiento; (5) Lewy: fluctuación, alucinaciones visuales, parkinsonismo, REM y
+sensibilidad a antipsicóticos.
+[CASO] M2-T19 | CASO-1
+Caso clínico 1: Mujer de 68 años con olvidos que aún trabaja
+Mujer de 68 años, contadora, nota que olvida citas y nombres hace 1 año. Sigue trabajando y maneja sus finanzas con
+más esfuerzo. MoCA 23/30 con alteración de evocación diferida. TSH y B12 normales, RM con leve atrofia hipocampal.
+Diagnóstico y conducta.
+[SOLUCIÓN] M2-T19 | CASO-1
+Deterioro cognitivo leve amnésico (posible Alzheimer prodrómico): hay alteración objetiva sin pérdida funcional
+importante. Conducta: descartar causas reversibles, ejercicio aeróbico, control vascular, estimulación cognitiva, tratar
+depresión y déficit sensorial, seguimiento cada 6 a 12 meses; los colinesterásicos no están indicados de rutina.
+[CASO] M2-T19 | CASO-2
+Caso clínico 2: Hombre de 57 años con cambios de personalidad
+Hombre de 57 años, antes cordial, ahora grosero con desconocidos, come dulces sin parar, repite frases y perdió interés
+en su trabajo. Memoria y orientación conservadas. RM: atrofia frontal bilateral. Diagnóstico y conducta.
+[SOLUCIÓN] M2-T19 | CASO-2
+Demencia frontotemporal variante conductual. Evitar colinesterásicos; ISRS o trazodona para conductas, manejo
+conductual, apoyo al cuidador, consejería genética (C9orf72, MAPT, GRN) y evaluación legal y financiera temprana.
+[CASO] M2-T19 | CASO-3
+Caso clínico 3: Hombre de 70 años hipertenso con deterioro escalonado
+Hombre de 70 años, hipertenso mal controlado y diabético, con ACV hace 2 años. Deterioro escalonado con lentitud,
+apatía y marcha lenta. RM con infartos lacunares y leucoaraiosis extensa. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T19 | CASO-3
+Demencia vascular por enfermedad de pequeño vaso. Control estricto de presión arterial, antiagregante, estatina, control
+de diabetes, abandono del tabaco, rehabilitación; donepezilo puede ofrecer beneficio modesto.
+[CASO] M2-T19 | CASO-4
+Caso clínico 4: Hombre de 74 años con alucinaciones y caídas
+Hombre de 74 años con alucinaciones visuales de niños, fluctuaciones de atención, sueño agitado con gritos nocturnos,
+rigidez leve y caídas. Con haloperidol empeoró gravemente. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T19 | CASO-4
+Demencia por cuerpos de Lewy con hipersensibilidad a neurolépticos. Suspender haloperidol, rivastigmina o donepezilo,
+levodopa con cautela, melatonina o clonazepam a dosis bajas para el sueño REM, y quetiapina o clozapina solo si la
+psicosis es grave.
+[PREGUNTA] M2-T19 | P1
+1. ¿Qué diferencia al deterioro cognitivo leve de la demencia?
+a) La edad del paciente
+b) La conservación de la independencia funcional
+c) La presencia de atrofia en la RM
+d) La velocidad de la progresión
+[RESPUESTA] M2-T19 | P1
+Respuesta correcta: b
+Explicación: En DCL las pruebas están alteradas pero la funcionalidad se conserva; en demencia hay pérdida de
+independencia. La edad, la imagen y la velocidad no son los criterios definitorios.
+
+
+===== PAGE 61 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 61
+[PREGUNTA] M2-T19 | P2
+2. ¿Qué subtipo de DCL progresa con más frecuencia a Alzheimer?
+a) No amnésico
+b) Amnésico
+c) Frontal
+d) Visuoespacial puro
+[RESPUESTA] M2-T19 | P2
+Respuesta correcta: b
+Explicación: El DCL amnésico suele ser el pródromo del Alzheimer; los no amnésicos se asocian más a otras
+demencias.
+[PREGUNTA] M2-T19 | P3
+3. Hombre de 56 años con desinhibición, hiperoralidad y apatía, memoria conservada. ¿Qué diagnóstico y qué fármaco
+evitar?
+a) Alzheimer, evitar memantina
+b) Demencia frontotemporal, evitar inhibidores de colinesterasa
+c) Demencia vascular, evitar estatinas
+d) Lewy, evitar rivastigmina
+[RESPUESTA] M2-T19 | P3
+Respuesta correcta: b
+Explicación: Es el perfil de bvFTD; los colinesterásicos pueden empeorar la conducta. Las otras combinaciones no
+corresponden.
+[PREGUNTA] M2-T19 | P4
+4. ¿Qué gen se asocia a demencia frontotemporal y esclerosis lateral amiotrófica?
+a) APOE
+b) C9orf72
+c) PSEN1
+d) HTT
+[RESPUESTA] M2-T19 | P4
+Respuesta correcta: b
+Explicación: La expansión de C9orf72 causa DFT, ELA o ambas. APOE es riesgo de Alzheimer; PSEN1 causa
+Alzheimer familiar; HTT es Huntington.
+[PREGUNTA] M2-T19 | P5
+5. ¿Cuál es el pilar del tratamiento de la demencia vascular?
+a) Memantina a dosis altas
+b) Control de factores de riesgo vascular
+c) Antipsicóticos
+d) Corticoides
+[RESPUESTA] M2-T19 | P5
+Respuesta correcta: b
+Explicación: Previene nuevos infartos; los fármacos antidemenciales aportan un beneficio modesto.
+[PREGUNTA] M2-T19 | P6
+6. ¿Qué escala clásica ayuda a sugerir origen vascular?
+a) Hachinski
+b) Glasgow
+c) NIHSS
+d) Hamilton
+[RESPUESTA] M2-T19 | P6
+Respuesta correcta: a
+Explicación: Un puntaje de 7 o más sugiere demencia vascular; las demás evalúan otras condiciones.
+
+
+===== PAGE 62 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 62
+[PREGUNTA] M2-T19 | P7
+7. ¿Qué conjunto describe mejor la demencia por cuerpos de Lewy?
+a) Fluctuaciones, alucinaciones visuales, parkinsonismo y trastorno de conducta REM
+b) Pérdida de memoria aislada y atrofia hipocampal
+c) Marcha magnética e incontinencia
+d) Desinhibición y apatía
+[RESPUESTA] M2-T19 | P7
+Respuesta correcta: a
+Explicación: Son las cuatro características centrales de McKeith. La b es Alzheimer, la c hidrocefalia normotensiva y la d
+frontotemporal.
+[PREGUNTA] M2-T19 | P8
+8. Paciente con Lewy y alucinaciones intensas. ¿Qué fármaco se debe evitar?
+a) Rivastigmina
+b) Haloperidol
+c) Quetiapina a dosis baja
+d) Melatonina
+[RESPUESTA] M2-T19 | P8
+Respuesta correcta: b
+Explicación: Puede producir reacciones graves y empeoramiento del parkinsonismo. Los demás son opciones
+aceptables.
+[PREGUNTA] M2-T19 | P9
+9. Si el parkinsonismo precede a la demencia por más de un año, el diagnóstico es:
+a) DCL-Lewy
+b) Demencia asociada a la enfermedad de Parkinson
+c) Alzheimer
+d) Frontotemporal
+[RESPUESTA] M2-T19 | P9
+Respuesta correcta: b
+Explicación: Es la regla del año que distingue las dos entidades.
+[PREGUNTA] M2-T19 | P10
+10. Marcha de pasos cortos, incontinencia urinaria y deterioro cognitivo. ¿Estudio y tratamiento?
+a) RM con ventriculomegalia y punción lumbar evacuadora o derivación
+b) PET con amiloide y donepezilo
+c) EEG y antiepilépticos
+d) Solo seguimiento
+[RESPUESTA] M2-T19 | P10
+Respuesta correcta: a
+Explicación: Sospecha de hidrocefalia normotensiva, potencialmente reversible.
+[FLASHCARD] M2-T19 | F1
+P: ¿Qué separa DCL de demencia?
+R: La independencia funcional.
+[FLASHCARD] M2-T19 | F2
+P: ¿Riesgo anual de progresión de DCL a demencia?
+R: Cerca de 10 a 15%.
+[FLASHCARD] M2-T19 | F3
+P: ¿Tratamiento no farmacológico más respaldado en DCL?
+R: Ejercicio aeróbico y control de factores de riesgo vascular.
+[FLASHCARD] M2-T19 | F4
+P: ¿Qué se evita en DFT?
+R: Inhibidores de colinesterasa (pueden empeorar conducta).
+
+
+===== PAGE 63 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 63
+[FLASHCARD] M2-T19 | F5
+P: ¿Genes de DFT familiar?
+R: C9orf72, MAPT y GRN.
+[FLASHCARD] M2-T19 | F6
+P: ¿Cuál es la variante más común de DFT?
+R: La conductual (bvFTD).
+[FLASHCARD] M2-T19 | F7
+P: ¿Pilar de la demencia vascular?
+R: Prevención y control de factores de riesgo vascular.
+[FLASHCARD] M2-T19 | F8
+P: ¿Enfermedad hereditaria de pequeño vaso?
+R: CADASIL (NOTCH3).
+[FLASHCARD] M2-T19 | F9
+P: ¿Cuatro rasgos centrales de Lewy?
+R: Fluctuación, alucinaciones visuales, parkinsonismo y trastorno de conducta REM.
+[FLASHCARD] M2-T19 | F10
+P: ¿Regla del año?
+R: Demencia dentro del año del parkinsonismo es Lewy; después, demencia de Parkinson.
+[METADATOS] M2-T19
+Metadatos
+Módulo: Neurología | Tema: Demencia
+Subtemas: generalidades de las demencias; deterioro cognitivo leve; enfermedad de Alzheimer (ver M2-T18); demencia
+frontotemporal; demencia vascular; demencia por cuerpos de Lewy; hidrocefalia normotensiva; Creutzfeldt-Jakob
+Conceptos clave: funcionalidad, DCL, delirium, bvFTD, Hachinski, McKeith, regla del año
+Diagnósticos relacionados: Alzheimer, depresión, hipotiroidismo, déficit de B12, hidrocefalia normotensiva
+Medicamentos: donepezilo, rivastigmina, galantamina, memantina, ISRS, quetiapina, melatonina
+Pruebas: MoCA, MMSE, Barthel, Lawton, RM, DaTscan, FDG-PET, TSH, B12
+Dificultad: intermedia a alta
+Fuentes: Adams y Victor, Bradley, criterios DSM-5, NIA-AA, McKeith 2017, Rascovsky 2011 (verificar edición vigente)
+
+
+===== PAGE 64 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 64
+[TEMA] M2-T20 | Evaluación mental
+M2-T20. Evaluación mental
+[SECCIÓN] M2-T20 | A. Fundamentos
+A. Fundamentos
+Definición: examen sistemático de las funciones mentales: conciencia, atención, orientación, memoria, lenguaje, praxias,
+gnosias, funciones ejecutivas, cálculo, juicio, afecto, pensamiento y percepción. Fisiología: la conciencia depende del
+sistema reticular activador ascendente y de las cortezas; el lenguaje, de áreas del hemisferio dominante (Broca frontal
+inferior, Wernicke temporal posterior, fascículo arqueado).
+[SECCIÓN] M2-T20 | B. Manifestaciones clínicas (alteraciones)
+B. Manifestaciones clínicas (alteraciones)
+• Conciencia: somnolencia, estupor, coma (escala de Glasgow); delirium (atención alterada, fluctuante).
+• Afasias: Broca (no fluente, comprensión conservada, repetición alterada); Wernicke (fluente, parafasias,
+comprensión alterada); de conducción (repetición alterada, comprensión buena); global; transcorticales (repetición
+conservada).
+• Apraxia, agnosia, heminegligencia (lesión parietal derecha), síndrome frontal (desinhibición, abulia, perseveración),
+amnesia.
+[SECCIÓN] M2-T20 | C. Semiología y evaluación
+C. Semiología y evaluación
+Orden: apariencia y conducta; nivel de conciencia y atención (restar de 7 en 7, meses al revés, dígitos); orientación
+(persona, lugar, tiempo); memoria (registro, evocación de 3 palabras, remota); lenguaje (fluidez, nominación,
+comprensión, repetición, lectura, escritura); cálculo; praxias y gnosias; visuoespacial (reloj, copia de figuras); funciones
+ejecutivas; juicio y abstracción; afecto, pensamiento y percepción.
+Pruebas: MMSE (máximo 30; puntaje menor de 24 sugiere deterioro, ajustado por escolaridad); MoCA (máximo 30;
+menor de 26 anormal; más sensible a deterioro leve); prueba del reloj; CAM para delirium.
+Ejemplo de documentación: "Alerta, orientado en las tres esferas, atención conservada, memoria de evocación 1/3,
+lenguaje fluente sin parafasias, MoCA 20/30."
+[SECCIÓN] M2-T20 | D. Diagnóstico
+D. Diagnóstico
+La evaluación orienta a topografía: afasia (hemisferio dominante), negligencia (derecho), síndrome frontal. Complementar
+con laboratorio, imagen y evaluación neuropsicológica.
+[SECCIÓN] M2-T20 | E. Tratamiento
+E. Tratamiento
+Según causa: delirium (tratar causa, reorientación, evitar benzodiacepinas), afasia (terapia del lenguaje), demencia (ver
+temas M2-T18 y M2-T19).
+[SECCIÓN] M2-T20 | F. Razonamiento clínico
+F. Razonamiento clínico
+Evaluar primero atención: si está alterada, otras pruebas no son confiables. Considerar escolaridad, idioma, hipoacusia,
+visión y depresión. Errores: usar MMSE sin ajustar por escolaridad; confundir afasia con confusión.
+[SECCIÓN] M2-T20 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Realice el examen mental a un paciente con olvidos." Debe hacer: presentación, explicar, evaluar atención,
+orientación, memoria, lenguaje, ejecutar MoCA o MMSE, resumir. Errores críticos: omitir atención y lenguaje; no
+considerar escolaridad.
+[ESTACIÓN] M2-T20 | Examen mental (7 minutos)
+Estación ECOE: Examen mental (7 minutos)
+
+
+===== PAGE 65 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 65
+• Instrucción: evaluar funciones mentales en 7 minutos y aplicar una escala. Esperado: secuencia ordenada,
+interpretación de resultados.
+Tabla y algoritmo
+[TABLA] M2-T20 | Tipos de afasia
+Tipos de afasia
+Tipo
+Fluidez
+Comprensión
+Repetición
+Broca
+No fluente
+Conservada
+Alterada
+Wernicke
+Fluente, sin sentido
+Alterada
+Alterada
+Conducción
+Fluente
+Conservada
+Alterada
+Global
+No fluente
+Alterada
+Alterada
+Transcortical motora
+No fluente
+Conservada
+Conservada
+[ALGORITMO] M2-T20 | Evaluación mental
+Algoritmo: Evaluación mental
+1. Nivel de conciencia y atención.
+2. Si hay atención alterada: pensar en delirium (CAM).
+3. Si está conservada: orientación, memoria, lenguaje, ejecutivas, visuoespacial.
+4. Aplicar MoCA o MMSE y ajustar por escolaridad.
+5. Integrar topografía y solicitar estudios.
+[SECCIÓN] M2-T20 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) atención primero; (2) Broca: no fluente con comprensión; (3) Wernicke:
+fluente sin comprensión; (4) negligencia: parietal derecho; (5) MoCA menor de 26 es anormal.
+[CASO] M2-T20 | CASO-1
+Caso clínico 1: Hombre con habla no fluente
+Hombre de 62 años tras ACV: habla entrecortada con pocas palabras, comprende bien órdenes, no repite frases,
+debilidad facial y del brazo derechos. Diagnóstico.
+[SOLUCIÓN] M2-T20 | CASO-1
+Afasia de Broca por lesión frontal inferior izquierda (territorio de la ACM). Terapia del lenguaje y rehabilitación.
+[PREGUNTA] M2-T20 | P1
+1. ¿Afasia fluente con mala comprensión?
+a) Broca
+b) Wernicke
+c) Global
+d) Conducción
+[RESPUESTA] M2-T20 | P1
+Respuesta correcta: b
+Explicación: Hay parafasias y discurso sin sentido con comprensión alterada.
+[PREGUNTA] M2-T20 | P2
+2. ¿Lesión que causa heminegligencia?
+a) Parietal derecha
+b) Frontal izquierda
+c) Occipital
+d) Cerebelosa
+[RESPUESTA] M2-T20 | P2
+Respuesta correcta: a
+Explicación: El hemisferio no dominante atiende ambos lados del espacio.
+
+
+===== PAGE 66 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 66
+[PREGUNTA] M2-T20 | P3
+3. ¿Prueba de cribado más sensible para deterioro leve?
+a) MMSE
+b) MoCA
+c) Glasgow
+d) NIHSS
+[RESPUESTA] M2-T20 | P3
+Respuesta correcta: b
+Explicación: Incluye más tareas ejecutivas y visuoespaciales.
+[FLASHCARD] M2-T20 | F1
+P: ¿Puntaje anormal de MoCA?
+R: Menor de 26.
+[FLASHCARD] M2-T20 | F2
+P: ¿Qué evalúa el CAM?
+R: Delirium.
+[FLASHCARD] M2-T20 | F3
+P: ¿Área de Broca?
+R: Frontal inferior izquierda.
+[FLASHCARD] M2-T20 | F4
+P: ¿Qué se evalúa primero?
+R: Nivel de conciencia y atención.
+[METADATOS] M2-T20
+Metadatos
+Módulo: Neurología | Tema: Evaluación mental
+Conceptos clave: atención, afasias, MoCA, MMSE, delirium
+Diagnósticos relacionados: demencia, delirium, afasia, negligencia
+Medicamentos: no aplica
+Pruebas: MoCA, MMSE, reloj, CAM
+Dificultad: básica a intermedia
+Fuentes: DeJong, Adams y Victor (verificar edición vigente)
+
+
+===== PAGE 67 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 67
+[TEMA] M2-T21 | Evaluación de pares craneales, sensibilidad y motricidad
+M2-T21. Evaluación de pares craneales, sensibilidad y
+motricidad
+[SECCIÓN] M2-T21 | A. Fundamentos
+A. Fundamentos
+Los 12 pares craneales (I olfatorio, II óptico, III oculomotor, IV troclear, V trigémino, VI abducens, VII facial, VIII
+vestibulococlear, IX glosofaríngeo, X vago, XI accesorio, XII hipogloso) se exploran de forma sistemática porque localizan
+lesiones de corteza, tronco, base de cráneo y nervio periférico. Sensibilidad (vías dorsal y espinotalámica, ver M2-T14) y
+motricidad (neurona motora superior e inferior, ver M2-T11) se exploran con comparación bilateral.
+[SECCIÓN] M2-T21 | B. Manifestaciones clínicas por par craneal
+B. Manifestaciones clínicas por par craneal
+• I: anosmia (trauma, infección viral, meningioma del surco olfatorio).
+• II: pérdida de agudeza o campo visual; defecto pupilar aferente.
+• III: ptosis, ojo desviado hacia abajo y afuera, midriasis (compresión por aneurisma o herniación uncal).
+• IV: diplopía vertical, cabeza inclinada hacia el lado sano. VI: diplopía horizontal, no abduce (HTE, diabetes).
+• V: pérdida sensitiva facial, debilidad de la masticación, reflejo corneal alterado; neuralgia del trigémino.
+• VII: parálisis facial: periférica (parálisis de Bell: afecta frente y todo el hemicara) vs central (respeta la frente, por
+inervación bilateral).
+• VIII: hipoacusia, vértigo. IX y X: disfagia, voz nasal, úvula desviada al lado sano, reflejo nauseoso disminuido. XI:
+debilidad del esternocleidomastoideo y trapecio. XII: lengua que se desvía hacia el lado lesionado.
+[SECCIÓN] M2-T21 | C. Semiología y evaluación
+C. Semiología y evaluación
+• I: olores no irritantes (café, vainilla), cada fosa por separado. II: agudeza (Snellen), campos por confrontación, fondo
+de ojo, reflejo fotomotor directo y consensual. III, IV, VI: seguimiento ocular en H, convergencia, nistagmo; recordar
+LR6 SO4 (recto lateral VI, oblicuo superior IV, el resto III).
+• V: sensibilidad de 3 ramas (oftálmica, maxilar, mandibular), masetero y pterigoideos, reflejo corneal (aferente V,
+eferente VII).
+• VII: elevar cejas, cerrar ojos con fuerza, sonreír, inflar mejillas.
+• VIII: susurro, Rinne (comparar conducción aérea y ósea; normal: aérea mayor) y Weber (diapasón en la frente; en
+hipoacusia conductiva lateraliza al oído enfermo, en neurosensorial al sano).
+• IX y X: elevación del paladar con "ah", úvula, tos, deglución. XI: encogimiento de hombros y rotación de la cabeza
+contra resistencia. XII: protrusión y fuerza de la lengua.
+• Sensibilidad: tacto, dolor, temperatura, vibración, propiocepción; patrón por dermatomas. Motricidad: trofismo, tono,
+fuerza MRC 0 a 5, reflejos, Babinski, marcha.
+[SECCIÓN] M2-T21 | D. Diagnóstico
+D. Diagnóstico
+La exploración define el nivel de la lesión. Imagen (RM con atención al tronco y base de cráneo), audiometría,
+electromiografía según la sospecha.
+[SECCIÓN] M2-T21 | E. Tratamiento
+E. Tratamiento
+Según causa: parálisis de Bell (corticoide oral temprano, protección ocular, antiviral de valor limitado); parálisis facial
+central: manejo de ACV; neuralgia del trigémino: carbamazepina.
+[SECCIÓN] M2-T21 | F. Razonamiento clínico
+F. Razonamiento clínico
+Parálisis facial con frente comprometida es periférica; con frente respetada, central (descartar ACV). Una pupila dilatada
+con ptosis y desviación ocular: lesión del III, urgencia si es súbita con cefalea (aneurisma comunicante posterior). Errores:
+
+
+===== PAGE 68 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 68
+no comparar lados; olvidar el fondo de ojo.
+[SECCIÓN] M2-T21 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Realice el examen de pares craneales." Debe hacer: orden I a XII, explicar cada prueba, comparar lados,
+informar hallazgos. Errores críticos: omitir pares; confundir parálisis facial central con periférica; olvidar la pupila.
+[ESTACIÓN] M2-T21 | Examen de pares craneales (7 minutos)
+Estación ECOE: Examen de pares craneales (7 minutos)
+• Instrucción: explorar pares craneales de forma sistemática en un paciente con parálisis facial. Esperado: diferenciar
+periférica de central.
+Tabla comparativa y algoritmo
+[TABLA] M2-T21 | Parálisis facial central vs. periférica
+Parálisis facial central vs. periférica
+Rasgo
+Central
+Periférica
+Frente
+Respetada
+Comprometida
+Lesión
+Corteza o vía corticobulbar
+Núcleo o nervio facial
+Causa típica
+ACV
+Parálisis de Bell, herpes zóster ótico
+Otros signos
+Hemiparesia, afasia
+Hiperacusia, alteración del gusto
+[TABLA] M2-T21 | Rinne y Weber
+Rinne y Weber
+Tipo de hipoacusia
+Rinne
+Weber
+Conductiva
+Ósea mayor que aérea en el oído afectado
+Hacia el oído enfermo
+Neurosensorial
+Aérea mayor que ósea (conservado)
+Hacia el oído sano
+[ALGORITMO] M2-T21 | Parálisis facial
+Algoritmo: Parálisis facial
+1. Evaluar si la frente está comprometida.
+2. Frente respetada: pensar en ACV, TC o RM urgente.
+3. Frente comprometida: parálisis de Bell, buscar vesículas óticas (Ramsay Hunt).
+4. Corticoide temprano y protección ocular en Bell.
+[SECCIÓN] M2-T21 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) LR6 SO4; (2) frente respetada es central; (3) lengua desvía hacia la lesión;
+(4) Weber lateraliza al oído enfermo en conductiva; (5) reflejo corneal: V aferente, VII eferente.
+[CASO] M2-T21 | CASO-1
+Caso clínico 1: Mujer de 40 años con parálisis facial
+Mujer de 40 años amanece con desviación de la boca, no cierra el ojo derecho ni eleva la ceja. Sin otros déficits.
+Diagnóstico y manejo.
+[SOLUCIÓN] M2-T21 | CASO-1
+Parálisis de Bell (periférica). Prednisona oral temprana, lágrimas artificiales y oclusión nocturna del ojo; buen pronóstico.
+[PREGUNTA] M2-T21 | P1
+1. ¿Qué músculo inerva el IV par?
+a) Recto lateral
+b) Oblicuo superior
+c) Recto medial
+d) Elevador del párpado
+[RESPUESTA] M2-T21 | P1
+Respuesta correcta: b
+Explicación: Regla LR6 SO4: el oblicuo superior es del troclear.
+
+
+===== PAGE 69 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 69
+[PREGUNTA] M2-T21 | P2
+2. Parálisis facial con frente respetada:
+a) Central
+b) Periférica
+c) Bell
+d) Ramsay Hunt
+[RESPUESTA] M2-T21 | P2
+Respuesta correcta: a
+Explicación: La parte superior de la cara tiene inervación bilateral.
+[PREGUNTA] M2-T21 | P3
+3. Hacia dónde se desvía la lengua en lesión del XII?
+a) Hacia el lado sano
+b) Hacia el lado lesionado
+c) No se desvía
+d) Hacia arriba
+[RESPUESTA] M2-T21 | P3
+Respuesta correcta: b
+Explicación: El geniogloso débil del lado lesionado no empuja.
+[FLASHCARD] M2-T21 | F1
+P: ¿Nervio eferente del reflejo corneal?
+R: Facial (VII).
+[FLASHCARD] M2-T21 | F2
+P: ¿Par que inerva el recto lateral?
+R: VI.
+[FLASHCARD] M2-T21 | F3
+P: ¿Rinne normal?
+R: Conducción aérea mayor que ósea.
+[FLASHCARD] M2-T21 | F4
+P: ¿Tratamiento de Bell?
+R: Corticoide temprano y protección ocular.
+[METADATOS] M2-T21
+Metadatos
+Módulo: Neurología | Tema: Evaluación de pares craneales, sensibilidad y motricidad
+Conceptos clave: pares craneales, parálisis facial, Rinne, Weber, LR6 SO4
+Diagnósticos relacionados: Bell, ACV, neuralgia del trigémino, lesión del III par
+Medicamentos: prednisona, carbamazepina
+Pruebas: examen de pares craneales, audiometría, RM
+Dificultad: básica a intermedia
+Fuentes: DeJong, Bates (verificar edición vigente)
+
+
+===== PAGE 70 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 70
+[TEMA] M2-T22 | Evaluación cerebelosa
+M2-T22. Evaluación cerebelosa
+[SECCIÓN] M2-T22 | A. Fundamentos
+A. Fundamentos
+Cerebelo: coordina movimiento, equilibrio y tono. Hemisferios (control de miembros ipsilaterales), vermis (tronco y
+marcha), lóbulo floculonodular (equilibrio y movimientos oculares). Vías: las lesiones cerebelosas producen síntomas
+ipsilaterales (doble decusación). Causas: ACV cerebeloso, alcohol (atrofia del vermis), esclerosis múltiple, tumores
+(meduloblastoma en niños, hemangioblastoma), fármacos (fenitoína, litio), déficits nutricionales (B12, vitamina E, tiamina),
+hipotiroidismo, síndromes paraneoplásicos, ataxias hereditarias.
+[SECCIÓN] M2-T22 | B. Manifestaciones clínicas
+B. Manifestaciones clínicas
+• Dismetría (error de alcance), disdiadococinesia (movimientos alternos torpes), temblor intencional (aumenta al
+acercarse al objetivo), hipotonía, fenómeno de rebote.
+• Ataxia de la marcha (base amplia, ebria), nistagmo, disartria escándida (habla entrecortada, explosiva).
+• Banderas rojas: cefalea intensa, vómito, alteración de conciencia (infarto o hemorragia cerebelosa con efecto de masa;
+urgencia neuroquirúrgica).
+[SECCIÓN] M2-T22 | C. Semiología y evaluación
+C. Semiología y evaluación
+Maniobras: dedo-nariz (error al alcanzar y temblor intencional), talón-rodilla, movimientos alternos rápidos de las
+manos, rebote (Holmes: el brazo contra resistencia se dispara al soltarlo), marcha (base amplia, caminar en tándem),
+Romberg (en ataxia cerebelosa el desequilibrio ocurre con ojos abiertos y cerrados; en ataxia sensitiva empeora al cerrar
+los ojos), nistagmo, habla.
+Documentación: "Dismetría derecha en la prueba dedo-nariz, disdiadococinesia derecha, marcha atáxica de base
+amplia."
+[SECCIÓN] M2-T22 | D. Diagnóstico
+D. Diagnóstico
+RM cerebral (difusión para infarto, tumor, desmielinización); laboratorio (B12, TSH, vitamina E, alcohol, fármacos);
+estudios genéticos o paraneoplásicos según el contexto.
+[SECCIÓN] M2-T22 | E. Tratamiento
+E. Tratamiento
+Tratar la causa: ACV, déficit vitamínico, supresión de alcohol y tiamina, suspender el fármaco, tratamiento del tumor.
+Rehabilitación y fisioterapia. Infarto cerebeloso con efecto de masa: craniectomía suboccipital.
+[SECCIÓN] M2-T22 | F. Razonamiento clínico
+F. Razonamiento clínico
+Síntomas ipsilaterales a la lesión. Ataxia con ojos abiertos: cerebelosa; solo con ojos cerrados: sensitiva. Inicio agudo con
+vértigo, cefalea y vómito: pensar en ACV cerebeloso (HINTS). Errores: confiar en una TC normal; no reconocer
+hemorragia cerebelosa.
+[SECCIÓN] M2-T22 | G. Aplicación al ECOE
+G. Aplicación al ECOE
+Entradilla: "Paciente con inestabilidad al caminar y torpeza en la mano derecha." Debe hacer: realizar dedo-nariz,
+talón-rodilla, disdiadococinesia, marcha y Romberg; interpretar y plantear estudios. Errores críticos: no comparar lados;
+confundir ataxia sensitiva con cerebelosa.
+[ESTACIÓN] M2-T22 | Examen cerebeloso (7 minutos)
+Estación ECOE: Examen cerebeloso (7 minutos)
+• Instrucción: evaluar la coordinación y marcha. Esperado: maniobras correctas, interpretación de dismetría y ataxia.
+
+
+===== PAGE 71 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 71
+Tabla y algoritmo
+[TABLA] M2-T22 | Ataxia cerebelosa vs. sensitiva
+Ataxia cerebelosa vs. sensitiva
+Rasgo
+Cerebelosa
+Sensitiva
+Romberg
+Inestable con ojos abiertos
+Empeora al cerrar los ojos
+Marcha
+Base amplia
+Golpea el suelo con los talones
+Nistagmo y disartria
+Presentes
+Ausentes
+Propiocepción
+Normal
+Alterada
+Reflejos
+Normales o pendulares
+Disminuidos
+[ALGORITMO] M2-T22 | Ataxia
+Algoritmo: Ataxia
+1. Clasificar: cerebelosa, sensitiva o vestibular.
+2. Agudo con cefalea y vómito: RM urgente, descartar infarto o hemorragia.
+3. Crónico: laboratorio (B12, TSH, vitamina E, alcohol, fármacos), RM.
+4. Tratar causa y rehabilitar.
+[SECCIÓN] M2-T22 | H. Repaso de alto rendimiento
+H. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) lesión cerebelosa: síntomas ipsilaterales; (2) dismetría y disdiadococinesia;
+(3) vermis: marcha; hemisferio: miembros; (4) Romberg inestable con ojos abiertos; (5) hemorragia cerebelosa es
+urgencia.
+[CASO] M2-T22 | CASO-1
+Caso clínico 1: Hombre alcohólico con marcha inestable
+Hombre de 55 años, alcohólico crónico, con marcha de base amplia progresiva, sin dismetría en brazos ni nistagmo.
+Talón-rodilla alterado. Diagnóstico.
+[SOLUCIÓN] M2-T22 | CASO-1
+Degeneración cerebelosa alcohólica (vermis). Suspender alcohol, tiamina y soporte nutricional, rehabilitación.
+[PREGUNTA] M2-T22 | P1
+1. Lesión del hemisferio cerebeloso derecho produce signos:
+a) Izquierdos
+b) Derechos
+c) Bilaterales siempre
+d) Ninguno
+[RESPUESTA] M2-T22 | P1
+Respuesta correcta: b
+Explicación: Las vías cerebelosas cruzan dos veces, de modo que el déficit es ipsilateral.
+[PREGUNTA] M2-T22 | P2
+2. ¿Prueba del talón-rodilla evalúa?
+a) Fuerza
+b) Coordinación de miembros inferiores
+c) Sensibilidad
+d) Reflejos
+[RESPUESTA] M2-T22 | P2
+Respuesta correcta: b
+Explicación: Detecta dismetría en piernas.
+
+
+===== PAGE 72 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 72
+[PREGUNTA] M2-T22 | P3
+3. Ataxia que empeora al cerrar los ojos:
+a) Cerebelosa
+b) Sensitiva
+c) Vestibular central
+d) Frontal
+[RESPUESTA] M2-T22 | P3
+Respuesta correcta: b
+Explicación: Falta de propiocepción compensada por la visión.
+[FLASHCARD] M2-T22 | F1
+P: ¿Estructura de la marcha?
+R: Vermis.
+[FLASHCARD] M2-T22 | F2
+P: ¿Habla en lesión cerebelosa?
+R: Disartria escándida.
+[FLASHCARD] M2-T22 | F3
+P: ¿Prueba de coordinación de brazo?
+R: Dedo-nariz.
+[FLASHCARD] M2-T22 | F4
+P: ¿Causa tóxica frecuente de atrofia del vermis?
+R: Alcohol.
+[METADATOS] M2-T22
+Metadatos
+Módulo: Neurología | Tema: Evaluación cerebelosa
+Conceptos clave: dismetría, disdiadococinesia, ataxia, vermis, ipsilateralidad
+Diagnósticos relacionados: ACV cerebeloso, atrofia alcohólica, esclerosis múltiple, tumor
+Medicamentos: tiamina
+Pruebas: dedo-nariz, talón-rodilla, Romberg, RM
+Dificultad: intermedia
+Fuentes: DeJong, Adams y Victor (verificar edición vigente)
+
+
+===== PAGE 73 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 73
+[TEMA] M2-T23 | Farmacología neurológica
+M2-T23. Farmacología neurológica
+[SECCIÓN] M2-T23 | A. Fundamentos
+A. Fundamentos
+Este tema reúne los grupos del programa: farmacología del dolor, antiparkinsonianos, anticonvulsivantes, sedantes
+e hipnóticos, antidepresivos, ansiolíticos, antipsicóticos y antidemenciales. Para cada grupo: mecanismo,
+indicación, efectos adversos relacionados con el mecanismo, y precauciones. Las dosis se omiten salvo cuando están
+ampliamente aceptadas; confirmar con la guía local.
+[SECCIÓN] M2-T23 | B. Farmacología del dolor
+B. Farmacología del dolor
+[TABLA] M2-T23 | Analgésicos
+Analgésicos
+Grupo
+Ejemplos
+Mecanismo
+Efectos adversos o
+precauciones
+AINE
+Ibuprofeno, naproxeno,
+diclofenaco
+Inhiben COX-1 y COX-2 (menos
+prostaglandinas)
+Úlcera, sangrado, daño renal,
+riesgo cardiovascular
+Paracetamol
+Paracetamol
+Acción central, inhibe COX
+central
+Hepatotoxicidad en sobredosis
+Opioides
+Morfina, tramadol, fentanilo
+Agonistas de receptores mu
+Depresión respiratoria,
+estreñimiento, náusea,
+dependencia; antídoto naloxona
+Gabapentinoides
+Gabapentina, pregabalina
+Se unen a la subunidad
+alfa-2-delta de canales de calcio
+Somnolencia, mareo, edema
+Antidepresivos para dolor
+neuropático
+Amitriptilina, duloxetina
+Inhiben recaptación de
+serotonina y noradrenalina
+Anticolinérgicos (amitriptilina),
+náusea
+Anticonvulsivante en neuralgia
+del trigémino
+Carbamazepina
+Bloquea canales de sodio
+Hiponatremia, interacciones,
+reacciones cutáneas
+Escalera analgésica de la OMS: no opioides; opioides débiles; opioides potentes; adyuvantes según tipo de dolor. El
+dolor neuropático responde a gabapentinoides, duloxetina o amitriptilina más que a AINE.
+[SECCIÓN] M2-T23 | C. Antiparkinsonianos
+C. Antiparkinsonianos
+Resumen (ver M2-T10): levodopa-carbidopa (precursor de dopamina con inhibidor de descarboxilasa periférica),
+agonistas dopaminérgicos (pramipexol, ropinirol), inhibidores de MAO-B (selegilina, rasagilina), inhibidores de COMT
+(entacapona), amantadina, anticolinérgicos. Evitar metoclopramida y antipsicóticos típicos.
+[SECCIÓN] M2-T23 | D. Anticonvulsivantes
+D. Anticonvulsivantes
+[TABLA] M2-T23 | Anticonvulsivantes
+Anticonvulsivantes
+Fármaco
+Mecanismo
+Indicación principal
+Efectos adversos clave
+Fenitoína
+Bloquea canales de sodio
+dependientes de voltaje
+Focales, estado epiléptico
+Hiperplasia gingival, hirsutismo,
+ataxia, cinética de saturación,
+teratogenia
+Carbamazepina
+Bloquea canales de sodio
+Focales, neuralgia del trigémino
+Hiponatremia, Stevens-Johnson
+(HLA-B*1502), inducción
+enzimática
+Lamotrigina
+Bloquea canales de sodio
+Focales y generalizadas
+Rash grave (Stevens-Johnson),
+ajuste lento
+
+
+===== PAGE 74 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 74
+Fármaco
+Mecanismo
+Indicación principal
+Efectos adversos clave
+Valproato
+Canales de sodio, aumenta
+GABA
+Generalizadas, mioclónicas,
+ausencias
+Teratogenia, hepatotoxicidad,
+pancreatitis, temblor, aumento
+de peso
+Etosuximida
+Bloquea canales de calcio tipo T
+Ausencias
+Gastrointestinales, somnolencia
+Levetiracetam
+Se une a SV2A
+Focales y generalizadas
+Irritabilidad, alteraciones del
+ánimo
+Topiramato
+Múltiples (sodio, GABA, AMPA)
+Focales, migraña
+Parestesias, cálculos renales,
+cognitivo, acidosis
+Fenobarbital
+Potencia GABA-A
+Neonatal, refractarias
+Sedación, inducción enzimática
+Benzodiacepinas
+Aumentan frecuencia de
+apertura de GABA-A
+Estado epiléptico
+Depresión respiratoria,
+tolerancia
+Interacciones: carbamazepina, fenitoína y fenobarbital inducen CYP450 y reducen la eficacia de anticonceptivos orales,
+anticoagulantes y otros fármacos; el valproato inhibe el metabolismo de lamotrigina.
+[SECCIÓN] M2-T23 | E. Sedantes e hipnóticos y ansiolíticos
+E. Sedantes e hipnóticos y ansiolíticos
+[TABLA] M2-T23 | Sedantes, hipnóticos y ansiolíticos
+Sedantes, hipnóticos y ansiolíticos
+Grupo
+Ejemplos
+Mecanismo
+Efectos adversos o
+precauciones
+Benzodiacepinas
+Diazepam, lorazepam,
+alprazolam
+Aumentan la frecuencia de
+apertura del canal de cloro
+GABA-A
+Sedación, amnesia,
+dependencia, depresión
+respiratoria con alcohol u
+opioides; antídoto flumazenil
+Fármacos Z
+Zolpidem, zopiclona
+Agonistas selectivos del receptor
+GABA-A
+Conductas complejas del sueño,
+tolerancia
+Barbitúricos
+Fenobarbital
+Aumentan la duración de
+apertura del canal de cloro
+Margen terapéutico estrecho
+Buspirona
+Buspirona
+Agonista parcial 5-HT1A
+Mareo; sin dependencia, inicio
+lento
+ISRS e IRSN
+Sertralina, escitalopram,
+venlafaxina
+Inhiben recaptación de
+serotonina
+Primera línea en trastornos de
+ansiedad crónicos
+[SECCIÓN] M2-T23 | F. Antidepresivos
+F. Antidepresivos
+[TABLA] M2-T23 | Antidepresivos
+Antidepresivos
+Grupo
+Ejemplos
+Mecanismo
+Efectos adversos clave
+ISRS
+Fluoxetina, sertralina,
+escitalopram
+Bloquean transportador de
+serotonina
+Náusea, disfunción sexual,
+hiponatremia, sangrado,
+síndrome serotoninérgico
+IRSN
+Venlafaxina, duloxetina
+Bloquean recaptación de
+serotonina y noradrenalina
+Hipertensión, sudoración
+Tricíclicos
+Amitriptilina, nortriptilina
+Bloquean recaptación de
+noradrenalina y serotonina;
+efecto antimuscarínico y
+alfa-bloqueante
+Anticolinérgicos, hipotensión,
+arritmias, toxicidad en
+sobredosis
+IMAO
+Fenelzina, tranilcipromina
+Inhiben MAO
+Crisis hipertensiva con tiramina,
+síndrome serotoninérgico
+Atípicos
+Mirtazapina, bupropión
+Antagonista alfa-2 y 5-HT2/H1
+(mirtazapina); inhibe recaptación
+de dopamina y noradrenalina
+(bupropión)
+Sedación y aumento de peso
+(mirtazapina); convulsiones
+(bupropión)
+
+
+===== PAGE 75 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 75
+Puntos clave: el efecto tarda 2 a 4 semanas; vigilar riesgo suicida en adolescentes y adultos jóvenes al inicio; síndrome
+serotoninérgico (hipertermia, clonus, agitación, hiperreflexia, diarrea) por combinaciones serotoninérgicas; no suspender
+de forma brusca (síndrome de discontinuación).
+[SECCIÓN] M2-T23 | G. Antipsicóticos
+G. Antipsicóticos
+[TABLA] M2-T23 | Antipsicóticos
+Antipsicóticos
+Grupo
+Ejemplos
+Mecanismo
+Efectos adversos clave
+Típicos
+Haloperidol, clorpromazina
+Antagonismo del receptor D2
+Extrapiramidales (distonía
+aguda, acatisia, parkinsonismo,
+discinesia tardía),
+hiperprolactinemia, prolongación
+de QT, síndrome neuroléptico
+maligno
+Atípicos
+Risperidona, olanzapina,
+quetiapina, aripiprazol
+Antagonismo 5-HT2A y D2
+(aripiprazol, agonista parcial D2)
+Aumento de peso, diabetes y
+dislipidemia (olanzapina),
+hiperprolactinemia (risperidona),
+sedación (quetiapina)
+Clozapina
+Clozapina
+Antagonismo débil D2 y
+múltiples receptores
+Agranulocitosis (hemograma
+obligatorio), convulsiones,
+miocarditis, sialorrea; para
+esquizofrenia resistente
+Síndrome neuroléptico maligno: fiebre, rigidez muscular, alteración de conciencia, inestabilidad autonómica, CK
+elevada; suspender el fármaco, soporte, dantroleno o bromocriptina.
+[SECCIÓN] M2-T23 | H. Antidemenciales
+H. Antidemenciales
+Ver M2-T18: donepezilo, rivastigmina, galantamina (inhibidores de colinesterasa; bradicardia, náusea, diarrea) y
+memantina (antagonista NMDA; mareo, confusión).
+[SECCIÓN] M2-T23 | I. Razonamiento clínico
+I. Razonamiento clínico
+Elegir según mecanismo, comorbilidad y interacciones: valproato evitado en mujeres fértiles; carbamazepina evitada en
+ausencias; amitriptilina evitada en ancianos; antipsicóticos típicos evitados en Parkinson o Lewy; benzodiacepinas
+evitadas en ancianos y demencia. Errores: combinar IMAO con ISRS; suspender carbamazepina o lamotrigina
+bruscamente; olvidar el hemograma con clozapina.
+[SECCIÓN] M2-T23 | J. Aplicación al ECOE
+J. Aplicación al ECOE
+Debe hacer: justificar la elección con mecanismo y comorbilidad, explicar efectos adversos y advertir interacciones,
+educar sobre adherencia. Errores críticos: prescribir valproato a una mujer en edad fértil sin advertencia; combinar
+antidepresivos serotoninérgicos sin precaución; no reconocer síndrome neuroléptico maligno.
+[ESTACIÓN] M2-T23 | Prescripción razonada (7 minutos)
+Estación ECOE: Prescripción razonada (7 minutos)
+• Instrucción: elegir el tratamiento para una mujer de 25 años con epilepsia generalizada que desea embarazo.
+Esperado: lamotrigina o levetiracetam, evitar valproato, ácido fólico, consejería.
+Algoritmo
+[ALGORITMO] M2-T23 | Elección de fármaco neurológico
+Algoritmo: Elección de fármaco neurológico
+1. Identificar el diagnóstico y el mecanismo apropiado.
+2. Revisar comorbilidad, embarazo, edad e interacciones.
+3. Elegir primera línea y explicar efectos adversos.
+
+
+===== PAGE 76 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 76
+4. Monitorizar eficacia, niveles o laboratorio cuando corresponda.
+[SECCIÓN] M2-T23 | K. Repaso de alto rendimiento
+K. Repaso de alto rendimiento
+Si solo pudiera recordar cinco cosas: (1) valproato es teratógeno; (2) carbamazepina e hiponatremia, e inducción
+enzimática; (3) ISRS y síndrome serotoninérgico; (4) antipsicóticos típicos y síntomas extrapiramidales; (5) clozapina
+exige hemograma.
+[CASO] M2-T23 | CASO-1
+Caso clínico 1: Paciente con rigidez y fiebre tras haloperidol
+Hombre de 30 años en tratamiento con haloperidol presenta fiebre de 40 grados, rigidez, confusión, taquicardia y CK de
+8.000. Diagnóstico y manejo.
+[SOLUCIÓN] M2-T23 | CASO-1
+Síndrome neuroléptico maligno. Suspender el antipsicótico, hidratación y enfriamiento, UCI, benzodiacepinas, dantroleno
+o bromocriptina; vigilar rabdomiólisis y falla renal.
+[PREGUNTA] M2-T23 | P1
+1. ¿Mecanismo de las benzodiacepinas?
+a) Bloquean canales de sodio
+b) Aumentan la frecuencia de apertura del canal de cloro GABA-A
+c) Inhiben MAO
+d) Antagonizan receptores NMDA
+[RESPUESTA] M2-T23 | P1
+Respuesta correcta: b
+Explicación: Potencian la acción del GABA.
+[PREGUNTA] M2-T23 | P2
+2. ¿Efecto adverso grave de la lamotrigina?
+a) Rash grave tipo Stevens-Johnson
+b) Hiperplasia gingival
+c) Pancreatitis
+d) Agranulocitosis
+[RESPUESTA] M2-T23 | P2
+Respuesta correcta: a
+Explicación: Se previene con ajuste lento de la dosis.
+[PREGUNTA] M2-T23 | P3
+3. ¿Antipsicótico que exige hemograma seriado?
+a) Haloperidol
+b) Clozapina
+c) Risperidona
+d) Quetiapina
+[RESPUESTA] M2-T23 | P3
+Respuesta correcta: b
+Explicación: Puede causar agranulocitosis.
+[FLASHCARD] M2-T23 | F1
+P: ¿Antídoto de benzodiacepinas?
+R: Flumazenil.
+[FLASHCARD] M2-T23 | F2
+P: ¿Antídoto de opioides?
+R: Naloxona.
+[FLASHCARD] M2-T23 | F3
+P: ¿Mecanismo de ISRS?
+R: Bloquean el transportador de serotonina.
+
+
+===== PAGE 77 =====
+
+Guía ECOE - Módulo II: Neurología
+Página 77
+[FLASHCARD] M2-T23 | F4
+P: ¿Anticonvulsivante de ausencias?
+R: Etosuximida o valproato.
+[FLASHCARD] M2-T23 | F5
+P: ¿Fármaco para dolor neuropático?
+R: Gabapentinoides, duloxetina o amitriptilina.
+[METADATOS] M2-T23
+Metadatos
+Módulo: Neurología | Tema: Farmacología neurológica
+Conceptos clave: mecanismo, efectos adversos, interacciones, síndrome serotoninérgico, síndrome neuroléptico
+maligno
+Diagnósticos relacionados: epilepsia, dolor neuropático, depresión, ansiedad, psicosis, demencia
+Medicamentos: AINE, opioides, gabapentinoides, antiepilépticos, benzodiacepinas, ISRS, tricíclicos, antipsicóticos,
+antidemenciales
+Pruebas: hemograma, sodio, función hepática, niveles según fármaco
+Dificultad: intermedia a alta
+Fuentes: Goodman y Gilman, Katzung, Rang y Dale (verificar edición vigente)
